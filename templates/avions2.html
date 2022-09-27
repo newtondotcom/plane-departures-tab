@@ -1,0 +1,49 @@
+<html>
+<head>
+<link rel="stylesheet" href="/static/avions2.css" />
+<meta>  <title>Horaires du crackito</title> 
+<link rel = "icon" href = "https://i.ibb.co/DpxdWdZ/3030.png"  type = "image/x-icon">
+<script href="/static/av2.js" crossorigin="anonymous"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+<meta http-equiv="refresh" content="300">
+</head>
+
+
+
+  <body>
+    <h1><i class="fas fa-plane-departure"></i>Departures</h1>
+
+<div class="grid-container">
+{% for t in rep %}
+    <tr>
+
+    {% for i in t %}
+    <div class="grid-item"> <center> 
+    <div class="departure-board">
+		{% for j in i %}
+			
+    <span class="letter letter-{{j}}"></span>
+	
+    {% endfor %}
+    <!--<span class="letter letter-blank"></span>-->
+    </div>
+    </div> 
+		{% endfor %}
+     
+    </tr>
+    <!--<div id="just-line-break"></div>-->
+{% endfor %}
+</div> 
+    
+
+  </body>
+</html
+
+
+
+
+
+
+  
+
+

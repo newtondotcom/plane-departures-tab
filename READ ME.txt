@@ -1,0 +1,6 @@
+hi, 
+Here is a .py script based on Flask which allows you to display an airport-themed departure screen from the airpod of your choice. 
+You can change it icao code and must replace the apikey for airlabs.co (which is free)
+
+Enjoy
+newtondotcom
