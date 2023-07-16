@@ -1,7 +1,6 @@
 body {
   background-color: #1d1e1e;
   font-family: "Fire Sans", sans-serif;
-  overflow: hidden;
 }
 
 #just-line-break {
@@ -10,7 +9,7 @@ body {
 
 .grid-container {
   display: grid;
-  grid-template-columns: 20% 26% 14% 10% 10% 10% ;
+  grid-template-columns: 17% 29% 14% 10% 10% 10% ;
   background-color: lightblue;
   padding: 10px;
   width: 110%;
@@ -19,10 +18,11 @@ body {
   background-color: lightblue;
   border: 1px solid lightblue;
   padding: 20px 0;
-  font-size: 10px;
+  font-size: 9px;
   margin : 0;
   width: fit-content;
-  flex-wrap: wrap;
+  word-wrap: break-word;
+  align-items: center;
 }
 
 h1 {

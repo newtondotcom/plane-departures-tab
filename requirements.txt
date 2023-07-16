@@ -1,5 +1,5 @@
 python-dotenv
 flask
-numpy
 requests
 gunicorn
+numpy

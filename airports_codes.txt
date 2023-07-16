@@ -72,21 +72,21 @@ ADH	"ALDAN                        "	770
 ADI	"ARANDIS               "	575
 ADJ	"AMMAN-CIVIL                "	639
 ADK	"ADAK ISLAND               "	1
-ADL	"ADELAIDE S.               "	802
+ADL	"ADELAIDE S               "	802
 ADM	"ARDMORE                "	73
 ADN	"ANDES                     "	327
-ADO	"ANDAMOOKA S.              "	802
+ADO	"ANDAMOOKA S              "	802
 ADP	"ANURADHAPURA              "	711
 ADQ	"KODIAK                    "	1
 ADR	"ANDREWS         "	37
-ADS	"DALLAS/FT. WORTH           "	74
+ADS	"DALLAS/FT WORTH           "	74
 ADT	"ADA                    "	73
 ADU	"ARDABIL        "	632
 ADV	"ANDOVER                 "	493
 ADW	"ANDREWS AFB MARYLAND           "	35
-ADX	"ST. ANDREWS K           "	493
+ADX	"ST ANDREWS K           "	493
 ADY	"ALLDAYS                "	562
-ADZ	"SAN ANDRES IS.            "	327
+ADZ	"SAN ANDRES IS            "	327
 AEA	"ABEMAMA     "	824
 AEG	"AEK GODANG               "	832
 AEH	"ABECHER CHAD                      "	511
@@ -107,7 +107,7 @@ AFN	"JAFFREY           "	14
 AFO	"AFTON                    "	88
 AFR	"AFORE            "	804
 AFT	"AFUTARA             "	874
-AFW	"DALLAS/FT. WORTH           "	74
+AFW	"DALLAS/FT WORTH           "	74
 AFY	"AFYON                        "	679
 AGA	"AGADIR                     "	548
 AGB	"AUGSBURG                    "	429
@@ -128,12 +128,12 @@ AGP	"MALAGA                       "	482
 AGQ	"AGRINION                     "	433
 AGR	"AGRA                         "	733
 AGS	"AUGUSTA                  "	34
-AGT	"CIUDAD PRES. STROESSNER    "	365
+AGT	"CIUDAD PRES STROESSNER    "	365
 AGU	"AGUASCALIENTES             "	148
 AGV	"ACARIGUA                 "	388
 AGW	"AGNEW               "	802
 AGX	"AGATTI ISLAND                "	733
-AGY	"ARGYLE DOWNS W.           "	802
+AGY	"ARGYLE DOWNS W           "	802
 AGZ	"AGGENEYS               "	562
 AHA	"OKINAWA            "	736
 AHB	"ABHA                  "	670
@@ -155,7 +155,7 @@ AIC	"AIROK              "	844
 AID	"ANDERSON NA               "	42
 AIE	"AIOME            "	804
 AIF	"ASSIS                        "	316
-AIG	"YALINGA CEN. AFRICAN REPUBLIC     "	509
+AIG	"YALINGA CEN AFRICAN REPUBLIC     "	509
 AII	"ALI SABIEH    "	525
 AIK	"AIKEN           "	37
 AIL	"AILIGANDI           "	162
@@ -165,8 +165,8 @@ AIO	"ATLANTIC                 "	61
 AIP	"AILINGLAPALAP      "	844
 AIR	"ARIPUANA MT                 "	316
 AIS	"ARORAE             "	824
-AIT	"AITUTAKI COOK IS. S. PACIFIC     "	813
-AIU	"ATIU COOK IS. S. PACIFIC         "	813
+AIT	"AITUTAKI COOK IS S PACIFIC     "	813
+AIU	"ATIU COOK IS S PACIFIC         "	813
 AIV	"ALICEVILLE              "	51
 AIY	"ATLANTIC CITY         "	21
 AIZ	"LAKE OF THE OZARKS      "	64
@@ -174,7 +174,7 @@ AJA	"AJACCIO CORSICA              "	427
 AJF	"JOUF                  "	670
 AJJ	"AKJOUJT                 "	545
 AJL	"AIJAL                        "	733
-AJN	"ANJOUAN COMORO IS.                "	513
+AJN	"ANJOUAN COMORO IS                "	513
 AJO	"ALJOUF                        "	694
 AJR	"ARVIDSJAUR                  "	484
 AJS	"ABREOJOS                    "	148
@@ -210,7 +210,7 @@ ALD	"ALERTA                        "	368
 ALE	"ALPINE                     "	74
 ALF	"ALTA                         "	465
 ALG	"ALGIERS                     "	500
-ALH	"ALBANY W.                 "	802
+ALH	"ALBANY W                 "	802
 ALI	"ALICE                      "	74
 ALJ	"ALEXANDER BAY          "	562
 ALK	"ASELA                      "	522
@@ -248,11 +248,11 @@ AMP	"AMPANIHY         "	541
 AMQ	"AMBON                    "	832
 AMR	"ARNO               "	844
 AMS	"AMSTERDAM               "	461
-AMT	"AMATA N.T.               "	802
+AMT	"AMATA NT               "	802
 AMU	"AMANAB           "	804
 AMV	"AMDERMA                      "	770
 AMW	"AMES                     "	61
-AMX	"AMMAROO N.T.             "	802
+AMX	"AMMAROO NT             "	802
 AMY	"AMBATOMAINTY     "	541
 AMZ	"ARDMORE                "	851
 ana	"ANAA     "	823
@@ -278,7 +278,7 @@ ANV	"ANVIK                     "	1
 ANW	"AINSWORTH               "	65
 ANX	"ANDENES                      "	465
 ANY	"ANTHONY                   "	62
-ANZ	"ANGAS DOWNS N.T.         "	802
+ANZ	"ANGAS DOWNS NT         "	802
 AOA	"AROA             "	804
 AOB	"ANNANBERG        "	804
 AOC	"ALTENBURG        "	429
@@ -338,7 +338,7 @@ ARJ	"ARSO                     "	832
 ARK	"ARUSHA                    "	585
 ARL	"ARLY                  "	593
 ARM	"ARMIDALE           "	802
-ARN	"STOCKHOLM .                 "	484
+ARN	"STOCKHOLM                  "	484
 ARO	"ARBOLETAS                 "	327
 ARP	"ARAGIP           "	804
 ARQ	"ARAUQUITA                 "	327
@@ -349,7 +349,7 @@ ARU	"ARACATUBA                    "	316
 ARV	"MINOCQUA             "	45
 ARW	"ARAD                        "	473
 ARX	"ASBURY PARK           "	21
-ARY	"ARARAT VIC.              "	802
+ARY	"ARARAT VIC              "	802
 ARZ	"N'ZETO                       "	502
 ASA	"ASSAB                       "	523
 ASB	"ASHKHABAD             "	785
@@ -359,14 +359,14 @@ ASE	"ASPEN                   "	82
 ASF	"ASTRAKHAN                    "	475
 ASG	"ASHBURTON              "	851
 ASH	"NASHUA             "	14
-ASI	"ASCENSION ISLAND ST. HELENA       "	580
+ASI	"ASCENSION ISLAND ST HELENA       "	580
 ASJ	"AMAMI O SHIMA                 "	736
 ASK	"YAMOUSSOUKRO          "	533
 ASL	"MARSHALL                   "	74
 ASM	"ASMARA                      "	523
 ASN	"TALLADEGA               "	51
 ASO	"ASOSA                      "	522
-ASP	"ALICE SPRINGS N.T.       "	802
+ASP	"ALICE SPRINGS NT       "	802
 ASQ	"AUSTIN                    "	85
 ASR	"KAYSERI                      "	679
 AST	"ASTORIA                  "	92
@@ -429,7 +429,7 @@ AUY	"ANEITYUM                    "	885
 AUZ	"AURORA                 "	41
 AVB	"AVIANO                        "	450
 AVC	"AVON                    "	82
-AVG	"AUVERGNE N.T.            "	802
+AVG	"AUVERGNE NT            "	802
 AVI	"CIEGO DE AVILA                "	219
 AVK	"ARVAIKHEER                 "	751
 AVL	"ASHEVILLE        "	36
@@ -447,7 +447,7 @@ AWE	"ALOWE                         "	526
 AWH	"AWAREH                     "	522
 AWK	"WAKE ISLAND          "	5
 AWM	"WEST MEMPHIS AR           "	71
-AWN	"ALTON DOWNS S.            "	802
+AWN	"ALTON DOWNS S            "	802
 AWP	"AUSTRAL DOWNS       "	802
 AWR	"AWAR             "	804
 AWZ	"AHWAZ                          "	632
@@ -457,7 +457,7 @@ AXC	"ARAMAC              "	802
 AXD	"ALEXANDROUPOLIS              "	433
 AXG	"ALGONA                   "	61
 AXK	"ATAQ                          "	694
-AXL	"ALEXANDRIA N.T.          "	802
+AXL	"ALEXANDRIA NT          "	802
 AXM	"                   "	327
 AXN	"ALEXANDRIA            "	63
 AXP	"SPRING POINT               "	204
@@ -469,15 +469,15 @@ AXV	"WAPAKONETA                  "	44
 AXX	"ANGEL FIRE            "	86
 AYA	"AYAPEL                    "	327
 AYC	"AYACUCHO                  "	327
-AYD	"ALROY DOWNS N.T.         "	802
+AYD	"ALROY DOWNS NT         "	802
 AYG	"YAGUARA                   "	327
 AYI	"YARI                      "	327
 AYK	"ARKALYK                  "	738
-AYL	"ANTHONY LAGOON N.T. AUST.        "	802
+AYL	"ANTHONY LAGOON NT AUST        "	802
 AYN	"ANYANG               "	713
 AYO	"AYOLAS                     "	365
 AYP	"AYACUCHO                      "	368
-AYQ	"AYERS ROCK N.T.          "	802
+AYQ	"AYERS ROCK NT          "	802
 AYR	"AYR                 "	802
 AYS	"WAYCROSS                 "	34
 AYT	"ANTALYA                      "	679
@@ -500,7 +500,7 @@ BAD	"SHREVEPORT            "	72
 BAE	"BARCELONNETTE                 "	427
 BAF	"WESTFIELD        "	13
 BAG	"BAGUIO                  "	766
-BAH	"BAHRAIN IS. BAHRAIN               "	605
+BAH	"BAHRAIN IS BAHRAIN               "	605
 BAI	"BUENOS AIRES            "	110
 BAJ	"BALI             "	804
 BAK	"BAKU                    "	407
@@ -523,7 +523,7 @@ BBA	"BALMACEDA CHILE                   "	324
 BBB	"BENSON                "	63
 BBC	"BAY CITY                   "	74
 BBD	"BRADY                      "	74
-BBE	"BIG BELL W.               "	802
+BBE	"BIG BELL W               "	802
 BBF	"BURLINGTON       "	13
 BBG	"BUTARITARI  "	824
 BBH	"BARTH                       "	429
@@ -549,7 +549,7 @@ BCB	"BLACKSBURG             "	38
 BCC	"BEAR                 "	1
 BCD	"BACOLOD                 "	766
 BCE	"BRYCE CANYON UTAH              "	87
-BCF	"BOUCA CEN. AFRICAN REPUBLIC       "	509
+BCF	"BOUCA CEN AFRICAN REPUBLIC       "	509
 BCG	"BEMICHI                      "	350
 BCH	"BAUCAU                   "	862
 BCI	"BARCALDINE          "	802
@@ -577,7 +577,7 @@ BDE	"BAUDETTE              "	63
 BDF	"BRADFORD               "	41
 BDG	"BLANDING UTAH                  "	87
 BDH	"BANDAR LENGEH                  "	632
-BDI	"BIRD IS. SEYCHELLES IS. N OCE"	570
+BDI	"BIRD IS SEYCHELLES IS N OCE"	570
 BDJ	"BANJARMASIN              "	832
 BDK	"BONDOUKOU              "	533
 BDL	"HARTFORD CT/SPRINGFIELD MA    "	11
@@ -591,12 +591,12 @@ BDS	"BRINDISI                      "	450
 BDT	"BADO LITE                   "	517
 BDU	"BARDUFOSS                    "	465
 BDV	"MOBA                        "	517
-BDW	"BEDFORD DOWNS W.          "	802
+BDW	"BEDFORD DOWNS W          "	802
 BDX	"BROADUS                 "	84
 BDY	"BANDON                   "	92
 BDZ	"BAINDOUNG        "	804
 BEA	"BEREINA          "	804
-BEB	"BENBECULA HEBRIDES IS. SCOT. U.K"	493
+BEB	"BENBECULA HEBRIDES IS SCOT UK"	493
 BED	"BEDFORD          "	13
 BEE	"BEAGLE              "	802
 BEF	"BLUEFIELDS NICARAGUA              "	153
@@ -606,11 +606,11 @@ BEI	"BEICA                      "	522
 BEJ	"BERAU                    "	832
 BEK	"RAE BARELI                   "	733
 BEL	"BELEM                        "	316
-BEM	"BOSSEMBELE CEN. AFRICAN REPUBLIC  "	509
+BEM	"BOSSEMBELE CEN AFRICAN REPUBLIC  "	509
 BEN	"BENGHAZI                     "	538
 BEO	"NEWCASTLE  A               "	802
 BEP	"BELLARY                      "	733
-BEQ	"BURY ST. EDMUNDS        "	493
+BEQ	"BURY ST EDMUNDS        "	493
 BER	"BERLIN                      "	429
 BES	"BREST                         "	427
 BET	"BETHEL                    "	1
@@ -634,7 +634,7 @@ BFN	"BLOEMFONTEIN           "	562
 BFO	"BUFFALO RANGE ZIMBABWE            "	565
 BFP	"TRENTON               "	23
 BFR	"BEDFORD NA                "	42
-BFS	"BELFAST N. IRELAND (U.K.)        "	493
+BFS	"BELFAST N IRELAND (UK)        "	493
 BFT	"BEAUFORT        "	37
 BFU	"BENGBU               "	713
 BFX	"BAFOUSSAM                "	504
@@ -667,7 +667,7 @@ BGZ	"BRAGA                     "	469
 BHA	"BAHIA                      "	337
 BHB	"BAR HARBOR                "	12
 BHC	"BHURBAN                    "	764
-BHD	"BELFAST N. IRELAND-HARBOUR U.K.  "	493
+BHD	"BELFAST N IRELAND-HARBOUR UK  "	493
 BHE	"BLENHEIM               "	851
 BHF	"BAHIA CUPICA              "	327
 BHG	"BRUS LAGUNA               "	131
@@ -675,7 +675,7 @@ BHH	"BISHA                 "	670
 BHI	"BAHIA BLANCA              "	303
 BHJ	"BHUJ                         "	733
 BHK	"BUKHARA                 "	788
-BHL	"BAHIA DE LOS ANGELES MEX.         "	148
+BHL	"BAHIA DE LOS ANGELES MEX         "	148
 BHM	"BIRMINGHAM              "	51
 BHN	"BEIHAN                        "	694
 BHO	"BHOPAL                       "	733
@@ -683,7 +683,7 @@ BHP	"BHOJPUR                      "	755
 BHQ	"BROKEN HILL        "	802
 BHR	"BHARATPUR                    "	755
 BHS	"BATHURST           "	802
-BHT	"BRIGHTON DOWNS Q.         "	802
+BHT	"BRIGHTON DOWNS Q         "	802
 BHU	"BHAVNAGAR                    "	733
 BHV	"BAHAWALPUR                 "	764
 BHX	"BIRMINGHAM         "	493
@@ -711,7 +711,7 @@ BIS	"BISMARCK         "	66
 BIT	"BAITADI                      "	755
 BIU	"BILDUDALUR                 "	439
 BIV	"BRIA           "	509
-BIW	"BILLILUNA W.              "	802
+BIW	"BILLILUNA W              "	802
 BIX	"BILOXI              "	53
 BIY	"BISHO                  "	562
 BIZ	"BIMIN            "	804
@@ -782,11 +782,11 @@ BLW	"WAIMANALO OAHU          "	2
 BLX	"BELLUNO                       "	450
 BLY	"BELMULLET       "	441
 BLZ	"BLANTYRE MALAWI                   "	542
-BMA	"STOCKHOLM .                 "	484
+BMA	"STOCKHOLM                  "	484
 BMB	"BUMBA                       "	517
 BMC	"BRIGHAM CITY UTAH              "	87
 BMD	"BELO             "	541
-BME	"BROOME W.                 "	802
+BME	"BROOME W                 "	802
 BMF	"BAKOUMA        "	509
 BMG	"BLOOMINGTON NA            "	42
 BMH	"BOMAI            "	804
@@ -797,12 +797,12 @@ BML	"BERLIN             "	14
 BMM	"BITAM                         "	526
 BMN	"BAMERNY IRAQ                      "	634
 BMO	"BHAMO                       "	706
-BMP	"BRAMPTON ISLAND Q.        "	802
+BMP	"BRAMPTON ISLAND Q        "	802
 BMQ	"BAMBURI                      "	535
 BMR	"BALTRUM                     "	429
 BMS	"BRUMADO                      "	316
 BMU	"BIMA                     "	832
-BMV	"BAN ME THUOT SOC.  "	791
+BMV	"BAN ME THUOT SOC  "	791
 BMW	"BORDJ BADJI MOKHTAR         "	500
 BMX	"BIG MOUNTAIN              "	1
 BMY	"BELEP                "	846
@@ -830,10 +830,10 @@ BNU	"BLUMENAU                     "	316
 BNV	"BOANA            "	804
 BNW	"BOONE                    "	61
 BNX	"BANJA LUKA BOSNIA & HERZEGOVINA   "	410
-BNY	"BELLONA IS.            "	874
+BNY	"BELLONA IS            "	874
 BNZ	"BANZ             "	804
 BOA	"BOMA                        "	517
-BOB	"BORA BORA SOC. IS.  "	823
+BOB	"BORA BORA SOC IS  "	823
 BOC	"BOCAS DEL TORO          "	162
 BOD	"BORDEAUX                      "	427
 BOE	"BOUNDJI    "	515
@@ -853,9 +853,9 @@ BOT	"BOSET            "	804
 BOU	"BOURGES                       "	427
 BOV	"BOANG            "	804
 BOW	"BARTOW                   "	33
-BOX	"BORROLOOLA N.T.          "	802
+BOX	"BORROLOOLA NT          "	802
 BOY	"BOBO DIOULASSO        "	593
-BOZ	"BOZOUM CEN. AFRICAN REPUBLIC      "	509
+BOZ	"BOZOUM CEN AFRICAN REPUBLIC      "	509
 BPA	"BETHPAGE               "	22
 BPB	"BORIDI           "	804
 BPC	"BAMENDA REPUBLIC OF      "	504
@@ -873,7 +873,7 @@ BPY	"BESALAMPY        "	541
 BQA	"BALER                   "	766
 BQE	"BUBAQUE  BISSAU             "	559
 BQH	"BIGGIN HILL             "	493
-BQK	"ST. SIMONS ISLAND        "	34
+BQK	"ST SIMONS ISLAND        "	34
 BQL	"BOULIA              "	802
 BQN	"AGUADILLA PUERTO RICO             "	3
 BQO	"BOUNA                  "	533
@@ -882,10 +882,10 @@ BQS	"BLAGOVESCHENSK               "	770
 BQT	"BREST BELARUS                     "	413
 BQU	"PORT ELIZABETH WINDWARD ISLANDS   "	279
 BQV	"GUSTAVUS                  "	1
-BQW	"BALGO HILLS W.            "	802
+BQW	"BALGO HILLS W            "	802
 BRA	"BARREIRAS                    "	316
 BRB	"BARREIRINHAS                 "	316
-BRC	"SAN CARLOS DE BARILOCHE ARG.      "	303
+BRC	"SAN CARLOS DE BARILOCHE ARG      "	303
 BRD	"BRAINERD              "	63
 BRE	"BREMEN                      "	429
 BRG	"WHITESBURG             "	52
@@ -899,9 +899,9 @@ BRN	"BERNE                   "	486
 BRO	"BROWNSVILLE                "	74
 BRP	"BIARU            "	804
 BRQ	"BRNO                "	418
-BRR	"BARRA HEBRIDES IS. SCOTLAND(U.K."	493
+BRR	"BARRA HEBRIDES IS SCOTLAND(UK"	493
 BRS	"BRISTOL            "	493
-BRT	"BATHURST ISLAND N.T. AUST.       "	802
+BRT	"BATHURST ISLAND NT AUST       "	802
 BRU	"BRUSSELS                   "	409
 BRV	"BREMERHAVEN                 "	429
 BRW	"BARROW                    "	1
@@ -916,7 +916,7 @@ BSE	"SEMATAN                   "	749
 BSG	"BATA EQUATORIAL             "	521
 BSH	"BRIGHTON                "	493
 BSI	"BLAIRSVILLE         "	23
-BSJ	"BAIRNSDALE VIC.          "	802
+BSJ	"BAIRNSDALE VIC          "	802
 BSK	"BISKRA                      "	500
 BSL	"BASEL                   "	486
 BSM	"AUSTIN                     "	74
@@ -936,7 +936,7 @@ BSZ	"BARTLETTS                 "	1
 BTA	"BERTOUA                  "	504
 BTB	"BETOU      "	515
 BTC	"BATTICALOA                "	711
-BTD	"BRUNETTE DOWNS N.T.      "	802
+BTD	"BRUNETTE DOWNS NT      "	802
 BTE	"BONTHE SIERRE LEONE               "	571
 BTF	"BOUNTIFUL UTAH                 "	87
 BTG	"BATANGAFO CENTRAL AFRICAN REP     "	509
@@ -959,7 +959,7 @@ BTW	"BATU LICIN               "	832
 BTX	"BETOOTA             "	802
 BTY	"BEATTY                    "	85
 BTZ	"BURSA                        "	679
-BUA	"BUKA IS.         "	804
+BUA	"BUKA IS         "	804
 BUB	"BURWELL                 "	65
 BUC	"BURKETOWN           "	802
 BUD	"BUDAPEST HUNGARY                  "	437
@@ -983,7 +983,7 @@ BUU	"BUYO                  "	533
 BUV	"BELLA UNION                 "	385
 BUW	"BAUBAU                   "	832
 BUX	"BUNIA                       "	517
-BUY	"BUNBURY W.                "	802
+BUY	"BUNBURY W                "	802
 BUZ	"BUSHEHR                        "	632
 BVA	"BEAUVAIS                      "	427
 BVB	"BOA VISTA                    "	316
@@ -1005,7 +1005,7 @@ BVU	"BELUGA                    "	1
 BVW	"BATAVIA DOWNS       "	802
 BVX	"BATESVILLE AR             "	71
 BVY	"BEVERLY          "	13
-BVZ	"BEVERLEY SPRINGS W.       "	802
+BVZ	"BEVERLEY SPRINGS W       "	802
 BWA	"BHAIRAWA                     "	755
 BWB	"BARROW ISLAND WA         "	802
 BWC	"BRAWLEY               "	91
@@ -1016,7 +1016,7 @@ BWG	"BOWLING GREEN          "	52
 BWH	"BUTTERWORTH               "	749
 BWI	"BALTIMORE MARYLAND             "	35
 BWJ	"BAWAN            "	804
-BWK	"BOL CROATIA                       "	415
+BWK	"BOL                        "	415
 BWL	"BLACKWELL              "	73
 BWM	"BOWMAN           "	66
 BWN	"BANDAR SERI BEGAWAN BRUNEI        "	704
@@ -1076,7 +1076,7 @@ BZP	"BIZANT              "	802
 BZR	"BEZIERS                       "	427
 BZT	"BRAZORIA                   "	74
 BZU	"BUTA                        "	517
-BZV	"BRAZZAVILLE PEOP. REP. OF CONGO   "	515
+BZV	"BRAZZAVILLE    "	515
 BZY	"BELTSY MOLDOVA                    "	457
 BZZ	"BRIZE NORTON            "	493
 CAA	"CATACAMAS                 "	131
@@ -1086,7 +1086,7 @@ CAD	"CADILLAC               "	43
 CAE	"        "	37
 CAF	"CARAUARI AMAZONAS           "	316
 CAG	"CAGLIARI                      "	450
-CAH	"CA MAU SOC.        "	791
+CAH	"CA MAU SOC        "	791
 CAI	"CAIRO            "
 CAJ	"CANAIMA                  "	388
 CAK	"AKRON/CANTON                "	44
@@ -1107,7 +1107,7 @@ CAY	"CAYENNE                 "	344
 CAZ	"COBAR              "	802
 CBA	"CORNER BAY                "	1
 CBB	"COCHABAMBA                  "	312
-CBC	"CHERRABUN W.              "	802
+CBC	"CHERRABUN W              "	802
 CBD	"CAR NICOBAR                  "	733
 CBE	"CUMBERLAND MARYLAND            "	35
 CBF	"COUNCIL BLUFFS           "	61
@@ -1122,7 +1122,7 @@ CBN	"CIREBON                  "	832
 CBO	"COTABATO                "	766
 CBP	"COIMBRA                   "	469
 CBQ	"CALABAR                     "	555
-CBR	"CANBERRA A.C.T.          "	802
+CBR	"CANBERRA ACT          "	802
 CBS	"CABIMAS                  "	388
 CBT	"CATUMBELA                    "	502
 CBU	"COTTBUS          "	429
@@ -1132,15 +1132,15 @@ CBY	"CANOBIE             "	802
 CBZ	"CABIN                "	1
 CCB	"UPLAND                "	91
 CCC	"CAYO COCO                     "	219
-CCE	ST. MAARTEN NETH. AN               	259
+CCE	ST MAARTEN NETH AN               	259
 CCF	"CARCASSONNE                   "	427
 CCG	"CRANE                      "	74
 CCH	"CHILE CHICO CHILE                 "	324
-CCI	"CONCORDIA STA. CATARINA     "	316
+CCI	"CONCORDIA STA CATARINA     "	316
 CCJ	"CALICUT                      "	733
-CCK	"COCOS-KEELING IS. IND. OCEAN      "	812
+CCK	"COCOS-KEELING IS IND OCEAN      "	812
 CCL	"CHINCHILLA          "	802
-CCM	"CRICIUMA STA.CATARINA       "	316
+CCM	"CRICIUMA STACATARINA       "	316
 CCN	"CHAKCHARAN             "	701
 CCO	"CARIMAGUA                 "	327
 CCP	"CONCEPCION CHILE                  "	324
@@ -1150,16 +1150,16 @@ CCS	"CARACAS                  "	388
 CCT	"COLONIA CATRIEL           "	303
 CCU	"CALCUTTA                     "	733
 CCV	"CRAIG COVE                  "	885
-CCW	"COWELL S.                 "	802
+CCW	"COWELL S                 "	802
 CCX	"CACERES                      "	316
 CCY	"CHARLES CITY             "	61
 CCZ	"CHUB CAY                   "	204
-CDA	"COOINDA N.T.             "	802
+CDA	"COOINDA NT             "	802
 CDB	"COLD BAY                  "	1
 CDC	"CEDAR CITY UTAH                "	87
 CDE	"CALEDONIA               "	162
 CDF	"CORTINA D'AMPEZZO             "	450
-CDG	"PARIS   .                     "	427
+CDG	"PARIS                        "	427
 CDH	"CAMDEN AR                 "	71
 CDJ	"CONCEICAO DO ARAGUAIA        "	316
 CDK	"CEDAR KEY                "	33
@@ -1176,7 +1176,7 @@ CDW	"CALDWELL              "	21
 CDY	"CAGAYAN DE SULU         "	766
 CEB	"CEBU                    "	766
 CEC	"CRESCENT CITY         "	91
-CED	"CEDUNA S.                 "	802
+CED	"CEDUNA S                 "	802
 CEE	"CHEREPOVETS                  "	475
 CEF	"CHICOPEE         "	13
 CEG	"CHESTER            "	493
@@ -1202,13 +1202,13 @@ CFA	"COFFEE POINT              "	1
 CFE	"CLERMONT-FERRAND              "	427
 CFF	"CAFUNFO                      "	502
 CFG	"CIENFUEGOS                    "	219
-CFH	"CLIFTON HILLS S.          "	802
-CFI	"CAMFIELD N.T.            "	802
+CFH	"CLIFTON HILLS S          "	802
+CFI	"CAMFIELD NT            "	802
 CFN	"CARRICKFINN     "	441
 CFO	"CONFREZA MT                 "	316
 CFP	"CARPENTARIA DOWNS   "	802
 CFR	"CAEN                          "	427
-CFS	"COFFS HARBOUR  AUST.       "	802
+CFS	"COFFS HARBOUR  AUST       "	802
 CFT	"CLIFTON                 "	81
 CFU	"CORFU                        "	433
 CGA	"CRAIG                     "	1
@@ -1260,7 +1260,7 @@ CHW	"JIUQUAN                      "	713
 CHX	"CHANGUINOLA             "	162
 CHY	"CHOISEUL BAY           "	874
 CHZ	"CHILOQUIN                "	92
-CIA	"ROME  .                       "	450
+CIA	"ROME                         "	450
 CIB	"CATALINA ISLAND       "	91
 CIC	"CHICO                 "	91
 CID	"CEDAR RAPIDS/IOWA CITY   "	61
@@ -1276,9 +1276,9 @@ CIN	"CARROLL                  "	61
 CIP	"CHIPATA                     "	597
 CIQ	"CHIQUIMULA               "	127
 CIR	"CAIRO                  "	41
-CIS	"CANTON IS. CANTON IS.             "	824
+CIS	"CANTON IS CANTON IS             "	824
 CIT	"CHIMKENT                 "	738
-CIU	"SAULT STE. MARIE       "	43
+CIU	"SAULT STE MARIE       "	43
 CIV	"CHOMLEY                   "	1
 CIW	"CANOUAN ISLAND WINDWARD ISLAND    "	273
 CIX	"CHICLAYO                      "	368
@@ -1299,7 +1299,7 @@ CKD	"CROOKED              "	1
 CKE	"CLEAR LAKE            "	91
 CKG	"CHONGQING                    "	713
 CKH	"CHOKURDAH                    "	770
-CKI	"CROKER IS. N.T.          "	802
+CKI	"CROKER IS NT          "	802
 CKK	"CHEROKEE AR               "	71
 CKM	"CLARKSDALE          "	53
 CKN	"CROOKSTON             "	63
@@ -1385,7 +1385,7 @@ CNX	"CHIANG MAI                "	782
 CNY	"MOAB UTAH                      "	87
 CNZ	"CANGAMBA                     "	502
 COA	"              "	91
-COB	"COOLIBAH N.T.            "	802
+COB	"COOLIBAH NT            "	802
 COC	"CONCORDIA                 "	303
 COD	"LOVELL/CODY              "	88
 COE	"COEUR D'ALENE            "	83
@@ -1393,7 +1393,7 @@ COF	"COCOA BEACH              "	33
 COG	"CONDOTO                   "	327
 COH	"COOCH BEHAR                  "	733
 COI	"COCOA                    "	33
-COJ	"COONABARABRAN  AUST.       "	802
+COJ	"COONABARABRAN  AUST       "	802
 COK	"COCHIN                       "	733
 COL	"COLL ISLAND      "	493
 COM	"COLEMAN                    "	74
@@ -1406,13 +1406,13 @@ COT	"COTULLA                    "	74
 COU	"                "	64
 COV	"COVILHA                   "	469
 COW	"COOLANGATTA         "	802
-COX	"CONGO TOWN ANDROS IS.     "	204
-COY	"COOLAWANYAH W.            "	802
+COX	"CONGO TOWN ANDROS IS     "	204
+COY	"COOLAWANYAH W            "	802
 COZ	"CONSTANZA            "	224
 CPA	"CAPE PALMAS                 "	537
 CPB	"CAPURGANA                 "	327
 CPC	"CHAPELCO                  "	303
-CPD	"COOBER PEDY S.            "	802
+CPD	"COOBER PEDY S            "	802
 CPE	"CAMPECHE                    "	148
 CPF	"CEPU                     "	832
 CPG	"CARMEN DE PATAGONES       "	303
@@ -1423,7 +1423,7 @@ CPN	"CAPE RODNEY      "	804
 CPO	"COPIAPO CHILE                     "	324
 CPQ	"CAMPINAS                     "	316
 CPR	"CASPER                   "	88
-CPS	"ST. LOUIS               "	64
+CPS	"ST LOUIS               "	64
 CPT	"CAPE TOWN              "	562
 CPU	"CURURUPU                     "	316
 CPV	"CAMPINA GRANDE               "	316
@@ -1432,11 +1432,11 @@ CQF	"CALAIS                        "	427
 CQP	"CAPE FLATTERY       "	802
 CQT	"CAQUETANIA                "	327
 CRA	"CRAIOVA                     "	473
-CRB	"COLLARENEBRI  AUST.        "	802
+CRB	"COLLARENEBRI  AUST        "	802
 CRC	"CARTAGO                   "	327
 CRD	"COMODORO RIVADAVIA        "	303
 CRE	"MYRTLE BEACH    "	37
-CRF	"CARNOT CEN. AFRICAN REPUBLIC      "	509
+CRF	"CARNOT CEN AFRICAN REPUBLIC      "	509
 CRG	"JACKSONVILLE             "	33
 CRH	"CHERRIBAH           "	802
 CRI	"CROOKED ISLAND             "	204
@@ -1451,16 +1451,16 @@ CRQ	"CARAVELAS                    "	316
 CRR	"CERES                     "	303
 CRS	"CORSICANA                  "	74
 CRT	"CROSSETT AR               "	71
-CRU	"CARRIACOU WINDWARD IS.            "	273
+CRU	"CARRIACOU WINDWARD IS            "	273
 CRV	"CROTONE                       "	450
 CRW	"CHARLESTON WEST        "	39
 CRX	"CORINTH             "	53
-CRY	"CARLTON W.                "	802
+CRY	"CARLTON W                "	802
 CRZ	"CHARDZHOU             "	785
-CSA	"COLONSAY IS. HEBRIDES IS. SCOT. U"	493
+CSA	"COLONSAY IS HEBRIDES IS SCOT U"	493
 CSB	"CARANSEBES                  "	473
 CSC	"CANAS                   "	110
-CSD	"CRESSWELL DOWNS N.T. AUST.       "	802
+CSD	"CRESSWELL DOWNS NT AUST       "	802
 CSE	"CRESTED BUTTE           "	82
 CSF	"CREIL                         "	427
 CSG	"COLUMBUS                 "	34
@@ -1494,8 +1494,8 @@ CTN	"COOKTOWN            "	802
 CTO	"CALVERTON              "	22
 CTP	"CARUTAPERA MARANHAO         "	316
 CTQ	"SANTA VITORIA                "	316
-CTR	"CATTLE  N.T.        "	802
-CTS	"SAPPORO  .                    "	736
+CTR	"CATTLE  NT        "	802
+CTS	"SAPPORO                      "	736
 CTT	"LE CASTELLET                  "	427
 CTU	"CHENGDU                      "	713
 CTW	"COTTONWOOD              "	81
@@ -1525,10 +1525,10 @@ CUT	"CUTRAL-CO                 "	303
 CUU	"CHIHUAHUA                   "	148
 CUV	"CASIGUA                  "	388
 CUW	"CUBE COVE                 "	1
-CUY	"CUE W.                    "	802
+CUY	"CUE W                    "	802
 CUZ	"CUZCO                         "	368
 CVB	"CHUNGRIBU        "	804
-CVC	"CLEVE S.                  "	802
+CVC	"CLEVE S                  "	802
 CVE	"COVENAS                   "	327
 CVF	"COURCHEVEL                    "	427
 CVG	"CINCINNATI                  "	44
@@ -1539,7 +1539,7 @@ CVL	"CAPE VOGEL       "	804
 CVM	"CIUDAD VICTORIA             "	148
 CVN	"CLOVIS                "	86
 CVO	"CORVALLIS                "	92
-CVQ	"CARNARVON W.              "	802
+CVQ	"CARNARVON W              "	802
 CVR	"CULVER CITY           "	91
 CVS	"CLOVIS                "	86
 CVT	"COVENTRY           "	493
@@ -1549,9 +1549,9 @@ CWB	"CURITIBA PARANA             "	316
 CWC	"CHERNOVTSY                  "	488
 CWG	"CALLAWAY GARDENS         "	34
 CWI	"CLINTON                  "	61
-CWL	"CARDIFF WALES (U.K.)             "	493
+CWL	"CARDIFF WALES (UK)             "	493
 CWP	"CAMPBELLPORE               "	764
-CWR	"COWARIE S.                "	802
+CWR	"COWARIE S                "	802
 CWS	"CENTER ISLAND         "	93
 CWT	"COWRA              "	802
 CWW	"COROWA             "	802
@@ -1559,14 +1559,14 @@ CXA	"CAICARA                  "	388
 CXB	"COX'S BAZAR             "	703
 CXC	"CHITINA                   "	1
 CXF	"COLDFOOT                  "	1
-CXH	"VANCOUVER BC CAN..               "	906
+CXH	"VANCOUVER BC CAN               "	906
 CXI	"CHRISTMAS ISLAND   "	824
 CXJ	"CAXIAS DO SUL                "	316
 CXL	"CALEXICO              "	91
 CXN	"LA                     "	573
 CXO	"CONROE                     "	74
 CXP	"CILACAP                  "	832
-CXQ	"CHRISTMAS  W.        "	802
+CXQ	"CHRISTMAS  W        "	802
 CXT	"CHARTERS TOWERS     "	802
 CXY	"CAT CAY                    "	204
 CYA	"CAYES HAITI                       "	238
@@ -1587,7 +1587,7 @@ CYU	"CUYO                    "	766
 CYX	"CHERSKIY                     "	770
 CYZ	"CAUAYAN                 "	766
 CZA	"CHICHEN ITZA                "	148
-CZB	"CRUZRIO GR. SUL       "	316
+CZB	"CRUZRIO GR SUL       "	316
 CZC	"COPPER CENTRE             "	1
 CZE	"CORO                     "	388
 CZF	"CAPE ROMANZOF             "	1
@@ -1607,13 +1607,13 @@ CZX	"CHANGZHOU            "	713
 CZY	"CLUNY               "	802
 DAB	"DAYTONA BEACH            "	33
 DAC	"DACCA                   "	703
-DAD	"DANANG SOC.        "	791
+DAD	"DANANG SOC        "	791
 DAE	"DAPARIZO                     "	733
 DAF	"DAUP             "	804
 DAG	"DAGGETT               "	91
 DAH	"DATHINA                       "	694
 DAJ	"DAUAN ISLAND QLD         "	802
-DAL	"DALLAS/FT.WORTH            "	74
+DAL	"DALLAS/FTWORTH            "	74
 DAM	"DAMASCUS                     "	676
 DAN	"DANVILLE               "	38
 DAP	"DARCHULA                     "	755
@@ -1634,9 +1634,9 @@ DBP	"DEBEPARE         "	804
 DBQ	"DUBUQUE                  "	61
 DBS	"DUBOIS                   "	83
 DBT	"DEBRA TABOR                "	522
-DBV	"DUBROVNIK CROATIA                 "	415
+DBV	"DUBROVNIK                  "	415
 DBY	"DALBY               "	802
-DCA	"  D.C.                "	32
+DCA	"  DC                "	32
 DCF	"DOMINICA WEST INDIES-CANE FIELD   "	221
 DCI	"DECIMOMANNU                   "	450
 DCK	"DAHL                 "	1
@@ -1650,25 +1650,25 @@ DDG	"DANDONG              "	713
 DDI	"DAYDREAM ISLAND     "	802
 DDM	"DODOIMA          "	804
 DDN	"DELTA DOWNS         "	802
-DDP	"DORADO P.R.                       "	3
+DDP	"DORADO PR                       "	3
 DDU	"DADU                       "	764
 DEB	"DEBRECEN HUNGARY                  "	437
 DEC	"DECATUR                "	41
 DED	"DEHRADUN                     "	733
 DEH	"DECORAH                  "	61
-DEI	"DENIS IS. SEYCHELLES IS. IND. OCE"	570
+DEI	"DENIS IS SEYCHELLES IS IND OCE"	570
 DEL	"DELHI                        "	733
 DEM	"DEMBIDOLLO                 "	522
 DEN	"DENVER                  "	82
 DEO	"DEARBORN               "	43
 DER	"DERIM            "	804
-DES	"DESROCHES SEYCHELLES IS. IND. OC. "	570
+DES	"DESROCHES SEYCHELLES IS IND OC "	570
 DET	"DETROIT                "	43
 DEZ	"DEIR EZZOR                   "	676
 DFB	"DRIFTWOOD BAY             "	1
 DFI	"DEFIANCE                    "	44
 DFP	"DRUMDUFF            "	802
-DFW	"DALLAS/FT.WORTH            "	74
+DFW	"DALLAS/FTWORTH            "	74
 DGA	"DANGRIGA                     "	106
 DGB	"DANGER BAY                "	1
 DGC	"DEGAHBUR                   "	522
@@ -1691,12 +1691,12 @@ DHN	"DOTHAN                  "	51
 DHR	"DEN HELDER              "	461
 DHT	"DALHART                    "	74
 DIB	"DIBRUGARH                    "	733
-DIE	"DIEGO SUAREZ   MADAG.     "	541
+DIE	"DIEGO SUAREZ   MADAG     "	541
 DIJ	"DIJON                         "	427
 DIK	"DICKINSON        "	66
 DIL	"DILI                     "	862
 DIM	"DIMBOKRO              "	533
-DIN	"DIEN-BIEN-PHU SOC. REP. OF VIET NA"	791
+DIN	"DIEN-BIEN-PHU SOC REP OF VIET NA"	791
 DIO	"DIOMEDE ISLAND            "	1
 DIP	"DIAPAGA               "	593
 DIQ	"DIVINOPOLIS MG              "	316
@@ -1718,7 +1718,7 @@ DKI	"DUNK ISLAND         "	802
 DKK	"DUNKIRK                "	22
 DKR	"DAKAR                       "	569
 DKS	"DIKSON                       "	770
-DKV	"DOCKER RIVER N.T.        "	802
+DKV	"DOCKER RIVER NT        "	802
 DLA	"DOUALA                   "	504
 DLB	"DALBERTIS        "	804
 DLC	"DALIAN                       "	713
@@ -1727,7 +1727,7 @@ DLE	"DOLE                          "	427
 DLF	"DEL RIO                    "	74
 DLG	"DILLINGHAM                "	1
 DLH	"DULUTH                "	63
-DLI	"DALAT SOC.         "	791
+DLI	"DALAT SOC         "	791
 DLK	"DULKANINNA SA            "	802
 DLL	"DILLON          "	37
 DLM	"DALAMAN                      "	679
@@ -1735,12 +1735,12 @@ DLN	"DILLON                  "	84
 DLO	"DOLOMITE                  "	1
 DLS	"THE DALLES               "	92
 DLU	"DALI CITY            "	713
-DLV	"DELISSAVILLE N.T.        "	802
+DLV	"DELISSAVILLE NT        "	802
 DLY	"DILLONS BAY                 "	885
 DLZ	"DALANZADGAD                "	751
 DMA	"TUCSON                  "	81
 DMB	"DZHAMBUL                 "	738
-DMD	"DOOMADGEE MISSION Q.      "	802
+DMD	"DOOMADGEE MISSION Q      "	802
 DME	"MOSCOW                       "	475
 DMO	"SEDALIA                 "	64
 DMR	"DHAMAR                        "	694
@@ -1755,7 +1755,7 @@ DNH	"DUNHUANG                     "	713
 DNI	"WAD MEDANI                   "	583
 DNK	"DNEPROPETROVSK              "	488
 DNL	"AUGUSTA                  "	34
-DNM	"DENHAM W.                 "	802
+DNM	"DENHAM W                 "	802
 DNN	"DALTON                   "	34
 DNO	"DIANOPOLIS                   "	316
 DNP	"DANG                         "	755
@@ -1785,7 +1785,7 @@ DOR	"DORI                  "	593
 DOS	"DIOS             "	804
 DOU	"DOURADOS                     "	316
 DOV	"DOVER DELAWARE                 "	31
-DOX	"DONGARA W.                "	802
+DOX	"DONGARA W                "	802
 DPA	"CHICAGO                "	41
 DPE	"DIEPPE                        "	427
 DPG	"DUGWAY UTAH                    "	87
@@ -1795,7 +1795,7 @@ DPO	"DEVONPORT TASMANIA                "	802
 DPS	"DENPASAR                 "	832
 DPU	"DUMPU            "	804
 DRA	"MERCURY                   "	85
-DRB	"DERBY W.                  "	802
+DRB	"DERBY W                  "	802
 DRC	"DIRICO                       "	502
 DRD	"DORUNDA STATION     "	802
 DRE	"DRUMMOND ISLAND        "	43
@@ -1810,7 +1810,7 @@ DRR	"DURRIE              "	802
 DRS	"DRESDEN                     "	429
 DRT	"DEL RIO                    "	74
 DRU	"DRUMMOND                "	84
-DRW	"DARWIN N.T.              "	802
+DRW	"DARWIN NT              "	802
 DSC	"DSCHANG                  "	504
 DSD	"LA DESIRADE             "	235
 DSE	"DESSIE                     "	522
@@ -1841,7 +1841,7 @@ DUJ	"DU BOIS             "	23
 DUK	"DUKUDUK                "	562
 DUM	"DUMAI                    "	832
 DUN	"DUNDAS                    "	975
-DUQ	"DUNCAN/QUAMICHAN LAKE B.C. "	906
+DUQ	"DUNCAN/QUAMICHAN LAKE BC "	906
 DUR	"DURBAN                 "	562
 DUS	"DUSSELDORF                  "	429
 DUT	"DUTCH HARBOR              "	1
@@ -1849,8 +1849,8 @@ DVA	"DEVA                        "	473
 DVL	"DEVILS LAKE      "	66
 DVN	"DAVENPORT                "	61
 DVO	"DAVAO                   "	766
-DVP	"DAVENPORT DOWNS Q.        "	802
-DVR	"DALY RIVER N.T.          "	802
+DVP	"DAVENPORT DOWNS Q        "	802
+DVR	"DALY RIVER NT          "	802
 DVT	"PHOENIX                 "	81
 DVX	"DOVER DELAWARE                 "	31
 DWA	"DWANGWA MALAWI                    "	542
@@ -1861,12 +1861,12 @@ DXR	"DANBURY              "	11
 DYA	"DYSART              "	802
 DYG	"DAYONG               "	713
 DYL	"DOYLESTOWN          "	23
-DYM	"DIAMANTINA LAKES Q.       "	802
+DYM	"DIAMANTINA LAKES Q       "	802
 DYR	"ANADYR                       "	770
 DYS	"ABILENE                    "	74
 DYU	"DUSHANBE                "	783
-DYW	"DALY WATERS N.T.         "	802
-DZA	"DZAOUDZI COMORO IS.               "	513
+DYW	"DALY WATERS NT         "	802
+DZA	"DZAOUDZI COMORO IS               "	513
 DZI	"CODAZZI                   "	327
 DZN	"DZEZKAZGAN               "	738
 DZO	"DURAZNO                     "	385
@@ -1889,7 +1889,7 @@ EBM	"EL BORMA                    "	500
 EBN	"EBADON             "	844
 EBO	"EBON               "	844
 EBS	"WEBSTER CITY             "	61
-EBU	"ST. ETIENNE                   "	427
+EBU	"ST ETIENNE                   "	427
 EBW	"EBOLOWA                  "	504
 ECA	"EAST TAWAS             "	43
 ECG	"ELIZABETH CITY   "	36
@@ -1900,7 +1900,7 @@ ECR	"EL CHARCO                 "	327
 ECS	"NEWCASTLE                "	88
 EDA	"EDNA BAY                  "	1
 EDB	"EL DEBBA                     "	583
-EDD	"ERLDUNDA N.T.            "	802
+EDD	"ERLDUNDA NT            "	802
 EDE	"EDENTON          "	36
 EDF	"ANCHORAGE                 "	1
 EDI	"EDINBURGH        "	493
@@ -1939,22 +1939,22 @@ EIE	"ENISEYSK                     "	770
 EIH	"EINASLEIGH          "	802
 EIL	"FAIRBANKS                 "	1
 EIN	"EINDHOVEN               "	461
-EIS	"TORTOLA BRITISH VIRGIN IS.        "	282
+EIS	"TORTOLA BRITISH VIRGIN IS        "	282
 EIY	"EIN YAHAV                    "	636
 EJA	"BARRANCABERMEJA           "	327
 EJH	"WEDJH                 "	670
 EKA	"EUREKA/ARCATA         "	91
 EKB	"EKIBASTUZ                "	738
-EKD	"ELKEDRA N.T.             "	802
+EKD	"ELKEDRA NT             "	802
 EKE	"EKEREKU                      "	350
 EKI	"ELKHART NA                "	42
 EKN	"ELKINS WEST            "	39
 EKO	"ELKO                      "	85
 EKT	"ESKILSTUNA                  "	484
-EKX	"ELIZABETHTOWN/FT. KNOX KY      "	52
+EKX	"ELIZABETHTOWN/FT KNOX KY      "	52
 ELA	"EAGLE LAKE                 "	74
 ELB	"EL BANCO                  "	327
-ELC	"ELCHO ISLAND N.T.        "	802
+ELC	"ELCHO ISLAND NT        "	802
 ELD	"EL DORADO AR              "	71
 ELE	"EL REAL                 "	162
 ELF	"EL FASHER                    "	583
@@ -1980,7 +1980,7 @@ ELZ	"WELLSVILLE             "	22
 EMA	"EAST MIDLANDS      "	493
 EMD	"EMERALD             "	802
 EME	"EMDEN                       "	429
-EMG	"EMPANGENI .            "	575
+EMG	"EMPANGENI             "	575
 EMI	"EMIRAU           "	804
 EMK	"EMMONAK                   "	1
 EMM	"KEMMERER                 "	88
@@ -1992,7 +1992,7 @@ EMT	"EL MONTE              "	91
 EMX	"EL MAITEN                 "	303
 EMY	"EL MINYA         "	591
 ENA	"KENAI                     "	1
-ENB	"ENEABBA W.                "	802
+ENB	"ENEABBA W                "	802
 ENC	"NANCY                         "	427
 END	"ENID                   "	73
 ENE	"ENDE                     "	832
@@ -2000,11 +2000,11 @@ ENF	"ENONTEKIO                  "	425
 ENH	"ENSHI                        "	713
 ENI	"EL NIDO                 "	766
 ENJ	"EL NARANJO               "	127
-ENK	"ENNISKILLEN N. IRELAND (U.K.)    "	493
+ENK	"ENNISKILLEN N IRELAND (UK)    "	493
 ENL	"CENTRALIA              "	41
 ENN	"NENANA                    "	1
 ENO	"ENCARNACION                "	365
-ENQ	"CORONEL E. SOTO CANO AB   "	131
+ENQ	"CORONEL E SOTO CANO AB   "	131
 ENS	"ENSCHEDE                "	461
 ENT	"ENIWETOK           "	844
 ENU	"ENUGU                       "	555
@@ -2012,7 +2012,7 @@ ENV	"WENDOVER UTAH                  "	87
 ENW	"KENOSHA              "	45
 ENY	"YANAN                        "	713
 EOH	"MEDELLIN-HERRERA          "	327
-EOI	"EDAY ORKNEY ISLAND SCOT. (U.K.) "	493
+EOI	"EDAY ORKNEY ISLAND SCOT (UK) "	493
 EOK	"KEOKUK                   "	61
 EOR	"EL DORADO                "	388
 EOS	"NEOSHO                  "	64
@@ -2023,11 +2023,11 @@ EPI	"EPI                         "	885
 EPK	"EPISKOPI CYPRUS                   "	611
 EPL	"EPINAL                        "	427
 EPN	"EPENA      "	515
-EPR	"ESPERANCE W.              "	802
+EPR	"ESPERANCE W              "	802
 EPT	"ELIPTAMIN        "	804
 EQS	"ESQUEL                    "	303
 ERA	"ERIGAVO                     "	573
-ERB	"ERNABELLA S.              "	802
+ERB	"ERNABELLA S              "	802
 ERC	"ERZINCAN                     "	679
 ERD	"BERDYANSK                   "	488
 ERE	"ERAVE            "	804
@@ -2037,7 +2037,7 @@ ERI	"ERIE                "	23
 ERM	"ERECHIM                      "	316
 ERN	"EIRUNEPE AMAZONAS           "	316
 ERR	"ERROL              "	14
-ERS	"WINDHOEK S.W. AFRIC               "	575
+ERS	"WINDHOEK SW AFRIC               "	575
 ERT	"ERDENET                    "	751
 ERU	"ERUME            "	804
 ERV	"KERRVILLE                  "	74
@@ -2062,22 +2062,22 @@ ESS	"ESSEN                       "	429
 EST	"ESTHERVILLE              "	61
 ESW	"EASTON                "	93
 ETB	"WEST BEND            "	45
-ETD	"ETADUNNA S.               "	802
+ETD	"ETADUNNA S               "	802
 ETE	"METEMMA                    "	522
 ETH	"ELAT                         "	636
 ETN	"EASTLAND                   "	74
 ETS	"ENTERPRISE              "	51
 ETZ	"METZ/NANCY                    "	427
-EUA	"EUA TONGA ISLAND S. PACIFIC      "	881
-EUC	"EUCLA W.                  "	802
+EUA	"EUA TONGA ISLAND S PACIFIC      "	881
+EUC	"EUCLA W                  "	802
 EUE	"EUREKA                    "	85
 EUF	"EUFAULA                 "	51
 EUG	"EUGENE                   "	92
 EUM	"NEUMUNSTER                  "	429
 EUN	"EL AAIUN                   "	548
-EUX	"ST. EUSTATIUS        "	259
+EUX	"ST EUSTATIUS        "	259
 EVA	"EVADALE                    "	74
-EVD	"EVA DOWNS N.T.           "	802
+EVD	"EVA DOWNS NT           "	802
 EVE	"EVENES                       "	465
 EVG	"SVEG                        "	484
 EVH	"EVANS HEAD         "	802
@@ -2142,7 +2142,7 @@ FDK	"FREDERICK MARYLAND             "	35
 FDR	"FREDERICK              "	73
 FDU	"BANDUNDU                    "	517
 FDY	"FINDLAY                     "	44
-FEA	"FETLAR SHETLAND IS. .K"	493
+FEA	"FETLAR SHETLAND IS K"	493
 FEB	"SANFEBAGAR                   "	755
 FEG	"FERGANA                 "	788
 FEK	"FERKESSEDOUGOU        "	533
@@ -2160,21 +2160,21 @@ FFO	"DAYTON                      "	44
 FFT	"FRANKFORT              "	52
 FFU	"FUTALEUFU CHILE                   "	324
 FGD	"F'DERIK                 "	545
-FGI	"APIA W. SAMOA.                    "	892
+FGI	"APIA W SAMOA                    "	892
 FGL	"FOX GLACIER            "	851
 FGU	"FANGATAU             "	823
-FHU	"FT. HUACHUCA            "	81
+FHU	"FT HUACHUCA            "	81
 FHZ	"FAKAHINA          "	823
 FIC	"FIRE COVE                 "	1
 FID	"FISHERS ISLAND         "	22
 FIE	"FAIR ISLE        "	493
 FIG	"FRIA                        "	531
 FIH	"KINSHASA                    "	517
-FIK	"FINKE N.T.               "	802
+FIK	"FINKE NT               "	802
 FIL	"FILLMORE UTAH                  "	87
 FIN	"FINSCHHAFEN      "	804
 FIV	"FIVE FINGER               "	1
-FIZ	"FITZROY CROSSING W.       "	802
+FIZ	"FITZROY CROSSING W       "	802
 FJR	"AL-FUJAIRAH        "	678
 FKI	"KISANGANI                   "	517
 FKJ	"FUKUI                         "	736
@@ -2191,15 +2191,15 @@ FLG	"FLAGSTAFF               "	81
 FLH	"FLOTTA ISLE      "	493
 FLI	"FLATEYRI                   "	439
 FLJ	"FALLS BAY                 "	1
-FLL	"FT. LAUDERDALE           "	33
+FLL	"FT LAUDERDALE           "	33
 FLM	"FILADELFIA                 "	365
 FLN	"FLORIANOPOLIS                "	316
 FLO	"FLORENCE        "	37
 FLP	"FLIPPIN AR                "	71
 FLR	"FLORENCE                      "	450
-FLS	"FLINDERS IS. TASMANIA             "	802
+FLS	"FLINDERS IS TASMANIA             "	802
 FLT	"FLAT                      "	1
-FLW	"SANTA CRUZ FLORES IS. AZORES     "	469
+FLW	"SANTA CRUZ FLORES IS AZORES     "	469
 FLX	"FALLON                    "	85
 FLY	"FINLEY             "	802
 FMA	"FORMOSA                   "	303
@@ -2209,47 +2209,47 @@ FMH	"FALMOUTH         "	13
 FMI	"KALEMIE                     "	517
 FMN	"FARMINGTON            "	86
 FMO	"MUENSTER                    "	429
-FMS	"FT. MADISON              "	61
-FMY	"FT. MYERS                "	33
+FMS	"FT MADISON              "	61
+FMY	"FT MYERS                "	33
 FNA	"FREETOWN  NE             "	571
-FNC	"FUNCHAL MADEIRA IS.               "	469
+FNC	"FUNCHAL MADEIRA IS               "	469
 FNE	"FANE             "	804
 FNG	"FADA NGOURMA          "	593
 FNH	"FINCHA                     "	522
 FNI	"NIMES                         "	427
-FNJ	"PYONGYANG N. KOREA                "	757
+FNJ	"PYONGYANG N KOREA                "	757
 FNK	"FIN                  "	1
 FNL	"FORT COLLINS/LOVELAND CO       "	82
 FNR	"FUNTER BAY                "	1
 FNT	"FLINT                  "	43
-FOA	"FOULA SHETLAND IS. K   "	493
+FOA	"FOULA SHETLAND IS K   "	493
 FOB	"FORT BRAGG            "	91
 FOC	"FUZHOU                       "	713
-FOD	"FT. DODGE                "	61
+FOD	"FT DODGE                "	61
 FOE	"TOPEKA                    "	62
 FOG	"FOGGIA                        "	450
 FOK	"WESTHAMPTON            "	22
 FOM	"FOUMBAN                  "	504
 FOO	"NUMFUR                   "	832
 FOR	"FORTALEZA CEARA             "	316
-FOS	"FORREST W.                "	802
+FOS	"FORREST W                "	802
 FOT	"FORSTER            "	802
 FOU	"FOUGAMOU                      "	526
 FOX	"FOX                       "	1
 FOY	"FOYA                        "	537
 FPO	"FREEPORT                   "	204
-FPR	"FT. PIERCE               "	33
+FPR	"FT PIERCE               "	33
 FPY	"PERRY                    "	33
 FRA	"FRANKFURT                   "	429
 FRB	"FORBES             "	802
 FRC	"FRANCA                       "	316
 FRD	"FRIDAY HARBOR         "	93
-FRE	"FERA IS.               "	874
+FRE	"FERA IS               "	874
 FRF	"FRANKFURT                   "	429
 FRG	"FARMINGDALE            "	22
 FRH	"FRENCH LICK NA            "	93
 FRJ	"FREJUS                        "	427
-FRK	"FREGATE IS. SEYCHELLES IS. IND. OC"	570
+FRK	"FREGATE IS SEYCHELLES IS IND OC"	570
 FRL	"FORLI                         "	450
 FRM	"FAIRMONT              "	63
 FRO	"FLORO                        "	465
@@ -2265,18 +2265,18 @@ FRY	"FRYEBURG                  "	12
 FSC	"FIGARI CORSICA               "	427
 FSD	"SIOUX FALLS         "	67
 FSI	"FORT SILL              "	73
-FSK	"FT. SCOTT                 "	62
-FSL	"FOSSIL DOWNS W.           "	802
-FSM	"FT. SMITH AR              "	71
-FSP	"ST. PIERRE ST. PIERRE & MIQUELON  "	977
+FSK	"FT SCOTT                 "	62
+FSL	"FOSSIL DOWNS W           "	802
+FSM	"FT SMITH AR              "	71
+FSP	"ST PIERRE ST PIERRE & MIQUELON  "	977
 FSS	"FORRES K                "	493
-FST	"FT. STOCKTON               "	74
+FST	"FT STOCKTON               "	74
 FSU	"FORT SUMNER           "	86
 FTA	"FUTUNA ISLAND               "	885
 FTI	"FITIUTA AMERICAN SAMOA            "	5
 FTL	"FORTUNA LEDGE             "	1
-FTU	"FT. DAUPHIN      "	541
-FTW	"DALLAS/FT.WORTH            "	74
+FTU	"FT DAUPHIN      "	541
+FTW	"DALLAS/FTWORTH            "	74
 FTX	"OWANDO     "	515
 FTY	"ATLANTA                  "	34
 FUB	"FULLEBORN        "	804
@@ -2288,24 +2288,24 @@ FUL	"FULLERTON             "	91
 FUM	"FUMA             "	804
 FUN	"FUNAFUTI TUVALU                   "	817
 FUO	"FUOSHAN              "	713
-FUT	"FUTUNAWALLIS & FUTUNA IS.         "	890
+FUT	"FUTUNAWALLIS & FUTUNA IS         "	890
 FVA	"TUZLA            "	410
 FVB	"BALEDOGLE                   "	573
 FVC	"BAIKONOUR                "	738
 FVD	"SONORA                     "	74
 FVE	"FALLBROOK             "	91
-FWA	"FT. WAYNE NA              "	42
-FWH	"DALLAS/FT.WORTH            "	74
+FWA	"FT WAYNE NA              "	42
+FWH	"DALLAS/FTWORTH            "	74
 FWL	"FAREWELL                  "	1
 FWM	"FORT WILLIAM     "	493
-FXE	"FT. LAUDERDALE           "	33
+FXE	"FT LAUDERDALE           "	33
 FXM	"FLAXMAN ISLAND            "	1
 FXO	"CUAMBA                 "	550
 FXY	"FOREST CITY              "	61
 FYM	"FAYETTEVILLE          "	54
 FYN	"FUYUN SINKIANG              "	713
 FYT	"FAYA CHAD                         "	511
-FYU	"FT. YUKON                 "	1
+FYU	"FT YUKON                 "	1
 FYV	"FAYETTEVILLE AR           "	71
 FZO	"FILTON                  "	493
 GAA	"GUAMAL                    "	327
@@ -2342,17 +2342,17 @@ GBE	"GABORONE                 "	510
 GBF	"NEGARBO          "	804
 GBG	"GALESBURG              "	41
 GBH	"GALBRAITH LAKE            "	1
-GBJ	"MARIE GALANTE FR. ANTILLES        "	235
+GBJ	"MARIE GALANTE FR ANTILLES        "	235
 GBK	"GBANGBATOK  NE           "	571
-GBL	"GOULBURN IS. N.T.        "	802
+GBL	"GOULBURN IS NT        "	802
 GBM	"GARBAHAREY                  "	573
 GBO	"BALTIMORE MARYLAND             "	35
 GBP	"GAMBOOLA            "	802
 GBR	"GREAT BARRINGTON MA            "	13
 GBU	"KHASHM EL GIRBA              "	583
-GBV	"GIBB RIVER W.             "	802
+GBV	"GIBB RIVER W             "	802
 GBY	"GALKAYO                     "	573
-GBZ	"GREAT BARRIER IS.      "	851
+GBZ	"GREAT BARRIER IS      "	851
 GCA	"GUACAMAYAS                "	327
 GCC	"GILLETTE                 "	88
 GCI	"GUERNSEY      "	493
@@ -2363,11 +2363,11 @@ GCN	"GRAND CANYON            "	81
 GCY	"GREENVILLE            "	54
 GDA	"GOUNDA         "	509
 GDC	"GREENVILLE/SPARTANBURG SC      "	37
-GDD	"GORDON DOWNS W.           "	802
+GDD	"GORDON DOWNS W           "	802
 GDE	"GODE                       "	522
 GDG	"MAGDAGACHI                   "	770
 GDH	"GOLDEN HORN                  "	1
-GDI	"GORDIL CEN. AFRICAN REPUBLIC      "	509
+GDI	"GORDIL CEN AFRICAN REPUBLIC      "	509
 GDJ	"GANDAJIKA                   "	517
 GDL	"GUADALAJARA                 "	148
 GDM	"GARDNER          "	13
@@ -2375,12 +2375,12 @@ GDN	"GDANSK POLAND                     "	467
 GDO	"GUASDUALITO              "	388
 GDP	"GUADALUPE PI                "	316
 GDQ	"GONDAR                     "	522
-GDT	"GRAND TURK B.W.I.                 "	281
+GDT	"GRAND TURK BWI                 "	281
 GDV	"GLENDIVE                "	84
 GDW	"GLADWIN                "	43
 GDX	"MAGADAN                      "	770
 GDZ	"GELENDZIK                    "	475
-GEA	"NOUMEA NEW CAL.                   "	846
+GEA	"NOUMEA NEW CAL                   "	846
 GEB	"GEBE                     "	832
 GEC	"GECITKALE CYPRUS                  "	611
 GED	"GEORGETOWN DELAWARE            "	31
@@ -2390,14 +2390,14 @@ GEG	"SPOKANE               "	93
 GEI	"GREEN ISLANDS    "	804
 GEK	"GANES                "	1
 GEL	"SANTO ANGELO                 "	316
-GEN	"OSLO  .                      "	465
+GEN	"OSLO                        "	465
 GEO	"GEORGETOWN                   "	350
 GER	"NUEVA GERONA                  "	219
 GES	"GENERAL SANTOS          "	766
-GET	"GERALDTON W.              "	802
+GET	"GERALDTON W              "	802
 GEV	"GALLIVARE                   "	484
 GEW	"GEWOYA           "	804
-GEX	"GEELONG VIC.             "	802
+GEX	"GEELONG VIC             "	802
 GEY	"GREYBULL                 "	88
 GFA	"GREAT FALLS             "	84
 GFB	"TOGIAK FISH               "	1
@@ -2447,7 +2447,7 @@ GIS	"GISBORNE               "	851
 GIT	"GEITA                     "	585
 GIY	"GIYANI                 "	562
 GIZ	"GIZAN                 "	670
-GJA	"GUANAJA IS.               "	131
+GJA	"GUANAJA IS               "	131
 GJL	"JIJEL                       "	500
 GJM	"GUAJARA-MIRIM                "	316
 GJR	"GJOGUR                     "	439
@@ -2481,7 +2481,7 @@ GLT	"GLADSTONE           "	802
 GLV	"GOLOVIN                   "	1
 GLW	"GLASGOW                "	52
 GLX	"GALELA                   "	832
-GLY	"MT. GOLDSWORTHY W.        "	802
+GLY	"MT GOLDSWORTHY W        "	802
 GLZ	"BREDA                   "	461
 GMA	"GEMENA                      "	517
 GMB	"GAMBELA                    "	522
@@ -2490,14 +2490,14 @@ GME	"GOMEL BELARUS                     "	413
 GMI	"GASMATA          "	804
 GMM	"GAMBOMA    "	515
 GMN	"GREYMOUTH              "	851
-GMR	"GAMBIER  S. PAC."	823
+GMR	"GAMBIER  S PAC"	823
 GMS	"GUIMARAES                    "	316
 GMT	"GRANITE MOUNTAIN          "	1
 GMU	"GREENVILLE/SPARTANBURG SC      "	37
 GMV	"MONUMENT VALLEY GOULDINGS  "	87
 GNA	"GRODNO BELARUS                    "	413
 GNB	"GRENOBLE                      "	427
-GND	"GRENADA WINDWARD IS.              "	273
+GND	"GRENADA WINDWARD IS              "	273
 GNE	"GHENT                      "	409
 GNG	"GOODING                  "	83
 GNI	"GREEN ISLAND                "	781
@@ -2528,14 +2528,14 @@ GOR	"GORE                       "	522
 GOS	"GOSFORD            "	802
 GOT	"GOTHENBURG                  "	484
 GOU	"GAROUA                   "	504
-GOV	"GOVE N.T.                "	802
+GOV	"GOVE NT                "	802
 GOY	"GAL OYA                   "	711
 GOZ	"GORNA ORJACHOVICA          "	411
 GPA	"PATRAS                       "	433
 GPB	"GUARAPUAVA                   "	316
 GPI	"GUAPI                     "	327
 GPL	"GUAPILES                "	110
-GPN	"GARDEN POINT N.T.        "	802
+GPN	"GARDEN POINT NT        "	802
 GPO	"GENERAL PICO              "	303
 GPS	"GALAPAGOS ISLANDS          "	337
 GPT	"GULFPORT/BILOXI     "	53
@@ -2569,12 +2569,12 @@ GRY	"GRIMSEY                    "	439
 GRZ	"GRAZ                        "	403
 GSA	"LONG PASIA SABAH         "	749
 GSB	"GOLDSBORO        "	36
-GSC	"GASCOYNE JUNCTION W.      "	802
+GSC	"GASCOYNE JUNCTION W      "	802
 GSE	"GOTHENBURG-SAEVE            "	484
 GSH	"GOSHEN NA                 "	42
 GSI	"GUADALCANAL         "	874
 GSL	"TALTHEILEI NARROWS NWT     "	931
-GSN	"MOUNT GUNSON S.           "	802
+GSN	"MOUNT GUNSON S           "	802
 GSO	"GREENSBORO/HIGH POINT NC       "	36
 GSP	"GREENVILLE/SPARTANBURG SC      "	37
 GSR	"GARDO                       "	573
@@ -2585,7 +2585,7 @@ GSY	"GRIMSBY                 "	493
 GTA	"GATOKAE             "	874
 GTB	"GENTING                   "	749
 GTC	"GREEN TURTLE               "	204
-GTE	"GROOTE IS. N.T.          "	802
+GTE	"GROOTE IS NT          "	802
 GTF	"GREAT FALLS             "	84
 GTG	"GRANTSBURG           "	45
 GTI	"GUETTIN                     "	429
@@ -2593,7 +2593,7 @@ GTK	"SUNGEI TEKAI              "	749
 GTN	"MOUNT COOK-GLENTANNER  "	851
 GTO	"GORONTALO                "	832
 GTR	"COLUMBUS            "	53
-GTS	"GRANITES N.T.            "	802
+GTS	"GRANITES NT            "	802
 GTT	"GEORGETOWN          "	802
 GTW	"ZLIN                "	418
 GTY	"GETTYSBURG          "	23
@@ -2665,12 +2665,12 @@ HAD	"HALMSTAD                    "	484
 HAE	"HAVASUPAI               "	81
 HAF	"HALF MOON             "	91
 HAG	"THE HAGUE               "	461
-HAH	"MORONI COMORO IS..                "	513
+HAH	"MORONI COMORO IS                "	513
 HAJ	"HANNOVER                    "	429
 HAK	"HAIKOU                       "	713
 HAL	"HALALI                "	575
 HAM	"HAMBURG                     "	429
-HAN	"HANOI SOC.         "	791
+HAN	"HANOI SOC         "	791
 HAO	"HAMILTON                    "	44
 HAP	"HAPPY BAY           "	802
 HAQ	"HANIMAADHOO                "	750
@@ -2688,7 +2688,7 @@ HBC	"HANUS BAY                 "	1
 HBH	"HOBART BAY                "	1
 HBI	"HARBOUR ISLAND             "	204
 HBK	"HINCHINBROOK              "	1
-HBN	"PHUBON SOC.        "	791
+HBN	"PHUBON SOC        "	791
 HBO	"HUMBOLDT                "	65
 HBR	"HOBART                 "	73
 HBT	"HAFR ALBATIN          "	670
@@ -2698,7 +2698,7 @@ HCB	"SHOAL COVE                "	1
 HCC	"HUDSON                 "	22
 HCM	"EIL                         "	573
 HCN	"HENGCHUN                    "	781
-HCQ	"HALLS  W.            "	802
+HCQ	"HALLS  W            "	802
 HCR	"HOLY CROSS                "	1
 HCS	"JOHANNESBURG     "	562
 HCW	"CHERAW          "	37
@@ -2741,13 +2741,13 @@ HGN	"MAE HONG SON              "	782
 HGO	"KORHOGO                "	533
 HGR	"HAGERSTOWN MARYLAND            "	35
 HGS	"FREETOWN                 "	571
-HGU	"MT. HAGEN        "	804
+HGU	"MT HAGEN        "	804
 HGZ	"HOGATZA                   "	1
 HHA	"HUANGHUA             "	713
 HHE	"HACHINOHE                     "	736
 HHH	"HILTON HEAD ISLAND SC          "	37
 HHN	"HAHN             "	429
-HHP	HONG KONG.                         	729
+HHP	HONG KONG                         	729
 HHQ	"HUA HIN                   "	782
 HHR	"HAWTHORNE             "	91
 HHZ	"HIKUERU           "	823
@@ -2792,12 +2792,12 @@ HLG	"WHEELING WEST          "	39
 HLH	"ULANHOT                      "	713
 HLI	"HOLLISTER             "	91
 HLJ	"SHAULIAJ                 "	452
-HLL	"HILLSIDE W.               "	802
+HLL	"HILLSIDE W               "	802
 HLM	"HOLLAND                "	43
 HLN	"HELENA                  "	84
-HLP	"JAKARTA INDONESIA.                "	832
-HLS	"ST. HELENES TASMANIA              "	802
-HLT	"HAMILTON VIC.            "	802
+HLP	"JAKARTA INDONESIA                "	832
+HLS	"ST HELENES TASMANIA              "	802
+HLT	"HAMILTON VIC            "	802
 HLU	"HOUAILOU             "	846
 HLV	"HELENVALE           "	778
 HLW	"HLUHLUWE               "	562
@@ -2805,7 +2805,7 @@ HLY	"HOLYHEAD                   "	493
 HLZ	"HAMILTON               "	851
 HMA	"MALMO-HARBOUR               "	484
 HME	"HASSI MESSAOUD              "	500
-HMG	"HERMANNSBURG N.T.        "	802
+HMG	"HERMANNSBURG NT        "	802
 HMI	"HAMI                         "	713
 HMJ	"KHMELNITSKIY                "	488
 HMN	"ALAMOGORDO            "	86
@@ -2817,12 +2817,12 @@ HMV	"HEMAVAN                     "	484
 HNA	"MORIOKA                       "	736
 HNB	"HUNTINGBURG NA            "	42
 HNC	"HATTERAS         "	36
-HND	"TOKYO  .                      "	736
+HND	"TOKYO                        "	736
 HNE	"TAHNETA PASS LODGE        "	1
 HNG	"HIENGHENE            "	846
 HNH	"HOONAH                    "	1
 HNI	"HEIWENI          "	804
-HNK	"HINCHINBROOK ISLAND QLD. AUSTRALI"	802
+HNK	"HINCHINBROOK ISLAND QLD AUSTRALI"	802
 HNL	"HONOLULU OAHU           "	2
 HNM	"HANA                 "	2
 HNN	"HONINABI         "	804
@@ -2837,26 +2837,26 @@ HOE	"HOUEISAY                      "	744
 HOF	"HAFUF                 "	670
 HOG	"HOLGUIN                       "	219
 HOH	"HOHENEMS                    "	403
-HOI	"HAO  S. PACIFIC "	823
-HOK	"HOOKER  N.T.        "	802
+HOI	"HAO  S PACIFIC "	823
+HOK	"HOOKER  NT        "	802
 HOL	"HOLIKACHUK                "	1
 HOM	"HOMER                     "	1
 HON	"HURON               "	67
-HOO	"QUANG DUC SOC.     "	791
+HOO	"QUANG DUC SOC     "	791
 HOP	"HOPKINSVILLE           "	52
 HOQ	"HOF                         "	429
-HOR	"HORTA FAIAL IS. AZORES           "	469
+HOR	"HORTA FAIAL IS AZORES           "	469
 HOS	"HOSANA                     "	522
 HOT	"HOT SPRINGS AR            "	71
 HOU	"HOUSTON                    "	74
 HOV	"ORSTA/VOLDA                  "	465
 HOW	"FORT KOBBE PANAMA--HOWARD AFB     "	162
 HOX	"HON                     "	706
-HOY	"HOY IS.          "	493
-HPA	"LIFUKA HAAPAI GROUP TONGA IS.    "	881
+HOY	"HOY IS          "	493
+HPA	"LIFUKA HAAPAI GROUP TONGA IS    "	881
 HPB	"HOOPER BAY                "	1
 HPE	"HOPE VALE QLD            "	802
-HPH	"HAIPHONG SOC. REP. OF VIET NAM    "	791
+HPH	"HAIPHONG SOC REP OF VIET NAM    "	791
 HPN	"WHITE PLAINS           "	22
 HPR	"PRETORIA  -CENTRAL     "	562
 HPT	"HAMPTON                  "	61
@@ -2877,13 +2877,13 @@ HRO	"HARRISON AR               "	71
 HRR	"HERRERA                   "	327
 HRS	"HARRISMITH             "	562
 HRT	"HARROGATE               "	493
-HRY	"HENBURY N.T.             "	802
+HRY	"HENBURY NT             "	802
 HSB	"HARRISBURG             "	41
 HSC	"SHAOGUAN             "	713
 HSH	"LAS VEGAS                 "	85
 HSI	"HASTINGS                "	65
 HSL	"HUSLIA                    "	1
-HSM	"HORSHAM VIC.             "	802
+HSM	"HORSHAM VIC             "	802
 HSP	"HOT SPRINGS            "	38
 HSS	"HISSAR                       "	733
 HST	"HOMESTEAD                "	33
@@ -2899,19 +2899,19 @@ HTN	"KHOTAN                       "	713
 HTO	"EAST HAMPTON           "	22
 HTR	"HATERUMA                      "	736
 HTS	"ASHLANDKY/HUNTINGTON WV       "	39
-HTU	"HOPETOUN VIC.            "	802
+HTU	"HOPETOUN VIC            "	802
 HTV	"HUNTSVILLE                 "	74
 HTW	"CHESAPEAKE                  "	44
 HTZ	"HATO COROZAL              "	327
 HUA	"HUNTSVILLE              "	51
-HUB	"HUMBERT RIVER N.T.       "	802
+HUB	"HUMBERT RIVER NT       "	802
 HUC	"HUMACAO PUERTO RICO               "	3
 HUD	"HUMBOLDT                 "	61
 HUE	"HUMERA                     "	522
 HUF	"TERRE HAUTE NA            "	42
 HUG	"HUEHUETENANGO            "	127
-HUH	"HUAHINE SOC. IS.    "	823
-HUI	"HUE SOC.           "	791
+HUH	"HUAHINE SOC IS    "	823
+HUI	"HUE SOC           "	791
 HUJ	"HUGO                   "	73
 HUK	"HUKUNTSI                 "	510
 HUL	"HOULTON                   "	12
@@ -2938,7 +2938,7 @@ HVS	"HARTSVILLE      "	37
 HWA	"HAWABANGO        "	804
 HWD	"HAYWARD               "	91
 HWI	"HAWK INLET                "	1
-HWK	HAWKER S.                  	802
+HWK	HAWKER S                  	802
 HWN	"HWANGE NATIONAL PARK ZIMBABWE     "	565
 HXX	"HAY                "	802
 HYA	"HYANNIS          "	13
@@ -2959,7 +2959,7 @@ HZL	"HAZLETON            "	23
 HZV	"HAZYVIEW               "	562
 IAA	"IGARKA                       "	770
 IAB	"WICHITA                   "	62
-IAD	"  D.C.                "	32
+IAD	"  DC                "	32
 IAG	"NIAGARA FALLS          "	22
 IAH	"HOUSTON                    "	74
 IAM	"IN AMENAS                   "	500
@@ -2987,7 +2987,7 @@ IDB	"IDRE                        "	484
 IDF	"IDIOFA                      "	517
 IDG	"IDA GROVE                "	61
 IDI	"NA             "	23
-IDK	"INDULKANA S.              "	802
+IDK	"INDULKANA S              "	802
 IDN	"INDAGEN          "	804
 IDO	"SANTA ISABEL DO MORRO        "	316
 IDR	"INDORE                       "	733
@@ -3061,7 +3061,7 @@ IMK	"SIMIKOT                      "	755
 IML	"IMPERIAL                "	65
 IMM	"IMMOKALEE                "	33
 IMN	"IMANE            "	804
-IMO	"ZEMIO CEN. AFRICAN REPUBLIC       "	509
+IMO	"ZEMIO CEN AFRICAN REPUBLIC       "	509
 IMP	"IMPERATRIZ                   "	316
 IMT	"IRON MOUNTAIN          "	43
 IMZ	"NIMROZ                 "	701
@@ -3077,13 +3077,13 @@ INI	"NIS SERBIA                        "	480
 INJ	"INJUNE              "	802
 INK	"WINK                       "	74
 INL	"INTERNATIONAL FALLS   "	63
-INM	"INNAMINCKA S.             "	802
+INM	"INNAMINCKA S             "	802
 INN	"INNSBRUCK                   "	403
 INO	"INONGO                      "	517
 INQ	"INISHEER        "	441
 INS	"N SPRINGS            "	85
 INT	"WINSTON-SALEM    "	36
-INU	"NAURU REP. OF NAURU               "	845
+INU	"NAURU REP OF NAURU               "	845
 INV	"INVERNESS        "	493
 INW	"WINSLOW                 "	81
 INX	"INANWATAN                "	832
@@ -3091,7 +3091,7 @@ INY	"INYATI                 "	562
 INZ	"IN SALAH                    "	500
 IOA	"IOANNINA                     "	433
 IOK	"IOKEA            "	804
-IOM	"ISLE OF MAN U.K.                  "	493
+IOM	"ISLE OF MAN UK                  "	493
 ION	"IMPFONDO   "	515
 IOP	"IOMA             "	368
 IOR	"INISHMORE       "	441
@@ -3127,9 +3127,9 @@ IRN	"IRIONA                    "	131
 IRO	"BIRAO          "	509
 IRP	"ISIRO                       "	517
 IRS	"STURGIS                "	43
-ISA	"MT. ISA             "	802
+ISA	"MT ISA             "	802
 ISB	"ISLAMABAD/RAWALPINDI       "	764
-ISC	"ISLES OF SCILLY U.K.              "	493
+ISC	"ISLES OF SCILLY UK              "	493
 ISD	"ISCUANDE                  "	327
 ISG	"ISHIGAKI                      "	736
 ISH	"ISCHIA                        "	450
@@ -3169,7 +3169,7 @@ IVH	"IVISHAK                   "	1
 IVL	"IVALO                      "	425
 IVO	"CHIVOLO                   "	327
 IVR	"INVERELL           "	802
-IVW	"INVERWAY N.T.            "	802
+IVW	"INVERWAY NT            "	802
 IWA	"IVANOVO                      "	475
 IWD	"IRONWOOD               "	43
 IWJ	"IWAMI                         "	736
@@ -3197,15 +3197,15 @@ IXU	"AURANGABAD                   "	733
 IXV	"ALONG                        "	733
 IXW	"JAMSHEDPUR                   "	733
 IXY	"KANDLA                       "	733
-IXZ	"PORT BLAIR ANDAMAN IS.      "	733
+IXZ	"PORT BLAIR ANDAMAN IS      "	733
 IYK	"INYOKERN              "	91
 IZM	"IZMIR                        "	679
 IZO	"IZUMO                         "	736
 IZT	"IXTEPEC                     "	148
 JAA	"JALALABAD              "	701
-JAB	"JABIRU N.T.              "	802
+JAB	"JABIRU NT              "	802
 JAC	"JACKSON                  "	88
-JAD	"JANDAKOT W.               "	802
+JAD	"JANDAKOT W               "	802
 JAE	"ATLANTA                  "	34
 JAF	"JAFFNA                    "	711
 JAG	"JACOBABAD                  "	764
@@ -3233,7 +3233,7 @@ JBT	"BETHEL                    "	1
 JCA	"CANNES   -CROISETTE HELIPORT  "	427
 JCB	"JOACABA                      "	316
 JCC	"SAN FRANCISCO         "	91
-JCD	"ST.CROIXVIRGIN IS.                "	4
+JCD	"STCROIXVIRGIN IS                "	4
 JCE	"SAN FRANCISCO         "	91
 JCH	"CHRISTIANSHAB             "	975
 JCI	"  CITY             "	62
@@ -3245,7 +3245,7 @@ JCR	"JACAREACANGA PA             "	316
 JCT	"JUNCTION                   "	74
 JCY	"JOHNSON                    "	74
 JDA	"JOHN DAY                 "	92
-JDB	"DALLAS/FT. WORTH           "	74
+JDB	"DALLAS/FT WORTH           "	74
 JDF	"JUIZ DE FORA                 "	316
 JDH	"JODHPUR                      "	733
 JDM	"MIAMI                    "	33
@@ -3265,7 +3265,7 @@ JEM	"EMERYVILLE            "	91
 JEQ	"JEQUIE                       "	316
 JER	"JERSEY        "	493
 JEV	"EVRY                          "	427
-JFK	" NEW YORK JFK              "	22
+JFK	" NY JFK              "	22
 JFM	"FREMANTLE WA             "	802
 JFN	"JEFFERSON                   "	44
 JFR	"FREDERIKSHAB              "	975
@@ -3379,12 +3379,12 @@ JSS	"SPETSAI                      "	433
 JST	"JOHNSTOWN           "	23
 JSU	"SUKKERTOPPEN              "	975
 JSY	"SYROS ISLAND                 "	433
-JSZ	"ST. TROPEZ                    "	427
+JSZ	"ST TROPEZ                    "	427
 JTC	"HOUSTON                    "	74
 JTI	"JATAI                        "	316
 JTO	"THO ND OAKS         "	91
-JTR	"SANTORINI THIRA IS.         "	433
-JTY	"ASTYPALEA IS. DODEKANESE    "	433
+JTR	"SANTORINI THIRA IS         "	433
+JTY	"ASTYPALEA IS DODEKANESE    "	433
 JUA	"JUARA MT                    "	316
 JUB	"JUBA                         "	583
 JUI	"JUIST                       "	429
@@ -3393,7 +3393,7 @@ JUL	"JULIACA                       "	368
 JUM	"JUMLA                        "	755
 JUN	"JUNDAH              "	802
 JUO	"JURADO                    "	327
-JUR	"JURIEN BAY W.             "	802
+JUR	"JURIEN BAY W             "	802
 JUT	"JUSTICALPA                "	131
 JUV	"UPERNAVIK                 "	975
 JUZ	"JUZHOU ZHEJIANG     "	713
@@ -3443,7 +3443,7 @@ KAI	"KAIETEUR                     "	350
 KAJ	"KAJAANI                    "	425
 KAK	"KAR              "	804
 KAL	"KALTAG                    "	1
-KAM	"KAMARAN IS.                   "	694
+KAM	"KAMARAN IS                   "	694
 KAN	"KANO                        "	555
 KAO	KU                                 	425
 KAP	"KAPANGA                     "	517
@@ -3454,13 +3454,13 @@ KAT	"KAITAIA                "	851
 KAU	"KAUHAVA                    "	425
 KAV	"KAVANAYEN                "	388
 KAW	"KAWTHAUNG                   "	706
-KAX	"KALBARRI W.               "	802
+KAX	"KALBARRI W               "	802
 KAY	"WAKAYA                        "	821
 KAZ	"KAU                      "	832
 KBA	"KABALA  NE               "	571
-KBB	"KIRKIMBIE N.T.           "	802
+KBB	"KIRKIMBIE NT           "	802
 KBC	"BIRCH                "	1
-KBD	"KIMBERLY DOWNS W.         "	802
+KBD	"KIMBERLY DOWNS W         "	802
 KBE	"BELL ISLAND               "	1
 KBF	"KARUBAGA                 "	832
 KBG	"KABALEGA FALLS              "	590
@@ -3480,7 +3480,7 @@ KBT	"KABEN              "	844
 KBV	"KRABI                     "	782
 KBW	"CHIGNIK                   "	1
 KBX	"KAMBUAYA                 "	832
-KBY	"STREAKY BAY S.            "	802
+KBY	"STREAKY BAY S            "	802
 KBZ	"KAIKOURA               "	851
 KCA	"KUQA                         "	713
 KCB	"KASIKASIMA         "	379
@@ -3499,7 +3499,7 @@ KCS	"KINGS  STATION NT   "	802
 KCU	"MASINDI                     "	590
 KCZ	"KOCHI                         "	736
 KDA	"KOLDA                       "	569
-KDB	"KAMBALDA W.               "	802
+KDB	"KAMBALDA W               "	802
 KDC	"KANDI BENIN                       "	519
 KDD	"KHUZDAR                    "	764
 KDE	"KOROBA           "	804
@@ -3523,7 +3523,7 @@ KEB	"ENGLISH BAY               "	1
 KEC	"KASENGA                     "	517
 KED	"KAEDI                   "	545
 KEE	"KELLE      "	515
-KEF	"REYKJAVIK ICE. KEFL               "	439
+KEF	"REYKJAVIK ICE KEFL               "	439
 KEG	"KEGLSUGL         "	804
 KEH	"KENMORE               "	93
 KEI	"KEPI                     "	832
@@ -3549,20 +3549,20 @@ KFG	"KALKURUNG NT             "	802
 KFP	"FALSE PASS                "	1
 KGA	"KANANGA                     "	517
 KGB	"KONGE            "	804
-KGC	"KINGSCOTE S.              "	802
+KGC	"KINGSCOTE S              "	802
 KGD	"KALININGRAD                  "	475
 KGE	"GREYMOUTH              "	851
 KGF	"KARAGANDA                "	738
 KGG	"KEDOUGOU                    "	569
 KGH	"YONGAI           "	804
-KGI	"KALGOORLIE W.             "	802
+KGI	"KALGOORLIE W             "	802
 KGJ	"KARONGA MALAWI                    "	542
 KGK	"KOLIGANEK                 "	1
 KGL	"KIGALI                      "	566
 KGN	"KASONGO-LUNDA               "	517
 KGO	"KIROVOGRAD                  "	488
 KGQ	"KASUNGU MALAWI                    "	542
-KGR	"KULGERA N.T.             "	802
+KGR	"KULGERA NT             "	802
 KGS	"KOS                          "	433
 KGU	"KENINGAU SABAH           "	749
 KGW	"KAGI             "	804
@@ -3696,7 +3696,7 @@ KND	"KINDU                       "	517
 KNE	"KANAINJ          "	517
 KNG	"KAIMANA                  "	832
 KNH	"KINMEN                      "	781
-KNI	"KATANNING W.              "	802
+KNI	"KATANNING W              "	802
 KNJ	"KINDANBA   "	515
 KNK	"KAKHONAK                  "	1
 KNL	"KELANOA          "	804
@@ -3707,11 +3707,11 @@ KNP	"CAPANDA                      "	502
 KNQ	"KONE                 "	846
 KNR	"KANGAN         "	632
 KNS	"KING ISLAND TASMANIA              "	802
-KNT	"KENNETT MO.                       "	543
+KNT	"KENNETT MO                       "	543
 KNU	"KANPUR                       "	733
 KNV	"KNIGHTS INLET BC           "	906
 KNW	"NEW STUYAHOK              "	1
-KNX	"KUNUNURRA W.              "	802
+KNX	"KUNUNURRA W              "	802
 KNZ	"KENIEBA                       "	543
 KOA	"KONA              "	2
 KOB	"KOUTABA                  "	504
@@ -3721,12 +3721,12 @@ KOE	"KUPANG                   "	832
 KOF	"KOMATIPOORT TRANSVAAL "	562
 KOG	"KHONG                         "	744
 KOH	"KOOLATAH            "	802
-KOI	"KIRKWALL ORKNEY IS. .K"	493
+KOI	"KIRKWALL ORKNEY IS K"	493
 KOJ	"KAGOSHIMA                     "	736
 KOK	"KOKKOLA                    "	425
 KOL	"KOUMALA        "	509
 KOM	"KOMO-MANDA       "	804
-KON	"KONTUM SOC.        "	791
+KON	"KONTUM SOC        "	791
 KOO	"KONGOLO                     "	517
 KOP	"NAKHON PHANOM             "	782
 KOQ	"KOETHEN                     "	429
@@ -3760,10 +3760,10 @@ KPY	"PORT BAILEY               "	1
 KQA	"AKUTAN                    "	1
 KQB	"KOONIBBA SA              "	802
 KQL	"KOL              "	804
-KRA	"KERANG VIC.              "	802
+KRA	"KERANG VIC              "	802
 KRB	"KARUMBA             "	802
 KRC	"KERINCI                  "	832
-KRD	"KURUNDI N.T.             "	802
+KRD	"KURUNDI NT             "	802
 KRE	"KIRUNDO BURUNDI                   "	503
 KRF	"KRAMFORS                    "	484
 KRG	"KARASABAI                    "	350
@@ -3777,7 +3777,7 @@ KRO	"KROONSTAD              "	562
 KRP	"KARUP                       "	419
 KRQ	"KRAMATORSK                  "	488
 KRR	"KRASNODAR                    "	475
-KRS	"KRISTIANSAND S.              "	465
+KRS	"KRISTIANSAND S              "	465
 KRT	"KHARTOUM                     "	583
 KRU	"KERAU            "	804
 KRV	"KERIO VALLEY                 "	535
@@ -3797,20 +3797,20 @@ KSI	"KISSIDOUGOU                 "	531
 KSJ	"KASOS ISLAND                 "	433
 KSK	"KARLSKOGA                   "	484
 KSL	"KASSALA                      "	583
-KSM	"ST. MARY'S                "	1
+KSM	"ST MARY'S                "	1
 KSN	"KUSTANAY                 "	738
 KSO	"KASTORIA                     "	433
 KSP	"KOSIPE           "	804
 KSQ	"KARSHI                  "	788
 KSS	"SIKASSO                       "	543
 KST	"KOSTI                        "	583
-KSU	"KRISTIANSUND N.              "	465
+KSU	"KRISTIANSUND N              "	465
 KSV	"SPRINGVALE          "	802
 KSW	"KIRYAT SHMONA                "	636
 KSX	"YASURU           "	804
 KSY	"KARS                         "	679
 KSZ	"KOTLAS                       "	475
-KTA	"KARRATHA W.               "	802
+KTA	"KARRATHA W               "	802
 KTB	"THORNE BAY                "	1
 KTC	"KATIOLA             "	533
 KTD	"KITA- DAITO                   "	736
@@ -3824,9 +3824,9 @@ KTL	"KITALE                       "	535
 KTM	"KATHMANDU                    "	755
 KTN	"KETCHIKAN                 "	1
 KTO	"KATO                         "	350
-KTP	"KINGSTON .                 "	243
+KTP	"KINGSTON                  "	243
 KTQ	"KITEE                      "	425
-KTR	"KATHERINE N.T.           "	802
+KTR	"KATHERINE NT           "	802
 KTS	"BREVIG MISSION            "	1
 KTT	"KITTILA                    "	425
 KTU	"KOTA                         "	733
@@ -3858,7 +3858,7 @@ KUU	"KULU                         "	733
 KUV	"KUNSAN                  "	778
 KUW	"KAMUSI           "	804
 KUY	"UYAK                      "	1
-KUZ	"K N S. KOREA--K N AB          "	778
+KUZ	"K N S KOREA--K N AB          "	778
 KVA	"KAVALLA                      "	433
 KVB	"SKOVDE                      "	484
 KVC	"KING COVE                 "	1
@@ -3898,8 +3898,8 @@ KXR	"KAROOLA          "	804
 KYA	"KONYA                        "	679
 KYD	"ORCHID ISLAND               "	781
 KYE	"TRIPOLI                     "	647
-KYF	"YEELIRIE W.               "	802
-KYI	"YALATA MISSION S.         "	802
+KYF	"YEELIRIE W               "	802
+KYI	"YALATA MISSION S         "	802
 KYK	"KARLUK                    "	1
 KYL	"KEY LARGO                "	33
 KYN	"MILTON KEYNES           "	493
@@ -3929,7 +3929,7 @@ LAG	"LA GUAIRA                "	388
 LAH	"LABUHA                   "	832
 LAI	"LANNION                       "	427
 LAJ	"LAGES                        "	316
-LAK	"AKLAVIK N.W.T.             "	931
+LAK	"AKLAVIK NWT             "	931
 LAL	"LAKELAND                 "	33
 LAM	"LOS ALAMOS            "	86
 LAN	"LANSING                "	43
@@ -3980,7 +3980,7 @@ LCI	"LACONIA            "	14
 LCK	"COLUMBUS                    "	44
 LCL	"LA COLOMA                     "	219
 LCM	"LA CUMBRE                 "	303
-LCN	"BALCANOONA S.             "	802
+LCN	"BALCANOONA S             "	802
 LCO	"LAGUE      "	515
 LCR	"LA CHORRERA               "	327
 LCS	"LAS CANAS               "	110
@@ -3990,7 +3990,7 @@ LDA	"MALDA                        "	733
 LDB	"LONDRINA                     "	316
 LDC	"LINDEMAN ISLAND     "	802
 LDE	"LOURDES                       "	427
-LDH	"LORD HOWE IS.        "	802
+LDH	"LORD HOWE IS        "	802
 LDI	"LINDI                     "	585
 LDJ	"LINDEN                "	21
 LDK	"LIDKOPING                   "	484
@@ -4000,13 +4000,13 @@ LDO	"LADOUANIE     "	379
 LDR	"LAWDAR                        "	694
 LDU	"LAHAD DATU SABAH         "	749
 LDV	"LANDIVISIAU                   "	427
-LDW	"LANSDOWNE W.              "	802
+LDW	"LANSDOWNE W              "	802
 LDX	"SAINT-LAURENT DU MARONI "	344
-LDY	"LONDONDERRY N. IRELAND (U.K.)    "	493
+LDY	"LONDONDERRY N IRELAND (UK)    "	493
 LDZ	"LONDOLOZI              "	562
-LEA	"LEARMONTH W.              "	802
+LEA	"LEARMONTH W              "	802
 LEB	"             "	14
-LED	"ST. PETERSBURG               "	475
+LED	"ST PETERSBURG               "	475
 LEE	"LEESBURG                 "	33
 LEF	"LEBAKENG LESOTHO                  "	536
 LEG	"ALEG                    "	545
@@ -4014,7 +4014,7 @@ LEH	"LE HAVRE                      "	427
 LEI	"ALMERIA                      "	482
 LEJ	"LEIPZIG                     "	429
 LEK	"LABE                        "	531
-LEL	"LAKE EVELLA N.T.         "	802
+LEL	"LAKE EVELLA NT         "	802
 LEM	"LEMMON              "	67
 LEO	"LECONI                        "	526
 LEP	"LEOPOLDINA                   "	316
@@ -4043,8 +4043,8 @@ LGC	"LA GRANGE                "	34
 LGD	"LA GRANDE                "	92
 LGE	"LENGEH                         "	632
 LGG	"LIEGE                      "	409
-LGH	"LEIGH  S.            "	802
-LGI	"DEADMAN'S CAY L.I.        "	204
+LGH	"LEIGH  S            "	802
+LGI	"DEADMAN'S CAY LI        "	204
 LGK	"LANGKAWI                  "	749
 LGL	"LONG LELLANG              "	749
 LGM	"LAIAGAM          "	804
@@ -4063,7 +4063,7 @@ LGZ	"LEGUIZAMO                 "	327
 LHA	"LAHR                        "	429
 LHB	"LOST HARBOR               "	1
 LHE	"LAHORE                     "	764
-LHG	"LIGHTNING RIDGE NSW.     "	802
+LHG	"LIGHTNING RIDGE NSW     "	802
 LHI	"LEREH                    "	832
 LHK	"GUANGHUA             "	713
 LHN	"LISHAN                      "	781
@@ -4073,11 +4073,11 @@ LHS	"LAS HERAS                 "	303
 LHV	"LOCK HAVEN          "	23
 LHW	"LANZHOU                      "	713
 LIA	"LIANGPING                    "	713
-LIB	"LIMBUNYA N.T.            "	802
+LIB	"LIMBUNYA NT            "	802
 LIC	"LIMON                   "	82
 LID	"LEIDEN                  "	461
 LIE	"LIBENGE                     "	517
-LIF	"LIFU LOYALTY IS.    "	840
+LIF	"LIFU LOYALTY IS    "	840
 LIG	"LIMOGES                       "	427
 LIH	"LIHUE KAUAI             "	2
 LII	"MULIA                    "	832
@@ -4124,7 +4124,7 @@ LLE	"MALELANE               "	562
 LLG	"CHILLAGOE           "	802
 LLH	"LAS LIMAS                 "	131
 LLI	"LALIBELLA                  "	522
-LLL	"LISSADEL W.               "	802
+LLL	"LISSADEL W               "	802
 LLM	"LONG LAMA                 "	749
 LLN	"KELILA                   "	832
 LLP	"LINDA DOWNS         "	802
@@ -4158,12 +4158,12 @@ LND	"LANDER                   "	88
 LNE	"ONORORE                     "	885
 LNF	"MUNBIL           "	804
 LNG	"LESE             "	804
-LNH	"LAKE NASH N.T.           "	802
+LNH	"LAKE NASH NT           "	802
 LNI	"LONELY                    "	1
 LNK	"LINCOLN                 "	65
 LNM	"LANGIMAR         "	804
 LNN	"WILLOUGHBY                  "	44
-LNO	"LEONORA W.                "	802
+LNO	"LEONORA W                "	802
 LNP	"WISE                   "	38
 LNQ	"LOANI            "	804
 LNR	"LONE ROCK            "	45
@@ -4174,7 +4174,7 @@ LNY	"LANAI CITY LANAI        "	2
 LNZ	"LINZ                        "	403
 LOA	"LORRAINE            "	802
 LOB	"LOBITO                       "	502
-LOC	"LOCK S.                   "	802
+LOC	"LOCK S                   "	802
 LOD	"LONGANA                     "	885
 LOE	"LOEI                      "	782
 LOF	"LOEN               "	844
@@ -4219,7 +4219,7 @@ LQN	"QALA-NAU               "	701
 LRA	"LARISSA                      "	433
 LRB	"LERIBE LESOTHO                    "	536
 LRD	"LAREDO                     "	74
-LRE	"LONGREACH QLD.            "	802
+LRE	"LONGREACH QLD            "	802
 LRF	"JACKSONVILLE AR           "	71
 LRG	"LORA LAI                   "	764
 LRH	"LA ROCHELLE                   "	427
@@ -4238,7 +4238,7 @@ LSC	"LA SERENA CHILE                   "	324
 LSE	"LA CROSSE            "	45
 LSF	"COLUMBUS                 "	34
 LSH	"LASHIO                      "	706
-LSI	"LERWICK SHETLAND IS. .K"	493
+LSI	"LERWICK SHETLAND IS K"	493
 LSJ	"LONG ISLAND      "	804
 LSK	"LUSK                     "	88
 LSL	"LOS CHILES              "	110
@@ -4255,7 +4255,7 @@ LSV	"LAS VEGAS                 "	85
 LSW	"LHOKSEUMAWE              "	832
 LSX	"LHOK SUKON               "	832
 LSY	"LISMORE            "	802
-LSZ	" LOSINJ CROATIA               "	415
+LSZ	" LOSINJ                "	415
 LTA	"TZANEEN                "	562
 LTB	"LATROBE TASMANIA         "	802
 LTC	"LAI CHAD                          "	511
@@ -4273,7 +4273,7 @@ LTP	"LYNDHURST           "	802
 LTQ	"LE TOUQUET                    "	427
 LTR	"LETTERKENNY     "	441
 LTS	"ALTUS                  "	73
-LTT	"ST. TROPEZ                    "	427
+LTT	"ST TROPEZ                    "	427
 LTV	"LOTUS VALE          "	802
 LTW	"PATUXENT/LEONARDTOWN MARYLAND  "	35
 LUA	"LUKLA                        "	755
@@ -4308,7 +4308,7 @@ LVI	"LIVINGSTONE                 "	597
 LVK	"LIVERMORE             "	91
 LVL	"LAWRENCEVILLE          "	38
 LVM	"LIVINGSTON              "	84
-LVO	"LAVERTON W.               "	802
+LVO	"LAVERTON W               "	802
 LVP	"LAVAN          "	632
 LVS	"LAS VEGAS             "	86
 LWB	"GREENBRIER WEST        "	39
@@ -4373,7 +4373,7 @@ MAO	"MANAUS                       "	316
 MAP	"MAMAI            "	804
 MAQ	"MAE SOT                   "	316
 MAR	"MARACAIBO                "	388
-MAS	"MANUS IS.        "	804
+MAS	"MANUS IS        "	804
 MAT	"MATADI                      "	517
 MAU	"MAUPITI SOCIETY "	823
 MAV	"MALOELAP           "	844
@@ -4382,7 +4382,7 @@ MAX	"MATAM                       "	569
 MAY	"MANGROVE CAY               "	204
 MAZ	"MAYAGUEZ PUERTO RICO              "	3
 MBA	"MOMBASA                      "	535
-MBB	"MARBLE BAR W.             "	802
+MBB	"MARBLE BAR W             "	802
 MBC	"M'BIGOU                       "	526
 MBD	"MIDDELBURG             "	562
 MBE	"MONBETSU                      "	736
@@ -4394,7 +4394,7 @@ MBJ	"MONTEGO BAY                "	243
 MBK	"MATUPA                       "	316
 MBL	"MANISTEE               "	43
 MBM	"MKAMBATI               "	562
-MBN	"MT. BARNETT W.            "	802
+MBN	"MT BARNETT W            "	802
 MBO	"MAMBURAO                "	766
 MBP	"MOYOBAMBA                     "	368
 MBQ	"MBARARA                     "	590
@@ -4428,7 +4428,7 @@ MCR	"MELCHOR DE MENCOS        "	127
 MCS	"MONTE CASEROS             "	303
 MCT	"MUSCAT OMAN                       "	658
 MCU	"MONTLUCON                     "	427
-MCV	"MAC ARTHUR RIVER N.T. AUST.      "	802
+MCV	"MAC ARTHUR RIVER NT AUST      "	802
 MCW	"MASON CITY               "	61
 MCX	"MAKHACHKALA                  "	475
 MCY	"MAROOCHYDORE        "	802
@@ -4450,26 +4450,26 @@ MDO	"MIDDLETON ISLAND          "	1
 MDP	"MINDIPTANA               "	832
 MDQ	"MAR DEL PLATA             "	303
 MDR	"MEDFRA                    "	1
-MDS	"MIDDLE CAICOS B.W.I.              "	281
+MDS	"MIDDLE CAICOS BWI              "	281
 MDT	"HARRISBURG          "	23
 MDU	"MENDI            "	804
 MDV	"MEDOUNEU                      "	526
 MDW	"CHICAGO                "	41
-MDX	"MERCEDES CORRIENTES ARG.         "	303
+MDX	"MERCEDES CORRIENTES ARG         "	303
 MDY	"MIDWAY ISLAND        "	5
 MDZ	"MENDOZA                   "	303
 MEA	"MACAE                        "	316
-MEB	"MELBOURNE VIC. AUS               "	802
+MEB	"MELBOURNE VIC AUS               "	802
 MEC	"MANTA                      "	337
 MED	"MEDINA                "	670
-MEE	"MARE LOYALTY IS.    "	840
+MEE	"MARE LOYALTY IS    "	840
 MEF	"MELFI CHAD                        "	511
 MEG	"MALANGE                      "	502
 MEH	"MEHAMN                       "	465
 MEI	"MERIDIAN            "	53
 MEJ	"MEADVILLE           "	23
 MEK	"MEKNES                     "	548
-MEL	"MELBOURNE VIC.           "	802
+MEL	"MELBOURNE VIC           "	802
 MEM	"MEMPHIS               "	54
 MEN	"MENDE                "	427
 MEO	"MANTEO           "	36
@@ -4483,7 +4483,7 @@ MEW	"MWEKA                       "	517
 MEX	" CITY                "	148
 MEY	"MEGHAULI                     "	755
 MEZ	"MESSINA                "	562
-MFA	"MAFIA IS.                 "	585
+MFA	"MAFIA IS                 "	585
 MFB	"MONFORT                   "	327
 MFC	"MAFETENG LESOTHO                  "	536
 MFD	"MANSFIELD                   "	44
@@ -4494,11 +4494,11 @@ MFH	"MESQUITE                  "	85
 MFI	"WAUKESHA             "	45
 MFJ	"MOALA                         "	821
 MFK	"MATSU                       "	781
-MFL	"MT. FULL STOP       "	802
+MFL	"MT FULL STOP       "	802
 MFM	"MACAU MACAU                       "	747
 MFN	"MILFORD SOUND          "	851
 MFO	"RAS NASRANI      "	591
-MFP	"MANNERS  N.T.       "	802
+MFP	"MANNERS  NT       "	802
 MFQ	"MARADI NIGER                      "	554
 MFR	"MEDFORD                  "	92
 MFS	"MIRAFLORES                "	327
@@ -4508,7 +4508,7 @@ MFV	"MELFA                  "	38
 MFX	"MERIBEL                       "	427
 MFY	"MAIFA                         "	694
 MGA	"MANAGUA NICARAGUA                 "	153
-MGB	"MT. GAMBIER S.            "	802
+MGB	"MT GAMBIER S            "	802
 MGC	" CITY NA          "	42
 MGD	"MAGDALENA                   "	312
 MGE	"MARIETTA                 "	34
@@ -4523,35 +4523,35 @@ MGO	"MANEGA                        "	316
 MGP	"MANGA            "	804
 MGQ	"MOGADISHU                   "	573
 MGR	"MOULTRIE/THOMASVILLE     "	34
-MGS	"MANGAIA COOK IS. S. PACIFIC      "	813
-MGT	"MILLINGIMBIE N.T.        "	802
+MGS	"MANGAIA COOK IS S PACIFIC      "	813
+MGT	"MILLINGIMBIE NT        "	802
 MGU	"MANAUNG                     "	706
-MGV	"MARGARET RIVER W.         "	802
+MGV	"MARGARET RIVER W         "	802
 MGW	"MORGANTOWN WEST        "	39
 MGX	"MOABI                         "	526
 MGY	"DAYTON                      "	44
 MGZ	"MERGUI                      "	706
 MHA	"MAHDIA                       "	350
-MHB	"AUCKLAND N.Z..                    "	851
+MHB	"AUCKLAND NZ                    "	851
 MHD	"MASHAD                         "	632
 MHE	"MITCHELL            "	67
 MHF	"MORICHAL                  "	327
 MHG	"MANNHEIM                    "	429
 MHH	"MARSH HARBOUR              "	204
-MHI	"MUSHA PEOP.      "	525
+MHI	"MUSHA PEOP      "	525
 MHJ	"MISRAK GASHAMO             "	522
 MHK	"MANHATTAN                 "	62
 MHL	"MARSHALL                "	64
 MHM	"MINCHUMINA                "	1
 MHN	"MULLEN                  "	65
-MHO	"MT. HOUSE W.              "	802
-MHQ	"MARIEHAMN ALAND IS.       "	425
+MHO	"MT HOUSE W              "	802
+MHQ	"MARIEHAMN ALAND IS       "	425
 MHR	"SACRAMENTO            "	91
 MHS	"MOUNT SHASTA          "	91
 MHT	"MANCHESTER         "	14
-MHU	"MOUNT HOTHAM VIC.        "	802
+MHU	"MOUNT HOTHAM VIC        "	802
 MHV	"MOJAVE                "	91
-MHX	"MANIHIKI ISLAND COOK IS S. PACIFI"	813
+MHX	"MANIHIKI ISLAND COOK IS S PACIFI"	813
 MHY	"MOREHEAD         "	804
 MHZ	"MILDENHALL          "	493
 MIA	"MIAMI                    "	33
@@ -4560,13 +4560,13 @@ MIC	"MINNEAPOLIS/ST PAUL MN-CRYSTAL US"	63
 MID	"MERIDA                     "	148
 MIE	"MUNCIE NA                 "	42
 MIF	"MONAHANS                   "	74
-MIH	"MITCHELL PLATEAU W. AUST.         "	802
+MIH	"MITCHELL PLATEAU W AUST         "	802
 MII	"MARILIA                      "	316
 MIJ	"MILI               "	844
 MIK	"MIKKELI                    "	425
 MIL	MILAN                              	450
 MIM	"MERIMBULA          "	802
-MIN	"MINNIPA S.                "	802
+MIN	"MINNIPA S                "	802
 MIO	"MIAMI                  "	73
 MIP	"MITSPEH RAMON                "	636
 MIQ	"OMAHA                   "	65
@@ -4578,7 +4578,7 @@ MIV	"MILLVILLE             "	21
 MIW	"MARSHALLTOWN             "	61
 MIX	"MIRITI                    "	327
 MIY	"MITTIEBAH NT             "	802
-MIZ	"MAINORU N.T.             "	802
+MIZ	"MAINORU NT             "	802
 MJA	"MANJA            "	541
 MJB	"MEJIT              "	844
 MJC	"MAN                    "	533
@@ -4594,7 +4594,7 @@ MJL	"MOUILA                        "	526
 MJM	"MBUJI-MAYI                  "	517
 MJN	"MAJUNGA          "	541
 MJO	"MOUNT ETJO LODGE            "	575
-MJP	"MANJIMUP W.               "	802
+MJP	"MANJIMUP W               "	802
 MJQ	"JACKSON               "	63
 MJR	"MIRAMAR BA               "	303
 MJT	"MYTILENE                     "	433
@@ -4610,7 +4610,7 @@ MKD	"METEKEL                    "	522
 MKE	"MILWAUKEE            "	45
 MKG	"MUSKEGON               "	43
 MKH	"MOKHOTLONG LESOTHO                "	536
-MKI	"M'BOKI CEN. AFRICAN REPUBLIC      "	509
+MKI	"M'BOKI CEN AFRICAN REPUBLIC      "	509
 MKJ	"MAKOUA     "	515
 MKK	"MOLOKAI/KAUNAKAK         "	2
 MKL	"JACKSON               "	54
@@ -4619,11 +4619,11 @@ MKN	"MALEKOLON        "	804
 MKO	"MUSKOGEE               "	73
 MKP	"MAKEMO   "	823
 MKQ	"MERAUKE                  "	832
-MKR	"MEEKATHARRA W.            "	802
+MKR	"MEEKATHARRA W            "	802
 MKS	"MEKANE SELAM               "	522
 MKT	"MANKATO               "	63
 MKU	"MAKOKOU                       "	526
-MKV	"MT. CAVENAGH N.T.        "	802
+MKV	"MT CAVENAGH NT        "	802
 MKW	"MANOKWARI                "	832
 MKX	"AL-MUKALLA                    "	694
 MKY	"MACKAY              "	802
@@ -4657,10 +4657,10 @@ MLZ	"MELO                        "	385
 MMA	"MALMO                       "	484
 MMB	"MEMANBETSU                    "	736
 MMC	"CIUDAD MANTE                "	148
-MMD	"MINAMI DAITO JIMA OKINAWA IS.     "	736
+MMD	"MINAMI DAITO JIMA OKINAWA IS     "	736
 MME	"TEES-SIDE          "	493
 MMF	"MAMFE                    "	504
-MMG	"MT. MAGNET W.             "	802
+MMG	"MT MAGNET W             "	802
 MMH	"MAMMOTH LAKES         "	91
 MMI	"ATHENS                "	54
 MMJ	"MATSUMOTO                     "	736
@@ -4684,7 +4684,7 @@ MNC	"NACALA                 "	550
 MND	"MEDINA                    "	327
 MNE	"MUNGARANIE SOUTH          "	802
 MNF	"MANA                          "	821
-MNG	"MANINGRIDA N.T.          "	802
+MNG	"MANINGRIDA NT          "	802
 MNH	"MINNERIYA                 "	711
 MNI	"MONTSERRAT MONTSERRAT             "	256
 MNJ	"MANANJARY        "	541
@@ -4699,10 +4699,10 @@ MNR	"MONGU                       "	597
 MNS	"MANSA                       "	597
 MNT	"MINTO                     "	1
 MNU	"MAULMYINE                   "	706
-MNV	"MOUNTAIN VALLEY N.T. AUST.       "	802
-MNW	"MACDONALD DOWNS N.T. AUST.       "	802
+MNV	"MOUNTAIN VALLEY NT AUST       "	802
+MNW	"MACDONALD DOWNS NT AUST       "	802
 MNX	"MANICORE AM                 "	316
-MNY	"MONO IS.               "	874
+MNY	"MONO IS               "	874
 MNZ	"MANASSAS               "	38
 MOA	"MOA                           "	219
 MOB	"MOBILE                  "	51
@@ -4712,14 +4712,14 @@ MOE	"MOMEIK                      "	706
 MOF	"MAUMERE                  "	832
 MOG	"MONGHSAT                    "	706
 MOH	"MOHANBARI                    "	733
-MOI	"MITIARO COOK IS. S. PACIFIC      "	813
+MOI	"MITIARO COOK IS S PACIFIC      "	813
 MOJ	"MOENGO             "	379
 MOK	"MANKONO               "	533
 MOL	"MOLDE                        "	465
 MOM	"MOUDJERIA               "	545
 MON	"MOUNT COOK             "	851
-MOO	"MOOMBA S.                 "	802
-MOP	"MT. PLEASANT           "	43
+MOO	"MOOMBA S                 "	802
+MOP	"MT PLEASANT           "	43
 MOQ	"MORONDAVA        "	541
 MOR	"MORRISTOWN            "	54
 MOS	"MOSES POINT               "	1
@@ -4729,7 +4729,7 @@ MOV	"MORANBAH            "	802
 MOW	"MOSCOW                       "	475
 MOX	"MORRIS                "	63
 MOY	"MONTERREY                 "	327
-MOZ	"MOOREA IS. SOC. IS.  "	823
+MOZ	"MOOREA IS SOC IS  "	823
 MPA	"MPACHA                      "	575
 MPB	"MIAMI                    "	33
 MPC	"MUKO-MUKO                "	832
@@ -4744,7 +4744,7 @@ MPK	"MOKPO            "	778
 MPL	"MONTPELLIER                   "	427
 MPM	"MAPUTO                 "	550
 MPN	"MOUNT PLEASANT FALKLAND ISLANDS   "	340
-MPO	"MT. POCONO          "	23
+MPO	"MT POCONO          "	23
 MPP	"MULATUPO                "	162
 MPQ	"MAAN                        "	639
 MPR	"MCPHERSON                 "	62
@@ -4755,16 +4755,16 @@ MPV	"MONTPELIER/BARRE        "	16
 MPW	"MARIUPOL                    "	488
 MPX	"MIYANMIN         "	804
 MPY	"MARIPASOULA             "	344
-MPZ	"MT. PLEASANT             "	61
-MQA	"MANDORA W.                "	802
+MPZ	"MT PLEASANT             "	61
+MQA	"MANDORA W                "	802
 MQB	"MACOMB                 "	41
-MQC	"MIQUELON ST. PIERRE & MIQUELON    "	950
+MQC	"MIQUELON ST PIERRE & MIQUELON    "	950
 MQD	"MAQUINCHAO                "	303
-MQE	"MARQUA N.T.              "	802
+MQE	"MARQUA NT              "	802
 MQF	"MAGNI RSK                 "	770
 MQH	"MINACU GO                   "	316
 MQI	"QUINCY           "	13
-MQL	"MILDURA VIC.             "	802
+MQL	"MILDURA VIC             "	802
 MQN	"MO-I-RANA                    "	465
 MQQ	"MOUNDOU CHAD                      "	511
 MQR	"MOSQUERA                  "	327
@@ -4790,23 +4790,23 @@ MRL	"MINERS LAKE         "	802
 MRM	"MANARI           "	804
 MRN	"MORGANTON        "	36
 MRO	"MASTERTON              "	851
-MRP	"MARLA S.                  "	802
+MRP	"MARLA S                  "	802
 MRQ	"MARINDUQUE              "	766
 MRR	"MACARA                     "	337
 MRS	"MARSEILLE                     "	427
-MRT	"MOROAK RIVER N.T.        "	802
+MRT	"MOROAK RIVER NT        "	802
 MRU	"MAURITIUS               "	546
 MRV	"MINERALNYE VODY              "	475
 MRW	"MORIOKA                       "	736
 MRX	"MARGARITA ISLAND         "	388
 MRY	"MONTEREY              "	91
-MRZ	"MOREE  AUST.               "	802
+MRZ	"MOREE  AUST               "	802
 MSA	"MUSKRAT DAM         "	936
 MSB	"MARIGOT              "	259
 MSC	"MESA                    "	81
-MSD	"MT. PLEASANT UTAH              "	87
+MSD	"MT PLEASANT UTAH              "	87
 MSE	"MANSTON            "	493
-MSF	"MT. SWAN N.T.            "	802
+MSF	"MT SWAN NT            "	802
 MSG	"MATSAILE LESOTHO                  "	536
 MSH	"MASIRAH OMAN                      "	658
 MSJ	"MISAWA                        "	736
@@ -4814,7 +4814,7 @@ MSL	"MUSCLE SHOALS           "	51
 MSM	"MASI-MANIMBA                "	517
 MSN	"MADISON              "	45
 MSO	"MISSOULA                "	84
-MSP	"MINNEAPOLIS/ST.PAUL   "	63
+MSP	"MINNEAPOLIS/STPAUL   "	63
 MSQ	"MINSK BELARUS                     "	413
 MSR	"MUS                          "	679
 MSS	"MASSENA                "	22
@@ -4828,7 +4828,7 @@ MSZ	"MOSSAMEDES                   "	502
 MTA	"MATAMATA               "	851
 MTB	"MONTE LIBANO              "	327
 MTC	"MOUNT CLEMENS          "	43
-MTD	"MT. SANDFORD N.T.        "	802
+MTD	"MT SANDFORD NT        "	802
 MTE	"MONTE ALEGRE                 "	316
 MTF	"MIZAN TEFERI               "	522
 MTG	"MATO GROSSO                  "	316
@@ -4860,12 +4860,12 @@ MUF	"MUTING                   "	832
 MUG	"MULEGE                      "	148
 MUH	"MERSA MATRUH     "	591
 MUJ	"MUI                        "	522
-MUK	"MAUKE COOK IS. S. PACIFIC        "	813
+MUK	"MAUKE COOK IS S PACIFIC        "	813
 MUM	"MUMIAS                       "	535
 MUN	"MATURIN                  "	388
 MUO	"MOUNTAIN HOME            "	83
-MUP	"MULGA PARK N.T.          "	802
-MUQ	"MUCCAN W.                 "	802
+MUP	"MULGA PARK NT          "	802
+MUQ	"MUCCAN W                 "	802
 MUR	"MARUDI SABAH             "	749
 MUT	"MUSCATINE                "	61
 MUU	"MOUNT UNION         "	23
@@ -4883,7 +4883,7 @@ MVG	"MEVANG                        "	526
 MVH	"MACKSVILLE         "	802
 MVI	"MANETAI          "	804
 MVJ	"MANDEVILLE                 "	243
-MVK	"MULKA S.                  "	802
+MVK	"MULKA S                  "	802
 MVL	"MORRISVILLE             "	16
 MVM	"KAYENTA                 "	81
 MVN	"MOUNT VERNON           "	41
@@ -4917,7 +4917,7 @@ MWO	"MIDDLETOWN                  "	44
 MWP	"MOUNTAIN                     "	755
 MWQ	"MAGWE                       "	706
 MWS	"MOUNT WILSON          "	91
-MWT	"MOOLAWATANA S.            "	802
+MWT	"MOOLAWATANA S            "	802
 MWU	"MUSSAU           "	804
 MWX	"MOSS TOWN                  "	204
 MWY	"M DA DOWNS       "	802
@@ -4937,12 +4937,12 @@ MXL	"MEXICALI                    "	148
 MXM	"MOROMBE          "	541
 MXN	"MORLAIX                       "	427
 MXO	"MONTICELLO               "	61
-MXP	"MILAN  .                      "	450
-MXQ	"MITCHELL RIVER Q.         "	802
+MXP	"MILAN                        "	450
+MXQ	"MITCHELL RIVER Q         "	802
 MXR	"MIRGOROD                    "	488
-MXS	"MAOTA SAVAII IS.        "	892
+MXS	"MAOTA SAVAII IS        "	892
 MXT	"MAINT O       "	541
-MXU	"MULLEWA W.                "	802
+MXU	"MULLEWA W                "	802
 MXV	"MORON                      "	751
 MXW	"MANDALGOBI                 "	751
 MXX	"MORA                        "	484
@@ -4962,7 +4962,7 @@ MYK	"MAY                  "	1
 MYL	"MCCALL                   "	83
 MYM	"MONKEY MOUNTAIN              "	350
 MYN	"MAREB                         "	694
-MYO	"MYROODAH W.               "	802
+MYO	"MYROODAH W               "	802
 MYP	"MARY                  "	785
 MYQ	"MYSORE                       "	733
 MYR	"MYRTLE BEACH    "	37
@@ -4999,8 +4999,8 @@ MZV	"MULU                      "	749
 MZX	"MASSLO                     "	522
 MZY	"MZIMBA MALAWI                     "	542
 MZZ	"MARION NA                 "	42
-NAA	"NARRABRI  AUST.            "	802
-NAC	"NARACOORTE S.             "	802
+NAA	"NARRABRI  AUST            "	802
+NAC	"NARACOORTE S             "	802
 NAD	"MACANAL                   "	327
 NAE	"NATITINGOU BENIN                  "	519
 NAF	"BANAINA                  "	832
@@ -5041,7 +5041,7 @@ NCI	"NECOCLI                   "	327
 NCL	"NEWCASTLE          "	493
 NCN	"NEW CHENEGAL              "	1
 NCO	"QUONSET POINT RHODE ISLAND     "	15
-NCP	"LUZON ISLAND  -CUBI PT. "	766
+NCP	"LUZON ISLAND  -CUBI PT "	766
 NCR	"SAN CARLOS NICARAGUA              "	153
 NCS	"NEWCASTLE              "	562
 NCT	"NICOYA                  "	110
@@ -5056,11 +5056,11 @@ NDG	"QIQIHAR              "	713
 NDI	"NAMUDI           "	804
 NDJ	"N'DJAMENA CHAD                    "	511
 NDK	"NAMORIK            "	844
-NDL	"NDELE CEN. AFRICAN REPUBLIC       "	509
+NDL	"NDELE CEN AFRICAN REPUBLIC       "	509
 NDM	"MENDI                      "	522
 NDN	"NADUNUMU         "	804
 NDR	"NADOR                      "	548
-NDS	"SANDSTONE W.              "	802
+NDS	"SANDSTONE W              "	802
 NDU	"RUNDU                       "	575
 NDY	"SANDAY           "	493
 NDZ	"NORDHOLZ-SPIEKA             "	429
@@ -5078,11 +5078,11 @@ NEV	"NEVIS LEEWARD ISLANDS             "	275
 NEW	"NEW ORLEANS           "	72
 NFG	"NEFTEYUGANSK                 "	770
 NFL	"FALLON                    "	85
-NFO	"NIUAFO'OU TONGA IS. SO. PACIFIC  "	881
+NFO	"NIUAFO'OU TONGA IS SO PACIFIC  "	881
 NGA	"YOUNG              "	802
 NGB	"NINGBO                       "	713
 NGC	"GRAND CANYON            "	81
-NGD	"ANEGADA BRITISH VIRGIN IS.        "	282
+NGD	"ANEGADA BRITISH VIRGIN IS        "	282
 NGE	"N'GAOUNDERE              "	504
 NGF	"KANEOHE BAY              "	2
 NGI	"NGAU                          "	821
@@ -5097,7 +5097,7 @@ NGU	"NORFOLK                "	38
 NGW	"CORPUS CHRISTI             "	74
 NGX	"MANANG                       "	755
 NGZ	"ALAMEDA               "	91
-NHA	"NHA-TRANG SOC.     "	791
+NHA	"NHA-TRANG SOC     "	791
 NHD	"MINHAD AB          "	678
 NHF	"NEW HALFA                    "	583
 NHK	"PATUXENT RIVER MARYLAND        "	35
@@ -5110,7 +5110,7 @@ NIA	"NIMBA                       "	537
 NIB	"NIKOLAI                   "	1
 NIE	"NIBLACK                   "	1
 NIF	"NIFTY WA                 "	802
-NIG	"NIKUNAU GILBERT ISLAND S. PACIFIC"	824
+NIG	"NIKUNAU GILBERT ISLAND S PACIFIC"	824
 NIK	"NIOKOLO KOBA                "	569
 NIM	"NIAMEY NIGER                      "	554
 NIN	"NINILCHIK                 "	1
@@ -5120,7 +5120,7 @@ NIT	"NIORT                         "	427
 NIX	"NIORO                         "	543
 NJC	"NIZHNEVARTOVSK               "	770
 NKA	"NKAN                          "	526
-NKB	"NOONKANBAH W.             "	802
+NKB	"NOONKANBAH W             "	802
 NKC	"NOUAKCHOTT              "	545
 NKD	"SINAK                    "	832
 NKG	"NANJING                      "	713
@@ -5139,11 +5139,11 @@ NLD	"NUEVO LAREDO                "	148
 NLE	"NILES                  "	43
 NLF	"DARNLEY ISLAND      "	802
 NLG	"NELSON LAGOON             "	1
-NLK	"NORFOLK IS.          "	802
-NLL	"NULLAGINE W.              "	802
+NLK	"NORFOLK IS          "	802
+NLL	"NULLAGINE W              "	802
 NLO	"KINSHASA-N'DOLO             "	517
 NLP	"NELSPRUIT              "	562
-NLS	"NICHOLSON W.              "	802
+NLS	"NICHOLSON W              "	802
 NLV	"NIKOLAEV                    "	488
 NMA	"NAMANGAN                "	788
 NMB	"DAMAN                        "	733
@@ -5152,7 +5152,7 @@ NME	"NIGHTMUTE                 "	1
 NMG	"SAN MIGUEL          "	162
 NMN	"NOMANE           "	804
 NMP	"NEW MOON            "	802
-NMR	"NAPPAMERRIE AUST.                 "	802
+NMR	"NAPPAMERRIE AUST                 "	802
 NMS	"NAMSANG                     "	706
 NMT	"NAMTU                       "	706
 NMU	"NAMU               "	844
@@ -5173,13 +5173,13 @@ NOB	"NOSARA BEACH            "	110
 NOC	"CONNAUGHT       "	441
 NOD	"NORDEN                      "	429
 NOE	"NORDDEICH                   "	429
-NOG	"NOGALES ARIZ/MEX.                 "	148
+NOG	"NOGALES ARIZ/MEX                 "	148
 NOI	"NOVOROSSIJSK                 "	475
 NOJ	"NOJABRXSK              "	770
 NOK	"NOVA XAVANTINA MT           "	316
 NOL	"PORT NOLLOTH           "	562
 NOM	"NOMAD RIVER      "	804
-NON	"NONOUTI GILBERT ISLAND S. PACIFIC"	824
+NON	"NONOUTI GILBERT ISLAND S PACIFIC"	824
 NOO	"NAORO            "	804
 NOP	"MACTAN ISLAND           "	766
 NOQ	"NORD                      "	975
@@ -5195,7 +5195,7 @@ NPG	"NIPA             "	804
 NPH	"NEPHI UTAH                     "	87
 NPL	"NEW PLYMOUTH           "	851
 NPO	"NANGAPINOH               "	832
-NPP	"NAPPERBY N.T.            "	802
+NPP	"NAPPERBY NT            "	802
 NPT	"NEWPORT RHODE ISLAND           "	15
 NQA	"MEMPHIS               "	54
 NQI	"KINGSVILLE                 "	74
@@ -5212,23 +5212,23 @@ NRE	"NAMROLE BURU            "	832
 NRG	"NARROGIN WA              "	802
 NRI	"SHANGRI-LA             "	73
 NRK	"NORRKOPING                  "	484
-NRL	"NORTH RONALDSAY SCOT. (U.K.)     "	493
+NRL	"NORTH RONALDSAY SCOT (UK)     "	493
 NRM	"NARA                          "	543
 NRR	"ROOSEVELT ROADS PUERTO RICO       "	3
-NRT	"TOKYO  .                      "	736
-NRY	"NEWRY N.T.               "	802
+NRT	"TOKYO                        "	736
+NRY	"NEWRY NT               "	802
 NSA	"NOOSA               "	802
-NSB	"BIMINI .                   "	204
+NSB	"BIMINI                    "	204
 NSE	"MILTON                   "	33
 NSH	"NOWSHAHR                       "	632
 NSI	"YAOUNDE-NSIMALEN       "	504
 NSK	"NORIL'SK                     "	770
-NSM	"NORSEMAN W.               "	802
+NSM	"NORSEMAN W               "	802
 NSN	"NELSON                 "	851
 NSO	"SCONE              "	802
 NST	"NAKHON SI THAMMARAT       "	782
 NSV	"NOOSAVILLE          "	802
-NSX	"NORTH SOUND VIRGIN GORDA B.V.I.   "	282
+NSX	"NORTH SOUND VIRGIN GORDA BVI   "	282
 NSY	"SIGONELLA                     "	450
 NTA	"NATADOLA                      "	821
 NTB	"NOTODDEN                     "	465
@@ -5246,7 +5246,7 @@ NTT	"NUIATOPUTAPU TONGA                "	881
 NTU	"OCEANA                 "	38
 NTX	"NATUNA RANAI             "	832
 NTY	"SUN CITY               "	562
-NUB	"NUMBULWAR N.T.           "	802
+NUB	"NUMBULWAR NT           "	802
 NUD	"EN NAHUD                     "	583
 NUE	"NUREMBERG                   "	429
 NUG	"NUGURIA          "	804
@@ -5256,7 +5256,7 @@ NUK	"NUKUTAVAKE           "	823
 NUL	"NULATO                    "	1
 NUP	"NUNAPITCHUK               "	1
 NUQ	"MOUNTAIN VIEW         "	91
-NUR	"NULLARBOR S.              "	802
+NUR	"NULLARBOR S              "	802
 NUS	"NORSUP                      "	885
 NUT	"NUTUVE           "	804
 NUU	"NAKURU                       "	535
@@ -5271,7 +5271,7 @@ NVR	"NOVGOROD                     "	475
 NVS	"NEVERS                        "	427
 NVT	"NAVEGANTES                   "	316
 NVY	"NEYVELI                      "	733
-NWA	"MOHELI COMORO IS.                 "	513
+NWA	"MOHELI COMORO IS                 "	513
 NWH	"NEWPORT            "	14
 NWI	"NORWICH            "	493
 NWS	"               "	22
@@ -5326,13 +5326,13 @@ OCV	"OCANA                     "	327
 OCW	"        "	36
 ODA	"OUADDA         "	509
 ODB	"CORDOBA                      "	482
-ODD	"OODNADATTA S.             "	802
+ODD	"OODNADATTA S             "	802
 ODE	"ODENSE                      "	419
 ODJ	"OUANDA DJALLE  "	509
-ODL	"CORDILLO DOWNS S.         "	802
+ODL	"CORDILLO DOWNS S         "	802
 ODM	"OAKLAND MARYLAND               "	35
 ODN	"LONG SERIDAN SARAWAK     "	749
-ODR	"ORD RIVER W.              "	802
+ODR	"ORD RIVER W              "	802
 ODS	"ODESSA                      "	488
 ODW	"OAK HARBOR            "	93
 ODY	"OUDOMXAY                      "	744
@@ -5366,17 +5366,17 @@ OHD	"OHRID MACEDONIA                   "	455
 OHG	"OGHSENOKALE               "	1
 OHI	"OSHAKATI                    "	575
 OHO	"OHOTSK                       "	770
-OHP	"OBAN-HLPT .K.           "	493
+OHP	"OBAN-HLPT K           "	493
 OHR	"WYK AUF FOEHR               "	429
 OHT	"KOHAT                      "	764
-OIM	"OSHIMA IS.                    "	736
+OIM	"OSHIMA IS                    "	736
 OIR	"OKUSHIRI                      "	736
 OIT	"OITA                          "	736
 OJC	"  CITY             "	62
-OKA	"OKINAWA RYUKYU IS.           "	736
+OKA	"OKINAWA RYUKYU IS           "	736
 OKB	"ORCHID BEACH QLD         "	802
 OKC	" CITY          "	73
-OKD	"SAPPORO  .                    "	736
+OKD	"SAPPORO                      "	736
 OKE	"OKINO ERABU                   "	736
 OKF	"OKAUKUEJO                   "	575
 OKG	"OKOYO      "	515
@@ -5405,7 +5405,7 @@ OLJ	"OLPOI                       "	885
 OLM	"OLYMPIA               "	93
 OLN	"COLONIA SARMIENTO         "	303
 OLO	"OLOMOUC             "	418
-OLP	"OLYMPIC DAM S.            "	802
+OLP	"OLYMPIC DAM S            "	802
 OLQ	"OLSOBIP          "	804
 OLS	"NOGALES                 "	81
 OLU	"COLUMBUS                "	65
@@ -5431,7 +5431,7 @@ ONA	"WINONA                "	63
 ONB	"ONONGE           "	804
 OND	"ONDANGWA                    "	575
 ONE	"ONEPUSU                "	874
-ONG	"MORNINGTON IS. Q.         "	802
+ONG	"MORNINGTON IS Q         "	802
 ONH	"ONEONTA                "	22
 ONI	"MOANAMANI                "	832
 ONL	"ONEILL                  "	65
@@ -5440,7 +5440,7 @@ ONN	"ONION BAY                 "	1
 ONO	"                  "	92
 ONP	"NEWPORT                  "	92
 ONR	"MONKIRA             "	802
-ONS	"ONSLOW W.                 "	802
+ONS	"ONSLOW W                 "	802
 ONT	"               "	91
 ONU	"ONO-I-LAU                     "	821
 ONX	"COLON                   "	162
@@ -5454,7 +5454,7 @@ OOT	"ONOTOA GILBERT IS                 "	824
 OPA	"KOPASKER                   "	439
 OPB	"OPEN BAY         "	804
 OPF	"MIAMI                    "	33
-OPI	"OENPELLI N.T.            "	802
+OPI	"OENPELLI NT            "	802
 OPL	"OPELO S             "	72
 OPO	"OPORTO                    "	469
 OPS	"SINOP                        "	316
@@ -5466,7 +5466,7 @@ ORC	"OROCUE                    "	327
 ORD	"CHICAGO                "	41
 ORE	"ORLEANS                       "	427
 ORF	"NORFOLK                "	38
-ORG	"PARAMARIBO SURINAM.               "	379
+ORG	"PARAMARIBO SURINAM               "	379
 ORH	"WORCESTER        "	13
 ORI	"PORT LIONS                "	1
 ORJ	"ORINDUIK                     "	350
@@ -5477,14 +5477,14 @@ ORN	"ORAN                        "	500
 ORO	"YORO                      "	131
 ORP	"ORAPA                    "	510
 ORQ	"NORWALK              "	11
-ORR	"YORKETOWN S.              "	802
-ORS	"ORPHEUS IS. RESORT  "	802
+ORR	"YORKETOWN S              "	802
+ORS	"ORPHEUS IS RESORT  "	802
 ORT	"NORTHWAY                  "	1
 ORU	"ORURO                       "	312
 ORV	"NOORVIK                   "	1
 ORW	"ORMARA                     "	764
 ORX	"ORIXIMINA                    "	316
-ORY	"PARIS   .                     "	427
+ORY	"PARIS                        "	427
 ORZ	"ORANGE WALK                  "	106
 OSA	"OSAKA                         "	736
 OSB	"OSAGE BEACH             "	64
@@ -5493,7 +5493,7 @@ OSD	"OSTERSUND                   "	484
 OSE	"OMORA            "	804
 OSG	"OSSIMA           "	804
 OSH	"OSHKOSH              "	45
-OSI	"OSIJEK CROATIA                    "	415
+OSI	"OSIJEK                     "	415
 OSK	"OSKARSHAMN                  "	484
 OSL	"OSLO                         "	465
 OSM	"MOSUL IRAQ                        "	634
@@ -5529,7 +5529,7 @@ OUE	"OUESSO     "	515
 OUG	"OUAHIGOUYA            "	593
 OUH	"OUDTSHOORN             "	562
 OUI	"BAN HOUEI SAI                 "	744
-OUK	"OUTER SKERRIES SHETLND IS. SCOT U"	493
+OUK	"OUTER SKERRIES SHETLND IS SCOT U"	493
 OUL	"OULU                       "	425
 OUM	"OUM-HADJER CHAD                   "	511
 OUN	"NORMAN                 "	73
@@ -5559,7 +5559,7 @@ OYE	"OYEM                          "	526
 OYG	"MOYO                        "	590
 OYK	"OIAPOQUE                     "	316
 OYL	"MOYALE                       "	535
-OYN	"OUYEN VIC.               "	802
+OYN	"OUYEN VIC               "	802
 OYO	"TRES ARROYOS              "	303
 OYP	"ST-GEORGES DE L/OYAPOCK "	344
 OYS	"YOSEMITE NATL PARK    "	91
@@ -5571,7 +5571,7 @@ OZR	"OZARK                   "	51
 OZZ	"OUARZAZATE                 "	548
 PAA	"PA-AN                       "	706
 PAB	"PEDRO AFONSO                 "	316
-PAC	"PANAMA CITY PAN. REP-PAITILLA ARPT"	162
+PAC	"PANAMA CITY PAN REP-PAITILLA ARPT"	162
 PAD	"PADERBORN                   "	429
 PAE	"EVERETT               "	93
 PAF	"PAKUBA                      "	590
@@ -5609,7 +5609,7 @@ PBK	"PACK                 "	1
 PBL	"PUERTO CABELLO           "	388
 PBM	"PARAMARIBO SURINAM                "	379
 PBN	"PORTO AMBOIN                 "	502
-PBO	"PARABURDOO W. AUST.               "	802
+PBO	"PARABURDOO W AUST               "	802
 PBP	"PUNTA ISLITA            "	110
 PBQ	"PIMENTA BUENO RO            "	316
 PBR	"PUERTO BARRIOS           "	127
@@ -5628,7 +5628,7 @@ PCL	"PUCALLPA                      "	368
 PCM	"PLAYA DEL CARMEN            "	148
 PCN	"PICTON                 "	851
 PCO	"PUNTA                "	148
-PCP	"PRINCIPE IS. PRINCIPE ISLAND      "	567
+PCP	"PRINCIPE IS PRINCIPE ISLAND      "	567
 PCR	"PUERTO CARRENO            "	327
 PCS	"PICOS                        "	316
 PCT	"PRINCETON             "	21
@@ -5637,7 +5637,7 @@ PCV	"PUNTA CHIVATO               "	148
 PDA	"PUERTO INIRIDA            "	327
 PDB	"PEDRO BAY                 "	1
 PDC	"MUEO                 "	846
-PDE	"PANDIE PANDIE S.          "	802
+PDE	"PANDIE PANDIE S          "	802
 PDF	"PRADO BA                    "	316
 PDG	"PADANG                   "	832
 PDI	"PINDIU PAPUA NEW           "	804
@@ -5654,7 +5654,7 @@ PDU	"PAYSANDU                    "	385
 PDV	"PLOVDIV                    "	411
 PDX	"PORTLAND                 "	92
 PDZ	"PEDERNALES               "	388
-PEA	"PENNESHAW S.              "	802
+PEA	"PENNESHAW S              "	802
 PEB	"PEBANE                 "	550
 PEC	"PELICAN                   "	1
 PEE	"PERM                         "	475
@@ -5667,13 +5667,13 @@ PEM	"PUERTO MALDONADO              "	368
 PEN	"PENANG                    "	749
 PEP	"PEPPIMENARTI NT          "	802
 PEQ	"PECOS                      "	74
-PER	"PERTH W.                  "	802
+PER	"PERTH W                  "	802
 PES	"PETROZAVODSK                 "	475
 PET	"PELOTAS                      "	316
 PEU	"PUERTO LEMPIRA            "	131
 PEW	"PESHAWAR                   "	764
 PEX	"PECHORA                      "	475
-PEY	"PENONG S.                 "	802
+PEY	"PENONG S                 "	802
 PEZ	"PENZA                        "	475
 PFA	"PAF WARREN                "	1
 PFB	"PASSO FUNDO                  "	316
@@ -5697,20 +5697,20 @@ PGL	"PASCAGOULA          "	53
 PGM	"PORT GRAHAM               "	1
 PGN	"PANGIA           "	804
 PGO	"PAGOSA SPRINGS          "	82
-PGP	"PORTO ALEGRE SAO TOME IS.         "	567
+PGP	"PORTO ALEGRE SAO TOME IS         "	567
 PGR	"PARAGOULD AR              "	71
 PGS	"PEACH SPRINGS           "	81
 PGT	"PORANGATU                    "	316
 PGV	"GREENVILLE       "	36
 PGX	"PERIGUEUX                     "	427
 PGZ	"PONTA GROSSA                 "	316
-PHA	"PHAN RANG SOC.     "	791
+PHA	"PHAN RANG SOC     "	791
 PHB	"PARNAIBA PIAUI              "	316
 PHC	"PORT HARCOURT               "	555
 PHD	"NEW PHILADELPHIA            "	44
-PHE	"PORT HEDLAND W.           "	802
+PHE	"PORT HEDLAND W           "	802
 PHF	"NEWPORT NEWS/WMSBURG   "	38
-PHH	"PHAN THIET SOC.    "	791
+PHH	"PHAN THIET SOC    "	791
 PHI	"PINHEIRO                     "	316
 PHJ	"PORT HUNTER NSW          "	802
 PHK	"PAHOKEE                  "	33
@@ -5722,21 +5722,21 @@ PHP	"PHILIP              "	67
 PHR	"PACIFIC HARBOUR               "	821
 PHS	"PHITSANULOKE              "	782
 PHT	"PARIS                 "	54
-PHU	"PHU-VINH SOC.      "	791
+PHU	"PHU-VINH SOC      "	791
 PHW	"PHALABORWA             "	562
 PHX	"PHOENIX                 "	81
 PHY	"PINHEIRO                     "	316
 PHZ	"PHI PHI ISLAND            "	782
 PIA	"PEORIA                 "	41
 PIB	"LAUREL/HATTIESBURG  "	53
-PIC	"PINE CAY B.W.I.                   "	281
+PIC	"PINE CAY BWI                   "	281
 PID	"NASSAU-PARADISE I          "	204
-PIE	"ST. PETERSBURG           "	33
+PIE	"ST PETERSBURG           "	33
 PIF	"PINGTUNG                    "	781
 PIG	"PITINGA AMAZONAS            "	316
 PIH	"POCATELLO                "	83
 PII	"FAIRBANKS                 "	1
-PIK	"GLASGOW SCOT (U.K.               "	493
+PIK	"GLASGOW SCOT (UK               "	493
 PIL	"PILAR                      "	365
 PIM	"PINE MOUNTAIN            "	34
 PIN	"PARINTINS                    "	316
@@ -5773,7 +5773,7 @@ PKO	"PARAKOU BENIN                     "	519
 PKP	"PUKAPUKA             "	823
 PKR	"POKHARA                      "	755
 PKS	"PAKSANE                       "	744
-PKT	"PORT KEATS N.T.          "	802
+PKT	"PORT KEATS NT          "	802
 PKU	"PAKANBARU                "	832
 PKV	"PSKOV                        "	475
 PKW	"SELEBI-PHIKWE            "	510
@@ -5786,17 +5786,17 @@ PLD	"PLAYA SAMARA            "	110
 PLE	"PAIELA           "	804
 PLF	"PALA CHAD                         "	511
 PLH	"PLYMOUTH           "	493
-PLI	"PALM ISLAND WINDWARD IS.          "	279
+PLI	"PALM ISLAND WINDWARD IS          "	279
 PLJ	"PLACENCIA                    "	106
 PLK	"POINT LOOKOUT           "	64
 PLL	"PONTA PELADA AM             "	316
 PLM	"PALEMBANG                "	832
 PLN	"PELLSTON               "	43
-PLO	"PORT LINCOLN S.           "	802
+PLO	"PORT LINCOLN S           "	802
 PLP	"LA PALMA                "	162
 PLQ	"PALANGA                  "	452
 PLR	"PELL CITY               "	51
-PLS	"PROVIDENCIALES B.W.I.             "	281
+PLS	"PROVIDENCIALES BWI             "	281
 PLT	"PLATO                     "	327
 PLU	"BELO HORIZONTE MG-PAMPULHA  "	316
 PLV	"POLTAVA                     "	488
@@ -5804,7 +5804,7 @@ PLW	"PALU                     "	832
 PLX	"SEMIPALATINSK            "	738
 PLY	"PLYMOUTH NA               "	42
 PLZ	"PORT ELIZABETH         "	562
-PMA	"PEMBA IS.                 "	585
+PMA	"PEMBA IS                 "	585
 PMB	"PEMBINA          "	66
 PMC	"PUERTO MONTT CHILE                "	324
 PMD	"PALMDALE/LANCASTER    "	91
@@ -5812,7 +5812,7 @@ PME	"PORTSMOUTH         "	493
 PMF	"PARMA                         "	450
 PMG	"PONTA PORA                   "	316
 PMH	"PORTSMOUTH                  "	44
-PMI	"PALMA MALLORCA IS.          "	482
+PMI	"P MALLORCA         "	482
 PMK	"PALM ISLAND         "	802
 PML	"PORT MOLLER               "	1
 PMM	"PHANOM SARAKHAM           "	782
@@ -5820,7 +5820,7 @@ PMN	"PUMANI           "	804
 PMO	"PALERMO                       "	450
 PMP	"PIMAGA           "	804
 PMQ	"PERITO MORENO             "	303
-PMR	"PALMERSTON N.          "	851
+PMR	"PALMERSTON N          "	851
 PMS	"PALMYRA                      "	676
 PMT	"PARAMAKATOI                  "	388
 PMU	"PAIMIUT                   "	1
@@ -5844,7 +5844,7 @@ PNN	"PRINCETON                 "	12
 PNO	"PINOTEPA                    "	148
 PNP	"POPONDETTA       "	804
 PNQ	"POONA                        "	733
-PNR	"POINTE NOIRE PEOP. REP. OF CONGO  "	515
+PNR	"POINTE NOIRE   "	515
 PNS	"PENSACOLA                "	33
 PNT	"PUERTO NATALES CHILE              "	324
 PNU	"PANGUITCH UTAH                 "	87
@@ -5857,7 +5857,7 @@ POA	"PORTO ALEGRE                 "	316
 POB	"FAYETTEVILLE     "	36
 POC	"LA VERNE              "	91
 POD	"PODOR                       "	569
-POE	"FT. POLK              "	72
+POE	"FT POLK              "	72
 POF	"POPLAR BLUFF            "	64
 POG	"PORT GENTIL                   "	526
 POH	"POCAHONTAS               "	61
@@ -5869,7 +5869,7 @@ POO	"POCOS DE CALDAS              "	316
 POP	"PUERTO PLATA DOMINICAN REP        "	224
 POQ	"POLK INLET                "	1
 POR	"PORI                       "	425
-POS	"PORT OF  TRIN. & TOB.        "	280
+POS	"PORT OF  TRIN & TOB        "	280
 POT	"PORT ANTONIO               "	243
 POU	"POUGHKEEPSIE           "	22
 POV	"PRESOV             "	483
@@ -5885,7 +5885,7 @@ PPE	"PUERTO PENASCO              "	148
 PPF	"PARSONS                   "	62
 PPG	"PAGO PAGO SAMOA                   "	5
 PPH	"PERAITEPUY               "	388
-PPI	"PORT PIRIE S.             "	802
+PPI	"PORT PIRIE S             "	802
 PPJ	"PULAU PANJANG            "	832
 PPK	"PETROPAVLOVSK            "	738
 PPL	"PHAPLU                       "	755
@@ -5896,34 +5896,34 @@ PPP	"PROSERPINE          "	802
 PPQ	"PARAPARAUMU            "	851
 PPR	"PASIR PANGARAYAN         "	832
 PPS	"PUERTO PRINCESA         "	766
-PPT	"PAPEETE SOC. IS.    "	823
+PPT	"PAPEETE SOC IS    "	823
 PPU	"PAPUN                       "	706
 PPV	"PORT PROTECTION           "	1
 PPW	"PAPA WESTRAY     "	493
 PPX	"PARAM            "	804
 PPY	"POUSO ALEGRE MG             "	316
 PPZ	"PUERTO PAEZ              "	388
-PQC	"PHUQUOC SOC.       "	791
+PQC	"PHUQUOC SOC       "	791
 PQI	"PRESQUE ISLE              "	12
 PQM	"PALENQUE                    "	148
-PQQ	"PORT MACQUARIE  AUST.      "	802
+PQQ	"PORT MACQUARIE  AUST      "	802
 PQS	"PILOT STATION             "	1
 PRA	"PARANA                    "	303
 PRB	"PASO ROBLES           "	91
 PRC	"PRESCOTT                "	81
-PRD	"PARDOO W.                 "	802
+PRD	"PARDOO W                 "	802
 PRE	"PORE                      "	327
 PRF	"PORT JOHNSON              "	1
 PRG	"PRAGUE              "	418
 PRH	"PHRAE                     "	782
-PRI	"PRASLIN IS. SEYCHELLES IS. N "	570
+PRI	"PRASLIN IS SEYCHELLES IS N "	570
 PRJ	"CAPRI                         "	450
 PRK	"PRIESKA                "	562
 PRL	"PORT OCEANIC              "	1
 PRM	"PORTIMAO                  "	469
 PRN	"PRISTINA SERBIA                   "	480
 PRP	"PROPRIANO CORSICA            "	427
-PRQ	"PRES. ROQUE SAENZ PENA ARG.       "	303
+PRQ	"PRES ROQUE SAENZ PENA ARG       "	303
 PRR	"POTGIETERSRUS          "	562
 PRS	"PARASI                 "	874
 PRU	"PROME                       "	706
@@ -5939,7 +5939,7 @@ PSD	"PORT SAID        "	591
 PSE	"PONCE PUERTO RICO                 "	3
 PSF	"PITTSFIELD       "	13
 PSG	"PETERSBURG                "	1
-PSH	"ST. PETER-ORDING            "	429
+PSH	"ST PETER-ORDING            "	429
 PSI	"PASNI                      "	764
 PSJ	"POSO                     "	832
 PSK	"PULASKI                "	38
@@ -5955,7 +5955,7 @@ PSU	"PUTUSSIBAU               "	832
 PSV	"PAPA STOUR SHETLAND IS "	493
 PSW	"PASSOS                       "	316
 PSX	"PALACIOS                   "	74
-PSY	"PORT STANLEY FALKLAND IS.         "	340
+PSY	"PORT STANLEY FALKLAND IS         "	340
 PSZ	"PUERTO SUAREZ               "	312
 PTA	"PORT ALSWORTH             "	1
 PTB	"PETERSBURG             "	38
@@ -5966,7 +5966,7 @@ PTF	"MALOLOLAILAI                  "	821
 PTG	"PIETERSBURG            "	562
 PTH	"PORT HEIDEN               "	1
 PTI	"PORT DOUGLAS QLD         "	802
-PTJ	"PORTLAND VIC.            "	802
+PTJ	"PORTLAND VIC            "	802
 PTK	"PONTIAC                "	43
 PTL	"PORT ARMSTRONG            "	1
 PTM	"PALMARITO                "	388
@@ -5989,7 +5989,7 @@ PUC	"PRICE UTAH                     "	87
 PUD	"PUERTO DESEADO            "	303
 PUE	"PUERTO OBALDIA          "	131
 PUF	"PAU                           "	427
-PUG	"PORT AUGUSTA S.           "	802
+PUG	"PORT AUGUSTA S           "	802
 PUH	"POCHUTLA                    "	148
 PUI	"PURENI           "	804
 PUJ	"PUNTA CANA       "	224
@@ -6007,7 +6007,7 @@ PUU	"PUERTO ASIS               "	327
 PUV	"POUM                 "	846
 PUW	"PULLMAN               "	93
 PUX	"PUERTO VARAS CHILE                "	324
-PUY	"PULA CROATIA                      "	415
+PUY	"PULA                       "	415
 PUZ	"PUERTO CABEZAS NICARAGUA          "	153
 PVA	"PROVIDENCIA               "	327
 PVC	"PROVINCETOWN     "	13
@@ -6041,13 +6041,13 @@ PWT	"BREMERTON             "	93
 PXA	"PARANA GOIAS                "	316
 PXL	"POLACCA                 "	81
 PXM	"PUERTO ESCONDIDO            "	148
-PXO	"PORTO SANTO MADEIRA IS.           "	469
-PXU	"PLEIKU SOC.        "	791
+PXO	"PORTO SANTO MADEIRA IS           "	469
+PXU	"PLEIKU SOC        "	791
 PXX	"PORTO AFONSO                 "	316
 PYA	"PUERTO BOYACA             "	327
 PYB	"JEYPORE                      "	733
 PYC	"PLAYON CHICO            "	162
-PYE	"PENRHYN ISLAND COOK IS S. PACIFIC"	813
+PYE	"PENRHYN ISLAND COOK IS S PACIFIC"	813
 PYH	"PUERTO AYACUCHO          "	388
 PYJ	"POLYARNYJ                    "	770
 PYL	"PERRY ISLAND              "	1
@@ -6068,7 +6068,7 @@ PZU	"PORT                    "	583
 PZY	"PIESTANY                  "	483
 QAH	"ALCANTARA                    "	316
 QAR	"ARNHEM                  "	461
-QBC	"BELLA COOLA B.C.           "	906
+QBC	"BELLA COOLA BC           "	906
 QBE	"BEGA               "	802
 QBF	"BRACK N A JAMAHIRIYA         "	538
 QBW	"BATEMANS BAY NSW         "	802
@@ -6161,8 +6161,8 @@ QUV	"AAPPILATTOQ               "	975
 QUW	"AMMASSIVIK                "	975
 QVU	"VIRU                "	874
 QWC	"BERLIN ZOO                  "	429
-QWF	"FT. COLLINS/LOVELAND CO-FC BUS US"	82
-QWH	"FT. COLLINS/LOVELAND CO-LV BUS US"	82
+QWF	"FT COLLINS/LOVELAND CO-FC BUS US"	82
+QWH	"FT COLLINS/LOVELAND CO-LV BUS US"	82
 QWL	"CRACKENBACK VILLAGE NSW  "	802
 QWM	"LONGMONT                "	82
 QWP	"WINTER PARK             "	82
@@ -6193,16 +6193,16 @@ RAE	"ARAR                  "	670
 RAF	"RAS AN NAQB      "	591
 RAG	"RAGLAN                 "	851
 RAH	"RAFHA                 "	670
-RAI	"PRAIA CAPE VERDE IS.              "	507
+RAI	"PRAIA CAPE VERDE IS              "	507
 RAJ	"RAJKOT                       "	733
 RAK	"MARRAKECH                  "	548
 RAL	"RIVERSIDE             "	91
-RAM	"RAMINGINING N.T.         "	802
+RAM	"RAMINGINING NT         "	802
 RAN	"RAVENNA                       "	450
 RAO	"RIBEIRAO PRETO               "	316
 RAP	"RAPID CITY          "	67
 RAQ	"RAHA                     "	832
-RAR	"RAROTONGA COOK IS. S. PACIFIC    "	813
+RAR	"RAROTONGA COOK IS S PACIFIC    "	813
 RAS	"RASHT                          "	632
 RAT	"RADUZHNYI              "	770
 RAU	"RANGPUR                 "	703
@@ -6213,7 +6213,7 @@ RAY	"ROTHESAY         "	493
 RAZ	"RAWALA KOT                 "	764
 RBA	"RABAT                      "	548
 RBB	"BORBA                        "	316
-RBC	"ROBINVALE VIC.           "	802
+RBC	"ROBINVALE VIC           "	802
 RBE	"RATANANKIRI               "	709
 RBF	"BIG BEAR              "	91
 RBG	"ROSEBURG                 "	92
@@ -6223,14 +6223,14 @@ RBJ	"REBUN                         "	736
 RBK	"RANCHO       "	91
 RBL	"RED BLUFF             "	91
 RBM	"STRAUBING                   "	429
-RBN	"FT. JEFFERSON NATL PARK FL     "	33
+RBN	"FT JEFFERSON NATL PARK FL     "	33
 RBO	"ROBORE BOLIVA                     "	312
 RBP	"RABA RABA        "	804
 RBQ	"RURRENABAQUE                "	312
 RBR	"RIO BRANCO                   "	316
 RBS	"ORBOST VIC               "	802
 RBT	"MARSABIT                     "	535
-RBU	"ROEBOURNE W.              "	802
+RBU	"ROEBOURNE W              "	802
 RBV	"RANCHO BUENA VISTA          "	148
 RBW	"WALTERBORO      "	37
 RBY	"RUBY                      "	1
@@ -6248,7 +6248,7 @@ RCS	"ROCHESTER          "	493
 RCT	"REED CITY              "	43
 RCU	"RIO CUARTO                "	303
 RCY	"RUM CAY                    "	204
-RDA	"ROCKHAMPTON DOWNS N.T. AUST.     "	802
+RDA	"ROCKHAMPTON DOWNS NT AUST     "	802
 RDB	"RED DOG                   "	1
 RDC	"REDENCAO                     "	316
 RDD	"REDDING               "	91
@@ -6281,11 +6281,11 @@ REU	"REUS                         "	482
 REW	"REWA                         "	733
 REX	"REYNOSA                     "	148
 REY	"REYES                       "	312
-RFA	"RAFAI CEN. AFRICAN REPUBLIC       "	509
+RFA	"RAFAI CEN AFRICAN REPUBLIC       "	509
 RFD	"ROCKFORD               "	41
 RFK	"ANGUILLA            "	53
 RFN	"RAUFARHOFN                 "	439
-RFP	"RAIATEA SOC. IS.    "	823
+RFP	"RAIATEA SOC IS    "	823
 RFR	"RIO FRIO                "	110
 RFS	"ROSITA NICARAGUA                  "	153
 RGA	"RIO GRANDE                "	303
@@ -6301,7 +6301,7 @@ RHD	"RIO HONDO                 "	303
 RHE	"REIMS                         "	427
 RHG	"RUHENGERI                   "	566
 RHI	"RHINELANDER          "	45
-RHL	"ROY HILL W.               "	802
+RHL	"ROY HILL W               "	802
 RHO	"RHODES ISLAND                "	433
 RHP	"RAMECHAP                     "	755
 RHV	"SAN JOSE  -REID HILL  "	91
@@ -6329,7 +6329,7 @@ RJA	"RAJAHMUNDRY                  "	733
 RJB	"RAJBIRAJ                     "	755
 RJH	"RAJSHAHI                "	703
 RJI	"RAJOURI                      "	733
-RJK	"RIJEKA CROATIA                    "	415
+RJK	"RIJEKA                     "	415
 RKC	"YREKA                 "	91
 RKD	"ROCKLAND                  "	12
 RKE	"ROSKILDE                    "	419
@@ -6339,11 +6339,11 @@ RKO	"SIPORA                   "	832
 RKP	"ROCKPORT                   "	74
 RKR	"POTEAU                 "	73
 RKS	"ROCK SPRINGS             "	88
-RKT	"RAS AL KHAIMAH U.A.E.             "	678
+RKT	"RAS AL KHAIMAH UAE             "	678
 RKU	"KAIRUKU          "	804
 RKV	"REYKJAVIK-DOMESTIC         "	439
 RKW	"ROCKWOOD              "	54
-RKY	"ROKEBY QLD.               "	802
+RKY	"ROKEBY QLD               "	802
 RLA	"ROLLA                   "	64
 RLD	"RICHLAND              "	93
 RLG	"ROSTOCK-LAAGE               "	429
@@ -6356,8 +6356,8 @@ RMD	"RAMAGUNDAM                   "	733
 RME	"ROME                   "	22
 RMG	"ROME                     "	34
 RMI	"RIMINI                        "	450
-RMK	"RENMARK S.                "	802
-RML	"COLOMBO  .                "	711
+RMK	"RENMARK S                "	802
+RML	"COLOMBO                  "	711
 RMN	"RUMGINAE         "	804
 RMP	"RAMPART                   "	1
 RMS	"RAMSTEIN                    "	429
@@ -6370,7 +6370,7 @@ RNG	"RANGELY                 "	82
 RNH	"NEW RICHMOND         "	45
 RNI	"CORN ISLAND NICARAGUA             "	153
 RNJ	"YORON-JIMA                    "	736
-RNL	"RENNELL IS.            "	874
+RNL	"RENNELL IS            "	874
 RNN	"RONNE                       "	419
 RNO	"RENO                      "	85
 RNP	"RONGELAP           "	844
@@ -6380,7 +6380,7 @@ RNT	"RENTON                "	93
 RNU	"RANAU SABAH              "	749
 RNZ	"RENSSELAER NA             "	42
 ROA	"ROANOKE                "	38
-ROB	"MONROVIA  .                 "	537
+ROB	"MONROVIA                   "	537
 ROC	"ROCHESTER              "	22
 ROD	"ROBERTSON              "	562
 ROG	"ROGERS AR                 "	71
@@ -6391,7 +6391,7 @@ ROM	"ROME                          "	450
 RON	"RONDON                    "	327
 ROO	"RONDONOPOLIS                 "	316
 ROP	"ROTA MARIANA ISLANDS              "	5
-ROR	"KOROR PALAU IS. PAC. OCEAN       "	5
+ROR	"KOROR PALAU IS PAC OCEAN       "	5
 ROS	"ROSARIO                   "	303
 ROT	"ROTORUA                "	851
 ROU	"RUSSE                      "	411
@@ -6400,11 +6400,11 @@ ROW	"ROSWELL               "	86
 ROX	"ROSEAU                "	63
 ROY	"RIO MAYO                  "	303
 RPA	"ROLPA                        "	755
-RPB	"ROPER BAR N.T.           "	802
-RPM	"ROPER R. MISSION N.T. AUST.      "	802
+RPB	"ROPER BAR NT           "	802
+RPM	"ROPER R MISSION NT AUST      "	802
 RPN	"ROSH-PINA GALILEE           "	636
 RPR	"RAIPUR                       "	733
-RPV	"ROPER VALLEY N.T.        "	802
+RPV	"ROPER VALLEY NT        "	802
 RPX	"ROUNDUP                 "	84
 RQA	"LONE PINE             "	91
 RQB	"ATOMIC CITY              "	83
@@ -6442,7 +6442,7 @@ RRN	"SERRA NORTE                  "	316
 RRO	"SORRENTO                      "	450
 RRS	"ROROS                        "	465
 RRT	"WARROAD               "	63
-RRV	"ROBINSON RIVER N.T.      "	802
+RRV	"ROBINSON RIVER NT      "	802
 RSA	"SANTA ROSA                "	303
 RSB	"ROSEBERTH           "	802
 RSD	"ROCK SOUND                 "	204
@@ -6459,7 +6459,7 @@ RSP	"RASPBERRY STRAIT          "	1
 RSS	"ROSEIRES                     "	583
 RST	"ROCHESTER             "	63
 RSU	"YOSU                  "	778
-RSW	"FT. MYERS                "	33
+RSW	"FT MYERS                "	33
 RSX	"ROUSES POINT          "	22
 RTA	"ROTUMA                        "	821
 RTB	"ROATAN                    "	131
@@ -6473,10 +6473,10 @@ RTL	"SPIRIT LAKE              "	61
 RTM	"ROTTERDAM               "	461
 RTN	"RATON                 "	86
 RTO	"COLTON                "	91
-RTP	"RUTLAND PLAINS Q.         "	802
-RTS	"ROTTNEST IS. W.           "	802
+RTP	"RUTLAND PLAINS Q         "	802
+RTS	"ROTTNEST IS W           "	802
 RTW	"SARATOV                      "	475
-RTY	"MERTY S.                  "	802
+RTY	"MERTY S                  "	802
 RUA	"ARUA                        "	590
 RUF	"YURUF                    "	832
 RUG	"RUGAO                "	713
@@ -6496,7 +6496,7 @@ RVA	"FARAFANGANA      "	541
 RVC	"RIVERCESS                   "	537
 RVD	"RIO VERDE GO                "	316
 RVE	"SARAVENA                  "	327
-RVH	"ST. PETERSBURG-RZHEVKA "	475
+RVH	"ST PETERSBURG-RZHEVKA "	475
 RVK	"RORVIK                       "	465
 RVN	"ROVANIEMI                  "	425
 RVO	"REIVILO                "	562
@@ -6553,7 +6553,7 @@ SBC	"SIBASA                 "	562
 SBD	"SAN BERNARDINO        "	91
 SBE	"SEEB OMAN                         "	658
 SBG	"SABANG                   "	832
-SBH	"ST. BARTHELEMY          "	235
+SBH	"ST BARTHELEMY          "	235
 SBI	"KOUNDARA                    "	531
 SBJ	"SAO MATEUS ESPIRITO SANTO   "	316
 SBK	"ST BRIEUC                     "	427
@@ -6587,7 +6587,7 @@ SCL	"SANTIAGO                    "	324
 SCM	"SCAMMON BAY               "	1
 SCN	"SAARBRUCKEN                 "	429
 SCO	"SHEVCHENKO               "	738
-SCP	"ST. CREPIN/VARS               "	427
+SCP	"ST CREPIN/VARS               "	427
 SCQ	"SANTIAGO DE COMPOSTELA       "	482
 SCS	"LERWICK SCOTLAND(U               "	493
 SCT	"SOCOTRA                       "	694
@@ -6596,7 +6596,7 @@ SCV	"SUCEAVA                     "	473
 SCW	"SYKTYVKAR                    "	475
 SCX	"SALINA CRUZ                 "	148
 SCY	"GALAPAGOS ISLANDS-S CRISTOB ECUADO"	337
-SCZ	"SANTA CRUZ SANTA CRUZ IS.         "	874
+SCZ	"SANTA CRUZ SANTA CRUZ IS         "	874
 SDA	"BAGHDAD-SADDAM IRAQ               "	634
 SDB	"SALDANHA BAY           "	562
 SDC	"SAND                    "	350
@@ -6647,14 +6647,14 @@ SEV	"SEVERODONECK                "	488
 SEW	"SIWA             "	591
 SEX	"SEMBACH                     "	429
 SEY	"SELIBABY                "	545
-SEZ	"MAHE IS. SEYCHELLES IS. N OC."	570
+SEZ	"MAHE IS SEYCHELLES IS N OC"	570
 SFA	"SFAX                        "	588
 SFB	"SANFORD                  "	33
-SFC	"ST. FRANCOIS            "	235
+SFC	"ST FRANCOIS            "	235
 SFD	"SAN FERNANDO             "	388
 SFE	"SAN FERNANDO            "	766
 SFF	"SPOKANE               "	93
-SFG	"ST. MARTIN              "	235
+SFG	"ST MARTIN              "	235
 SFH	"SAN FELIPE                  "	148
 SFI	"SAFI                       "	548
 SFJ	"SONDRE STROMFJORD         "	975
@@ -6683,14 +6683,14 @@ SGI	"SARGODHA                   "	764
 SGJ	"SAGARAI          "	804
 SGK	"SANGAPI          "	804
 SGM	"SAN IGNACIO                 "	148
-SGN	"HO CHI MINH SOC.   "	791
-SGO	"ST. GEORGE          "	802
-SGP	"SHAY GAP W.               "	802
+SGN	"HO CHI MINH SOC   "	791
+SGO	"ST GEORGE          "	802
+SGP	"SHAY GAP W               "	802
 SGQ	"SANGGATA                 "	832
 SGR	"SUGAR LAND                 "	74
 SGS	"SANGA SANGA             "	766
 SGT	"STUTTGART AR              "	71
-SGU	"ST. GEORGE UTAH                "	87
+SGU	"ST GEORGE UTAH                "	87
 SGV	"SIERRA GRANDE             "	303
 SGW	"SAGINAW                   "	1
 SGX	"SONGEA                    "	585
@@ -6705,7 +6705,7 @@ SHF	"SHANHAIGUAN          "	713
 SHG	"SHUNGNAK                  "	1
 SHH	"SHISHMAREF                "	1
 SHI	"SHIMOJISHIMA                  "	736
-SHJ	"SHARJAH U.A. EMIRATES             "	678
+SHJ	"SHARJAH UA EMIRATES             "	678
 SHK	"SEHONGHONG LESOTHO                "	536
 SHL	"SHILLONG                     "	733
 SHM	"NANKI SHIRAHAMA               "	736
@@ -6715,7 +6715,7 @@ SHP	"QINHUANGDAO          "	713
 SHQ	"SOUTHPORT QLD            "	802
 SHR	"SHERIDAN                 "	88
 SHS	"SHASHI                       "	713
-SHT	"SHEPPARTON VIC.          "	802
+SHT	"SHEPPARTON VIC          "	802
 SHU	"SMITH POINT NT           "	802
 SHV	"SHREVEPORT            "	72
 SHW	"SHARAWRAH             "	670
@@ -6725,7 +6725,7 @@ SHZ	"SESHUTE'S LESOTHO                 "	536
 SIA	"XIAN                         "	713
 SIB	"SIBITI     "	515
 SIC	"SANTO ANTONIO DO ICA         "	316
-SID	"SAL ISLAND CAPE VERDE IS.         "	507
+SID	"SAL ISLAND CAPE VERDE IS         "	507
 SIE	"SINES                     "	469
 SIF	"SIMRA                        "	755
 SIG	"SAN JUAN PUERTO RICO              "	3
@@ -6752,15 +6752,15 @@ SJB	"SAN JOAQUIN                 "	312
 SJC	"SAN JOSE              "	91
 SJD	"SAN JOSE DEL CABO           "	148
 SJE	"SAN JOSE DEL GUAVIARO     "	327
-SJF	"ST. JOHN VIRGIN IS.               "	4
+SJF	"ST JOHN VIRGIN IS               "	4
 SJG	"SAN PEDRO JAGUA           "	327
 SJH	"SAN JUAN DEL CESAR        "	327
 SJI	"SAN JOSE                "	766
 SJJ	"SARAJEVO BOSNIA & HERZEGOVINA     "	410
 SJK	"SAO JOSE DOS CAMPOS          "	316
 SJL	"SAO GABRIEL                  "	316
-SJM	"SAN JUAN DE LA M. D. REP.         "	224
-SJN	"ST. JOHNS               "	81
+SJM	"SAN JUAN DE LA M         "	224
+SJN	"ST JOHNS               "	81
 SJO	"SAN JOSE                "	110
 SJP	"SAO JOSE DO RIO PRETO        "	316
 SJQ	"SESHEKE                     "	597
@@ -6774,7 +6774,7 @@ SJX	"SARTANEJA                    "	106
 SJY	"SEINAJOKI                  "	425
 SJZ	"SAN JORGE  "	469
 SKA	"SPOKANE               "	93
-SKB	"ST. KITTS LEEWARD IS.             "	275
+SKB	"ST KITTS LEEWARD IS             "	275
 SKC	"SUKI             "	804
 SKD	"SAMARKAND               "	788
 SKE	"SKIEN                        "	465
@@ -6819,7 +6819,7 @@ SLQ	"SLEETMUTE                 "	1
 SLR	"SULPHUR SPRINGS            "	74
 SLS	"SILISTRA                   "	411
 SLT	"SALIDA                  "	82
-SLU	"ST. LUCIA W. INDIES               "	276
+SLU	"ST LUCIA W INDIES               "	276
 SLV	"SIMLA                        "	733
 SLW	"SALTILLO                    "	148
 SLX	"SALT CAY BRITISH WEST INDIES      "	281
@@ -6834,24 +6834,24 @@ SMG	"SANTA MARIA                   "	469
 SMH	"SAPMANGA         "	804
 SMI	"SAMOS ISLAND                 "	433
 SMJ	"SIM              "	804
-SMK	"ST. MICHAEL               "	1
-SML	"STELLA MARISL.I.          "	204
+SMK	"ST MICHAEL               "	1
+SML	"STELLA MARISLI          "	204
 SMM	"SEMPORNA SABAH           "	749
 SMN	"SALMON                   "	83
 SMO	"LOS ANGELES           "	91
 SMP	"STOCKHOLM        "	804
 SMQ	"SAMPIT                   "	832
 SMR	"SANTA MARTA               "	327
-SMS	"ST. MARIE        "	541
+SMS	"ST MARIE        "	541
 SMT	"SUN MOON LAKE               "	781
 SMU	"SHEEP MOUNTAIN            "	1
-SMV	"ST. MORITZ              "	486
+SMV	"ST MORITZ              "	486
 SMW	"SMARA                      "	548
 SMX	"SANTA MARIA           "	91
 SMY	"SIMENTI                     "	569
 SMZ	"STOELMANSEILAND SURINAM           "	379
 SNA	"SANTA ANA             "	91
-SNB	"SNAKE BAY N.T.           "	802
+SNB	"SNAKE BAY NT           "	802
 SNC	"SALINAS                    "	337
 SND	"SENO                          "	744
 SNE	"SAO NICOLAU    "	507
@@ -6865,15 +6865,15 @@ SNL	"SHAWNEE                "	73
 SNM	"SAN IGNACIO DE MOXOS        "	312
 SNN	"SHANNON         "	441
 SNO	"SAKON NAKHON              "	782
-SNP	"ST. PAUL ISLAND           "	1
+SNP	"ST PAUL ISLAND           "	1
 SNQ	"SAN QUINTIN                 "	148
-SNR	"ST. NA                  "	427
+SNR	"ST NA                  "	427
 SNS	"SALINAS               "	91
 SNT	"SABANA DE TORRES          "	327
 SNU	"SANTA CLARA                   "	219
 SNV	"SANTA ELENA              "	388
 SNW	"SANDOWAY                    "	706
-SNX	"SABANA DE LA MAR D. REP.          "	224
+SNX	"SABANA DE LA MAR D REP          "	224
 SNY	"SIDNEY                  "	65
 SOB	"SOBRAL                       "	316
 SOC	"SOLO                     "	832
@@ -6882,7 +6882,7 @@ SOE	"SOUANKE    "	515
 SOF	"SOFIA                      "	411
 SOG	"SOGNDAL                      "	465
 SOH	"SOLITA                    "	327
-SOI	"SOUTH MOLLE IS. Q.        "	802
+SOI	"SOUTH MOLLE IS Q        "	802
 SOJ	"SORKJOSEN                    "	465
 SOK	"SEMONGKONG LESOTHO                "	536
 SOL	"SOLOMON                   "	1
@@ -6900,7 +6900,7 @@ SOX	"SOGAMOSO                  "	327
 SOY	"STRONSAY         "	493
 SOZ	"SOLENZARA                     "	427
 SPA	"GREENVILLE/SPARTANBURG SC      "	37
-SPB	"ST.THOMASVIRGIN IS.               "	4
+SPB	"STTHOMASVIRGIN IS               "	4
 SPC	"SANTA CRUZ LA PALMA     "	482
 SPD	"SAIDPUR                 "	703
 SPE	"SEPULOT SABAH            "	749
@@ -6916,18 +6916,18 @@ SPQ	"SAN PEDRO             "	91
 SPR	"SAN PEDRO                    "	106
 SPS	"WICHITA FALLS              "	74
 SPT	"SIPITANG SARAWAK         "	749
-SPU	"SPLIT CROATIA                     "	415
+SPU	"SPLIT                      "	415
 SPV	"SEPIK PLAINS     "	804
 SPW	"SPENCER                  "	61
 SPY	"SAN PEDRO              "	533
 SPZ	"SPRINGDALE AR             "	71
 SQA	"SANTA YNEZ            "	91
 SQB	"SANTA ANA                 "	327
-SQC	"SOUTHERN CROSS W.         "	802
+SQC	"SOUTHERN CROSS W         "	802
 SQE	"SAN LUIS DE PALENQUE      "	327
 SQF	"SOLANO                    "	327
 SQG	"SINTANG                  "	832
-SQH	"SON LA SOC. REP. OF VIET NAM      "	791
+SQH	"SON LA SOC REP OF VIET NAM      "	791
 SQI	"STERLING ROCK FALLS    "	41
 SQJ	"SHEHDI                     "	522
 SQK	"SIDI BARANI      "	591
@@ -6955,7 +6955,7 @@ SRJ	"SAN BORJA                   "	312
 SRK	" NE  NE         "	571
 SRL	"SANTA ROSALIA               "	148
 SRM	"SANDRINGHAM         "	802
-SRN	"STRAHAN TAS.             "	802
+SRN	"STRAHAN TAS             "	802
 SRO	"SANTANA RAMOS             "	327
 SRP	"SAGVAAG                      "	465
 SRQ	"SARASOTA/BRADENTON       "	33
@@ -6967,19 +6967,19 @@ SRX	"SERT                         "	538
 SRY	"SARY           "	632
 SRZ	"SANTA CRUZ                  "	312
 SSA	"SALVADOR                     "	316
-SSB	"ST. CROIX VIRGIN IS               "	4
+SSB	"ST CROIX VIRGIN IS               "	4
 SSC	"SUMTER          "	37
 SSD	"SAN FELIPE                "	327
 SSE	"SHOLAPUR                     "	733
 SSG	"MALABO EQUAT'L              "	521
 SSH	"SHARM EL SHEIKH  "	591
-SSI	"ST. SIMONS ISLAND        "	34
+SSI	"ST SIMONS ISLAND        "	34
 SSJ	"SANDNESSJOEN                 "	465
-SSK	"STURT  W.            "	802
+SSK	"STURT  W            "	802
 SSL	"SANTA ROSALIA             "	327
-SSM	"SAULT STE. MARIE       "	43
+SSM	"SAULT STE MARIE       "	43
 SSO	"SAO SIMAO                    "	316
-SSP	"SILVER PLAINS QLD.               "	802
+SSP	"SILVER PLAINS QLD               "	802
 SSQ	"LA SARRE             "	941
 SSR	"SARA                        "	885
 SSS	"SIASSI           "	804
@@ -6991,28 +6991,28 @@ SSY	"M'BANZA CONGO                "	502
 SSZ	"SANTOS                       "	316
 STA	"STAUNING                    "	419
 STB	"SANTA BARBARA ZULIA     "	388
-STC	"ST. CLOUD             "	63
+STC	"ST CLOUD             "	63
 STD	"SANTO DOMINGO            "	388
 STE	"STEVENS POINT        "	45
 STF	"SANTA FE DO SUL              "	316
-STG	"ST. GEORGE ISLAND         "	1
+STG	"ST GEORGE ISLAND         "	1
 STH	"STRATHMORE          "	802
 STI	"SANTIAGO             "	224
-DOMINICAN REP. STJ	"ST. JOSEPH              "	64
+DOMINICAN REP STJ	"ST JOSEPH              "	64
 STK	"STERLING                "	82
-STL	"ST. LOUIS               "	64
+STL	"ST LOUIS               "	64
 STM	"SANTAREM                     "	316
 STN	"LONDON                 "	493
-STO	"STOCKHOLM .                 "	484
-STP	"MINNEAPOLIS/ST.PAUL   "	63
-STQ	"ST. MARYS           "	23
+STO	"STOCKHOLM                  "	484
+STP	"MINNEAPOLIS/STPAUL   "	63
+STQ	"ST MARYS           "	23
 STR	"STUTTGART                   "	429
 STS	"SANTA ROSA            "	91
-STT	"CHARLOTTE AE ST.THOMAS    "	4
+STT	"CHARLOTTE AE STTHOMAS    "	4
 STU	"SANTA CRUZ                   "	106
 STV	"SURAT                        "	733
 STW	"STAVROPOL                    "	475
-STX	"CHRISTIANSTED ST.CROIX        "	4
+STX	"CHRISTIANSTED STCROIX        "	4
 STY	"SALTO                       "	385
 STZ	"SANTA TEREZINHA              "	316
 SUA	"STUART                   "	33
@@ -7033,7 +7033,7 @@ SUO	"SUN RIVER                "	92
 SUP	"SUMENEP                  "	832
 SUQ	"SUCUA                      "	337
 SUR	"SUMMER BEAVER       "	936
-SUS	"ST. LOUIS               "	64
+SUS	"ST LOUIS               "	64
 SUT	"SUMBAWANGA                "	585
 SUU	"FAIRFIELD             "	91
 SUV	"SUVA                          "	821
@@ -7044,7 +7044,7 @@ SUZ	"SURIA            "	804
 SVA	"SAVOONGA                  "	1
 SVB	"SAMBAVA          "	541
 SVC	"SILVER CITY           "	86
-SVD	"ST. VINCENT WINDWARD IS.          "	279
+SVD	"ST VINCENT WINDWARD IS          "	279
 SVE	"S NVILLE            "	91
 SVF	"SAVE BENIN                        "	519
 SVG	"STAVANGER                    "	465
@@ -7053,7 +7053,7 @@ SVI	"SAN VINCENTE DEL CAGUAN   "	327
 SVJ	"SVOLVAER                     "	465
 SVK	"SILVER                  "	106
 SVL	"SAVONLINNA                 "	425
-SVM	"ST. PAUL'S MISSION QLD   "	802
+SVM	"ST PAUL'S MISSION QLD   "	802
 SVN	"SAVANNAH                 "	34
 SVO	"MOSCOW                       "	475
 SVP	"BIE                          "	502
@@ -7067,22 +7067,22 @@ SVX	"EKATERINBURG (SVERDLOVSK)    "	770
 SVY	"SAVO                "	874
 SVZ	"SAN ANTONIO              "	388
 SWA	"SHANTOU                      "	713
-SWB	"SHAW RIVER W.             "	802
-SWC	"STAWELL VIC.             "	802
+SWB	"SHAW RIVER W             "	802
+SWC	"STAWELL VIC             "	802
 SWD	"SEWARD                    "	1
 SWE	"SIWEA            "	804
 SWF	"NEWBURGH              "	22
 SWG	"SATWAG           "	804
-SWH	"SWAN HILL VIC.           "	802
+SWH	"SWAN HILL VIC           "	802
 SWI	"SWINDON             "	493
 SWJ	"SOUTH WEST BAY              "	885
 SWM	"SUIA-MISSU                   "	316
 SWN	"SAHIWAL                    "	764
 SWO	"STILLWATER             "	73
 SWP	"SWAKOPMUND            "	575
-SWQ	"SUMBAWA IS.              "	832
+SWQ	"SUMBAWA IS              "	832
 SWR	"SILUR            "	804
-SWS	"SWANSEAWALES (U.K.)              "	493
+SWS	"SWANSEAWALES (UK)              "	493
 SWT	"STRZHEWOI              "	770
 SWU	"SU WON CITY      "	778
 SWV	"SHIKARPUR                  "	764
@@ -7094,7 +7094,7 @@ SXA	"SIALUM           "	804
 SXB	"STRASBOURG                    "	427
 SXC	"CATALINA ISLAND       "	91
 SXD	"SOPHIA ANTIPOLIS              "	427
-SXE	"SALE VIC.                "	802
+SXE	"SALE VIC                "	802
 SXF	"BERLIN                      "	429
 SXG	"SENANGA                     "	597
 SXH	"SEHULEA          "	804
@@ -7102,7 +7102,7 @@ SXI	"SIRRI ISLAND   "	632
 SXJ	"SHANSHAN             "	713
 SXK	"SAUMLAKI                 "	832
 SXL	"SLIGO           "	441
-SXM	"ST. MAARTEN          "	259
+SXM	"ST MAARTEN          "	259
 SXN	"SAO JOSE DO XINGU            "	316
 SXO	"SAO FELIX ARAGUAIA           "	316
 SXP	"SHELDON POINT             "	1
@@ -7163,10 +7163,10 @@ TAJ	"TADJI            "	804
 TAK	"TAKAMATSU                     "	736
 TAL	"TANANA                    "	1
 TAM	"TAMPICO                     "	148
-TAN	"TANGALOOMA MORETON IS.   "	802
+TAN	"TANGALOOMA MORETON IS   "	802
 TAO	"QINGDAO                      "	713
 TAP	"TAPACHULA                   "	148
-TAQ	"TARCOOLA S.               "	802
+TAQ	"TARCOOLA S               "	802
 TAR	"TARANTO                       "	450
 TAS	"TASHKENT                "	788
 TAT	"TATRY/POPRAD              "	483
@@ -7177,30 +7177,30 @@ TAX	"TALIABU                  "	832
 TAY	"TARTU ESTONIA                     "	422
 TAZ	"TAKURONG                "	766
 TBA	"TABIBUGA         "	804
-TBB	"TUY HOA SOC.       "	791
+TBB	"TUY HOA SOC       "	791
 TBC	"TUBA CITY               "	81
 TBD	"TIMBIQUI                  "	327
 TBE	"TIMBUNKE         "	804
-TBF	"TABITEUEA NORTH GILBERT IS. S. PA"	824
+TBF	"TABITEUEA NORTH GILBERT IS S PA"	824
 TBG	"TABUBIL          "	804
 TBH	"TABLAS                  "	766
 TBI	"THE BIGHT                  "	204
 TBJ	"TABARKA                     "	588
-TBK	"TIMBER  N.T.        "	802
-TBL	"TABLELAND W.              "	802
+TBK	"TIMBER  NT        "	802
+TBL	"TABLELAND W              "	802
 TBM	"TUMBANG SAMBA            "	832
-TBN	"FT. LEONARD WOOD        "	64
+TBN	"FT LEONARD WOOD        "	64
 TBO	"TABORA                    "	585
 TBP	"TUMBES                        "	368
 TBR	"STATESBORO               "	34
 TBS	"TBILISI                     "	432
 TBT	"TABATINGA                    "	316
-TBU	"TONGATAPU TONGA ISLAND S. PACIFIC"	881
+TBU	"TONGATAPU TONGA ISLAND S PACIFIC"	881
 TBV	"TABAL              "	844
 TBW	"TAMBOW                       "	475
 TBY	"TSABONG                  "	510
 TBZ	"TABRIZ                         "	632
-TCA	"TENNANT  N.T.       "	802
+TCA	"TENNANT  NT       "	802
 TCB	"TREASURE CAY               "	204
 TCC	"TUCUMCARI             "	86
 TCD	"TARAPACA                  "	327
@@ -7262,7 +7262,7 @@ TFM	"TELEFOMIN        "	804
 TFN	"TENERIFE-N LOSRODEO CANARY ISLANDS"	482
 TFO	"TEOFILO OTONI                "	316
 TFR	"TARBES                        "	427
-TFS	TENERIFE.                          	482
+TFS	TENERIFE                          	482
 TFT	"TAFTAN                     "	764
 TFY	"TARFAYA                    "	548
 TGD	"PODGORICA MONTENEGRO              "	459
@@ -7319,7 +7319,7 @@ TIO	"TILIN                       "	706
 TIP	"TRIPOLI                      "	538
 TIQ	"TINIAN MARIANA ISLANDS            "	5
 TIR	"TIRUPATI                     "	733
-TIS	"THURSDAY IS.        "	802
+TIS	"THURSDAY IS        "	802
 TIU	"TIMARU                 "	851
 TIV	"TIVAT MONTENEGRO                  "	459
 TIW	"TACOMA                "	93
@@ -7346,11 +7346,11 @@ TKG	"BANDAR LAMPUNG           "	832
 TKH	"TAKHLI                    "	782
 TKI	"TOKEEN                    "	1
 TKJ	"TOK                       "	1
-TKK	"TRUK CAROLINE IS. PAC. OCEAN     "	810
+TKK	"TRUK CAROLINE IS PAC OCEAN     "	810
 TKM	"TIKAL                    "	127
 TKN	"TOKUNO SHIMA                  "	736
 TKO	"TLOKOENG LESOTHO                  "	536
-TKP	"TAKAPOTO IS.         "	823
+TKP	"TAKAPOTO IS         "	823
 TKQ	"KIGOMA                    "	585
 TKR	"THAKURGAON              "	703
 TKS	"TOKUSHIMA                     "	736
@@ -7359,7 +7359,7 @@ TKU	"TURKU                      "	425
 TKV	"TATAKOTO             "	823
 TKW	"TEKIN            "	804
 TKX	"TAKAROA           "	823
-TKY	"   W.           "	802
+TKY	"   W           "	802
 TKZ	"TOKOROA                "	851
 TLA	"TELLER                    "	1
 TLB	"TARBELA                    "	764
@@ -7393,7 +7393,7 @@ TMG	"TOMANGGONG                "	749
 TMH	"TANAHMERAH               "	832
 TMI	"TUMLINGTAR                   "	755
 TMJ	"TERMEZ                  "	788
-TMK	"TAM-KY SOC.        "	791
+TMK	"TAM-KY SOC        "	791
 TML	"TAMALE                       "	529
 TMM	"TAMATAVE         "	541
 TMN	"TAMANA             "	824
@@ -7401,7 +7401,7 @@ TMO	"TUMEREMO                 "	388
 TMP	"TAMPERE                    "	425
 TMQ	"TAMBAO                "	593
 TMR	"TAMANRASSET                 "	500
-TMS	"SAO TOME IS. SAO TOME IS.         "	567
+TMS	"SAO TOME IS SAO TOME IS         "	567
 TMT	"TROMBETAS                    "	316
 TMU	"TAMBOR                  "	110
 TMW	"TAMWORTH           "	802
@@ -7514,7 +7514,7 @@ TSK	"TASKUL           "	804
 TSL	"TAMUIN                      "	148
 TSM	"TAOS                  "	86
 TSN	"TIANJIN                      "	713
-TSO	"ISLES OF SCILLY-TRESCO U.K.       "	493
+TSO	"ISLES OF SCILLY-TRESCO UK       "	493
 TSP	"TEHACHAPI             "	91
 TSR	"TIMISOARA                   "	473
 TSS	"NEW YORK              "	22
@@ -7532,7 +7532,7 @@ TTD	"TROUTDALE                "	92
 TTE	"TERNATE                  "	832
 TTG	"TARTAGAL                  "	303
 TTH	"THUMRAIT OMAN                     "	658
-TTI	"TETIAROA IS.         "	823
+TTI	"TETIAROA IS         "	823
 TTJ	"TOTTORI                       "	736
 TTK	"TOTTENHAM HALE STATION  "	493
 TTL	"TURTLE ISLAND                 "	821
@@ -7545,7 +7545,7 @@ TTS	"TSARATANANA      "	541
 TTT	"TAITUNG                     "	781
 TTU	"TETUAN                     "	548
 TUA	"TULCAN                     "	337
-TUB	"TUBUAI IS. AUSTRAL IS. S. PAC. OC"	823
+TUB	"TUBUAI IS AUSTRAL IS S PAC OC"	823
 TUC	"TUCUMAN                   "	303
 TUD	"TAMBACOUNDA                 "	569
 TUE	"TUPILE                  "	162
@@ -7567,7 +7567,7 @@ TUT	"TAUTA            "	804
 TUU	"TABUK                 "	670
 TUV	"TUCUPITA                 "	388
 TUW	"TUBALA                  "	162
-TUX	"TUMBLER RIDGE B.C.         "	148
+TUX	"TUMBLER RIDGE BC         "	148
 TUY	"TULUM                       "	148
 TUZ	"TUPA                         "	316
 TVA	"MORAFENOBE       "	541
@@ -7608,12 +7608,12 @@ TYL	"TALARA                        "	368
 TYM	"STANIEL CAY                "	204
 TYN	"TAIYUAN                      "	713
 TYO	"TOKYO                         "	736
-TYP	"TOBERMOREY N.T.          "	802
+TYP	"TOBERMOREY NT          "	802
 TYR	"TYLER                      "	74
 TYS	"KNOXVILLE             "	54
 TYT	"TREINTA Y TRES              "	385
 TYZ	"TAYLOR                  "	81
-TZA	"   .                    "	106
+TZA	"                       "	106
 TZM	"TIZIMIN                     "	148
 TZN	"SOUTH ANDROS               "	204
 TZX	"TRABZON                      "	679
@@ -7635,7 +7635,7 @@ UBJ	"UBE                           "	736
 UBP	"UBON                      "	782
 UBR	"UBRUB                    "	832
 UBT	"UBATUBA                      "	316
-UBU	"KALUMBURU W.              "	802
+UBU	"KALUMBURU W              "	802
 UCA	"UTICA                  "	22
 UCE	"EUNICE                "	72
 UCK	"LUTSK                       "	488
@@ -7668,8 +7668,8 @@ UGU	"ZUGAPA                   "	832
 UHE	"UHERSKE HRADISTE    "	418
 UHF	"UPPER HEYFORD       "	493
 UIB	"QUIBDO                    "	327
-UIH	"QUINHON SOC.       "	791
-UII	"UTILA IS.                 "	131
+UIH	"QUINHON SOC       "	791
+UII	"UTILA IS                 "	131
 UIK	"UST-ILIMSK                   "	770
 UIL	"QUILLAYUTE            "	93
 UIN	"QUINCY                 "	41
@@ -7693,7 +7693,7 @@ ULC	LOS CERILLOS AIRPORT-SANIAGO CHILE 	324
 ULD	"ULUNDI                 "	562
 ULE	"SULE             "	804
 ULG	"ULGII                      "	751
-ULI	"ULITHI CAROLINE IS. PAC. OCEAN   "	810
+ULI	"ULITHI CAROLINE IS PAC OCEAN   "	810
 ULL	"MULL             "	493
 ULM	"NEW ULM               "	63
 ULN	"ULAN BATOR                 "	751
@@ -7712,7 +7712,7 @@ UMD	"UMANAK                    "	975
 UME	"UMEA                        "	484
 UMI	"QUINCEMIL                     "	368
 UMM	"SUMMIT                    "	1
-UMR	"WOOMERA S.                "	802
+UMR	"WOOMERA S                "	802
 UMT	"UMIAT                     "	1
 UMU	"UMUARAMA                     "	316
 UMY	"SUMY                        "	488
@@ -7720,12 +7720,12 @@ UNC	"UNGUIA                    "	327
 UND	"KUNDUZ                 "	701
 UNE	"QACHA'S NEK LESOTHO               "	536
 UNG	"KIUNGA           "	804
-UNI	"UNION ISLAND WINDWARD IS.         "	279
+UNI	"UNION ISLAND WINDWARD IS         "	279
 UNK	"UNALAKLEET                "	1
 UNN	"RANONG                    "	782
 UNR	"UNDERKHAAN                 "	751
 UNS	"UMNAK                     "	1
-UNT	"UNST. SHETLAND IS. SCOTLAND (U.K."	493
+UNT	"UNST SHETLAND IS SCOTLAND (UK"	493
 UNU	"JUNEAU               "	45
 UOL	"BUOL                     "	832
 UON	"MUONG SAI                     "	744
@@ -7758,17 +7758,17 @@ URZ	"UROOZGAN               "	701
 USH	"USHUAIA                   "	303
 USI	"MABARUMA                     "	350
 USK	"USINSK                       "	475
-USL	"USELESS LOOP W.           "	802
+USL	"USELESS LOOP W           "	802
 USM	"KOH SAMUI                 "	782
 USN	"ULSAN                   "	778
 USO	"USINO            "	804
 USS	"SANCTI SPIRITUS               "	219
-UST	"ST. AUGUSTINE            "	33
+UST	"ST AUGUSTINE            "	33
 USU	"BUSUANGA                "	766
 UTA	"UMTALI ZIMBABWE                   "	565
 UTB	"MUTTABURRA          "	802
 UTC	"UTRECHT                 "	461
-UTD	"NUTWOOD DOWNS N.T.       "	802
+UTD	"NUTWOOD DOWNS NT       "	802
 UTE	"BUTTERWORTH            "	562
 UTG	"QUTHING LESOTHO                   "	536
 UTH	"UDON THANI                "	782
@@ -7791,7 +7791,7 @@ UUS	"YUZHNO-SAKHALINSK            "	770
 UUU	"MANUMU           "	804
 UVA	"UVALDE                     "	74
 UVE	"OUVEA LOYALTY IS    "	840
-UVF	"ST. LUCIA W.I..                   "	276
+UVF	"ST LUCIA WI                   "	276
 UVL	"NEW VALLEY       "	591
 UVO	"UVOL             "	804
 UWA	"WARE             "	13
@@ -7800,7 +7800,7 @@ UXB	"FASSBERG                    "	429
 UXC	"HAWLEY                "	63
 UXD	"CHOWCHILLA            "	91
 UXE	"FAULKTON            "	67
-UXF	"ST. ANTHONY              "	83
+UXF	"ST ANTHONY              "	83
 UXG	"DUTCH JOHN UTAH                "	87
 UXH	"KIEV                        "	488
 UXI	"CALDER BAY                "	1
@@ -7810,7 +7810,7 @@ UXL	"CHARIOT                   "	1
 UXM	"47-MILE MINE              "	1
 UXN	"PRESTONSBURG           "	52
 UXO	"FITCHBURG        "	13
-UXP	"BAY ST. LOUIS       "	53
+UXP	"BAY ST LOUIS       "	53
 UXQ	"GILZE-RIJEN             "	461
 UXR	"MONUMENT VALLEY UTAH           "	87
 UXS	"CIMARRON                  "	62
@@ -7851,14 +7851,14 @@ VAZ	"VAL D'ISERE                   "	427
 VBG	"LOMPOC                "	91
 VBV	"VANUABALAVU                   "	821
 VBY	"VISBY                       "	484
-VCA	"CAN THO SOC.       "	791
+VCA	"CAN THO SOC       "	791
 VCB	"VIEW COVE                 "	1
 VCC	"VICTORIA REPUBLIC OF     "	504
-VCD	"VICTORIA R. DOWNS N.T. AUST.     "	802
+VCD	"VICTORIA R DOWNS NT AUST     "	802
 VCE	"VENICE                        "	450
 VCF	"VALCHETA                  "	303
 VCH	"VICHADERO                   "	385
-VCP	"SAO PAULO  .                 "	316
+VCP	"SAO PAULO                   "	316
 VCR	"CARORA                   "	388
 VCT	"VICTORIA                   "	74
 VCV	"VICTORVILLE           "	91
@@ -7903,8 +7903,8 @@ VID	"VIDIN                      "	411
 VIE	"VIENNA                      "	403
 VIG	"EL VIGIA                 "	388
 VIH	"VICHY                   "	64
-VII	"VINH CITY SOC. REP. OF VIET NAM   "	791
-VIJ	"VIRGIN GORDA BRIT. VIRGIN IS.     "	282
+VII	"VINH CITY SOC REP OF VIET NAM   "	791
+VIJ	"VIRGIN GORDA BRIT VIRGIN IS     "	282
 VIL	"DAKHLA                     "	545
 VIN	"VINNICA                     "	488
 VIQ	"VIQUEQUE                 "	832
@@ -7916,7 +7916,7 @@ VIX	"VITORIA ESPIRITO SANTO      "	316
 VJB	"XAI XAI                "	550
 VJI	"ABINGDON               "	38
 VJQ	"VILA JUNQUEIRO         "	550
-VKG	"RACH GIA SOC.      "	791
+VKG	"RACH GIA SOC      "	791
 VKO	"MOSCOW                       "	475
 VKT	"VORKUTA                      "	475
 VKW	"WEST KAVIK                "	1
@@ -7945,7 +7945,7 @@ VND	"VANGAINDRANO     "	541
 VNE	"VANNES                        "	427
 VNG	"VIENGXAY                      "	744
 VNO	"VILNIUS                  "	452
-VNR	"VANROOK Q.                "	802
+VNR	"VANROOK Q                "	802
 VNS	"VARANASI                     "	733
 VNX	"VILANCULOS             "	550
 VNY	"LOS ANGELES           "	91
@@ -7976,13 +7976,13 @@ VSA	"VILLAHERMOSA                "	148
 VSE	"VISEU                     "	469
 VSF	"SPRINGFIELD             "	16
 VSG	"LUGANSK (VOROSHILOVGRAD)    "	488
-VSO	"PHUOC LONG SOC.    "	791
+VSO	"PHUOC LONG SOC    "	791
 VST	"VASTERAS                    "	484
 VTA	"VICTORIA                  "	131
 VTB	"VITEBSK BELARUS                   "	413
 VTE	"VIENTIANE                     "	744
 VTF	"VATULELE                      "	821
-VTG	"VUNG TAU SOC. REP. OF VIET NAM    "	791
+VTG	"VUNG TAU SOC REP OF VIET NAM    "	791
 VTL	"VITTEL                        "	427
 VTN	"VALENTINE               "	65
 VTU	"LAS TUNAS                     "	219
@@ -8022,7 +8022,7 @@ VWX	"HONDO                      "	74
 VWY	"LANDSBERG                   "	429
 VWZ	"GRANITE  MINE        "	1
 VXC	"LICHINGA               "	550
-VXE	"SAO VICENTE CAPE VERDE IS.        "	507
+VXE	"SAO VICENTE CAPE VERDE IS        "	507
 VXO	"VAXJO                       "	484
 VYD	"VRYHEID                "	562
 VYS	"                   "	41
@@ -8050,7 +8050,7 @@ VZV	"CAPE PEIRCE               "	1
 VZW	"CAPE GREIG                "	1
 VZX	"KASBA LAKE NWT             "	931
 VZY	"KATMAI LODGE              "	1
-VZZ	"SOUTH ST. PAUL        "	63
+VZZ	"SOUTH ST PAUL        "	63
 WAA	"WALES                     "	1
 WAB	"WABAG            "	804
 WAC	"WACA                       "	522
@@ -8063,16 +8063,16 @@ WAI	"ANTSOHIHY        "	541
 WAJ	"ALMA                 "	941
 WAK	"ANKAZOABO        "	541
 WAL	"CHINCOTEAGUE           "	86
-WAM	"AMBATONDRAZAKA DEM.REP.  "	541
+WAM	"AMBATONDRAZAKA DEMREP  "	541
 WAN	"WAVERNEY            "	802
 WAO	"WABO             "	804
 WAP	"ALTO PALENA CHILE                 "	324
 WAQ	"ANTSALOVA        "	541
 WAR	"WARIS                    "	832
-WAS	"  D.C.                "	32
+WAS	"  DC                "	32
 WAT	"WATERFORD       "	441
 WAU	"WAUCHOPE           "	802
-WAV	"WAVE HILL N.T.           "	802
+WAV	"WAVE HILL NT           "	802
 WAW	"WARSAW POLAND                     "	467
 WAX	"WARROAD               "	63
 WAZ	"WARWICK             "	802
@@ -8112,7 +8112,7 @@ WEW	"WEE WAA            "	802
 WEX	"WEXFORD         "	517
 WFB	"KETCHIKAN                 "	1
 WFI	"FIANARANTSOA     "	541
-WFK	"MADAWASKA/FT.KENT         "	12
+WFK	"MADAWASKA/FTKENT         "	12
 WGA	"WAGGA-WAGGA        "	802
 WGB	"BAHAWALNAGAR               "	764
 WGC	"WARANGAL                     "	733
@@ -8120,7 +8120,7 @@ WGE	"WALGETT            "	802
 WGN	"WAITANGI               "	851
 WGO	"WINCHESTER             "	38
 WGP	"WAINGAPU                 "	832
-WGT	"WANGARATTA VIC.          "	802
+WGT	"WANGARATTA VIC          "	802
 WGU	"WAGAU            "	804
 WGY	"WAGNY                         "	526
 WHD	"HYDER                     "	1
@@ -8130,59 +8130,59 @@ WHK	"WHAKATANE              "	851
 WHL	"WELSHPOOL VIC            "	802
 WHO	"FRANZ JOSEF GLACIER    "	851
 WHR	"VAIL                    "	82
-WHS	"WHALSAY SHETLAND IS. K"	493
+WHS	"WHALSAY SHETLAND IS K"	493
 WHT	"WHARTON                    "	74
 WHU	"WUHU                 "	713
 WIC	"WICK             "	493
 WID	"WILDENRATH                  "	429
-WIK	"SURFDALE WAIHEKE IS. N. ZEALAND  "	851
-WIL	"NAIROBI .                    "	535
+WIK	"SURFDALE WAIHEKE IS N ZEALAND  "	851
+WIL	"NAIROBI                     "	535
 WIN	"WINTON              "	802
 WIO	"WILCANNIA          "	802
 WIR	"WAIROA                 "	851
-WIT	"WITTENOOM GORGE W.        "	802
+WIT	"WITTENOOM GORGE W        "	802
 WIU	"WITU             "	804
 WJA	"WOJA               "	844
 WJF	"PALMDALE/LANCASTER    "	91
 WJR	"WAJIR                        "	535
 WKA	"WANAKA                 "	851
-WKB	"WARRACKNABEAL VIC.       "	802
+WKB	"WARRACKNABEAL VIC       "	802
 WKI	"HWANGE ZIMBABWE                   "	565
 WKJ	"WAKKANAI                      "	736
 WKK	"ALEKNAGIK                 "	1
 WKL	"WAIKOLOA          "	2
 WKN	"WAKUNAI          "	804
 WKR	"WALKER'S CAY               "	204
-WLA	"WALLAL W.                 "	802
+WLA	"WALLAL W                 "	802
 WLB	"LABOUCHERE BAY            "	1
 WLC	"WALCHA             "	802
 WLD	"WINFIELD                  "	62
 WLG	"WELLINGTON             "	851
 WLH	"WALAHA                      "	885
 WLK	"SELAWIK                   "	1
-WLL	"WOLLOGORANG N.T.         "	802
+WLL	"WOLLOGORANG NT         "	802
 WLM	"WALTHAM          "	13
 WLN	"LITTLE NAUKATI            "	1
-WLO	"WATERLOO N.T.            "	802
+WLO	"WATERLOO NT            "	802
 WLR	"LORING                    "	1
-WLS	"ALLIS IS. WALLIS & FUTUNA IS.     "	890
+WLS	"ALLIS IS WALLIS & FUTUNA IS     "	890
 WLW	"WILLOWS               "	91
 WMA	"MANDRITSARA      "	541
-WMB	"WARRNAMBOOL VIC.         "	802
+WMB	"WARRNAMBOOL VIC         "	802
 WMC	"WINNEMUCCA                "	85
 WMD	"MANDABE          "	541
 WME	"MOUNT KEITH WA           "	802
 WMH	"MOUNTAIN HOME AR          "	71
 WMK	"MEYERS CHUCK              "	1
 WML	"MALAIMBANDY      "	541
-WMN	"MAROANTSETRA   MADAG.     "	541
+WMN	"MAROANTSETRA   MADAG     "	541
 WMO	"WHITE MOUNTAIN            "	1
 WMR	"MANANARA         "	541
 WMV	"MADIROVALO       "	541
 WMX	"WAMENA                   "	832
 WNA	"NAPAKIAK                  "	1
 WNC	"TUXEKAN ISLAND            "	1
-WND	"WINDARRA W.               "	802
+WND	"WINDARRA W               "	802
 WNE	"WORA NA YE                    "	526
 WNN	"WUNNUMMIN LAKE      "	936
 WNP	"NAGA                    "	766
@@ -8194,7 +8194,7 @@ WNZ	"WENZHOU              "	713
 WOA	"WONENARA         "	804
 WOD	"WOOD RIVER                "	1
 WOE	"WOENSDRECHT AB          "	461
-WOG	"WOODGREEN N.T.           "	802
+WOG	"WOODGREEN NT           "	802
 WOI	"WOLOGISSI                   "	537
 WOK	"WONKEN                   "	388
 WOL	"WOLLONGONG         "	802
@@ -8206,7 +8206,7 @@ WPA	"PUERTO AYSEN CHILE                "	324
 WPB	"PORT BERGE       "	541
 WPC	"PINCHER        "	916
 WPK	"WROTHAM PARK        "	802
-WPL	"POWELL LAKE B.C.           "	906
+WPL	"POWELL LAKE BC           "	906
 WPM	"WIPIM            "	804
 WPO	"PAONIA                  "	34
 WPR	"PORVENIR CHILE                    "	324
@@ -8241,10 +8241,10 @@ WRB	"MACON                    "	34
 WRE	"WHANGAREI              "	851
 WRG	"WRANGELL                  "	1
 WRH	"WRENCH               "	1
-WRI	"FT. DIX               "	21
+WRI	"FT DIX               "	21
 WRL	"WORLAND WYOMONG                "	88
 WRO	"WROCLAW POLAND                    "	467
-WRW	"WARRAWAGINE W.            "	802
+WRW	"WARRAWAGINE W            "	802
 WRY	"WESTRAY          "	493
 WSA	"WASUA            "	804
 WSB	"STEAMBOAT BAY             "	1
@@ -8270,13 +8270,13 @@ WTL	"TUNTATULIAK               "	1
 WTO	"WOTHO              "	844
 WTP	"WOITAPE          "	804
 WTR	"WHITERIVER              "	81
-WTS	"TSIROANOMANDIDY DEM.REP. "	541
+WTS	"TSIROANOMANDIDY DEMREP "	541
 WTT	"WANTOAT          "	804
 WTZ	"WHITIANGA              "	851
-WUD	"WUDINNA S.                "	802
+WUD	"WUDINNA S                "	802
 WUG	"WAU              "	804
 WUH	"WUHAN                        "	713
-WUN	"WILUNA W.                 "	802
+WUN	"WILUNA W                 "	802
 WUS	"WUYISHAN             "	713
 WUU	"WAU                          "	583
 WUV	"WUVULU ISLAND    "	804
@@ -8296,13 +8296,13 @@ WWR	"WOODWARD               "	73
 WWT	"NEWTOK                    "	1
 WWY	"WEST WYALONG       "	802
 WXN	"WANXIAN              "	713
-WYA	"WHYALLA S.                "	802
+WYA	"WHYALLA S                "	802
 WYB	"YES BAY                   "	1
 WYE	"YENGEMA  NE              "	571
-WYN	"WYNDHAM W.                "	802
+WYN	"WYNDHAM W                "	802
 WYS	"WEST YELLOWSTONE        "	84
-WYU	HERRERA AIRPORT- SANTO DOM. DOM REP	224
-WZY	"NASSAU .                   "	204
+WYU	HERRERA AIRPORT- SANTO DOM DOM REP	224
+WZY	"NASSAU                    "	204
 XAL	"ALAMOS                      "	148
 XAP	"CHAPECO                      "	316
 XAR	"ARIBINDA              "	593
@@ -8311,8 +8311,8 @@ XAV	"XAVANTINA                    "	316
 XAW	"CAPREOL             "	936
 XAY	"XAYABURY                      "	744
 XAZ	"CAMPBELLTON NB             "	946
-XBB	"BLUBBER BAY B.C.           "	906
-XBE	"BEARSKIN LAKE ONT.         "	936
+XBB	"BLUBBER BAY BC           "	906
+XBE	"BEARSKIN LAKE ONT         "	936
 XBG	"BOGANDE               "	593
 XBJ	"BIRJAND         "	632
 XBL	"BUNO BEDELLE               "	522
@@ -8321,14 +8321,14 @@ XBO	"BOULSA                "	593
 XBR	"BROCKVILLE          "	936
 XBW	"KILLINEQ            "	936
 XCA	"CANARANA                     "	316
-XCC	"COCHRANE ONT.              "	936
-XCH	"CHRISTMAS ISLAND IND. OCEAN       "	812
+XCC	"COCHRANE ONT              "	936
+XCH	"CHRISTMAS ISLAND IND OCEAN       "	812
 XCI	"CHAMBORD             "	941
-XCK	"ST. DIE                       "	427
-XCL	"CLUFF LAKE SASK.           "	921
+XCK	"ST DIE                       "	427
+XCL	"CLUFF LAKE SASK           "	921
 XCM	"CHATHAM             "	936
 XCN	"CORON                   "	766
-XCO	"COLAC VIC.               "	802
+XCO	"COLAC VIC               "	802
 XDB	"LILLE-EUROPE RR               "	427
 XDE	"DIEBOUGOU             "	593
 XDJ	"DJIBO                 "	593
@@ -8385,7 +8385,7 @@ XII	"PRESCOTT            "	936
 XIL	"XILINHOT                     "	713
 XIM	"SAINT-HYACINTHE      "	941
 XIN	"XINGNING                     "	713
-XIO	"ST. MARYS           "	936
+XIO	"ST MARYS           "	936
 XIP	"WOODSTOCK           "	936
 XIQ	"XIQUE XIQUE                  "	316
 XIY	"XI AN-XIANYANG       "	713
@@ -8403,10 +8403,10 @@ XLF	"LEAF BAY             "	941
 XLJ	" STATION       "	941
 XLK	"LEVIS                "	941
 XLM	"SAINT-LAMBERT        "	941
-XLO	"LONG XUYEN SOC.    "	791
+XLO	"LONG XUYEN SOC    "	791
 XLP	"MATAPEDIA            "	941
 XLQ	"GUILDWOOD           "	936
-XLS	"ST. LOUIS                   "	569
+XLS	"ST LOUIS                   "	569
 XLU	"LEO                   "	593
 XLV	"NIAGARA FALLS       "	936
 XLW	"LEMWERDER                   "	429
@@ -8414,19 +8414,19 @@ XLY	"ALDERSHOT           "	936
 XLZ	"TRURO NS                   "	951
 XMA	"MARAMAG                 "	766
 XMB	"M'BAHIAKRO            "	533
-XMC	"MALLACOOTA VIC.          "	802
+XMC	"MALLACOOTA VIC          "	802
 XMD	"MADISON             "	67
 XMG	"MAHENDRANAGAR                "	755
 XMH	"MANIHI               "	823
 XMI	"MASASI                    "	585
-XML	"MINLATON S.               "	802
+XML	"MINLATON S               "	802
 XMN	"XIAMEN                       "	713
 XMP	"MACMILLAN PASS YT          "	911
 XMR	"CAPE CANAVERAL           "	33
 XMS	"MACAS                      "	337
 XMY	"YAM ISLAND          "	802
 XNA	"Fayetteville AK  "	71
-XNG	"QUANG NGAI SOC.    "	791
+XNG	"QUANG NGAI SOC    "	791
 XNN	"XINING                       "	713
 XNR	"AABENRAA                    "	419
 XNS	"ANSAN            "	778
@@ -8446,17 +8446,17 @@ XPR	"PINE RIDGE          "	67
 XPU	"WEST KUPARUK              "	1
 XPX	"POINTE-AUX-TREMBLES  "	941
 XQP	"QUEPOS                  "	110
-XQU	"QUALICUM B.C.              "	906
+XQU	"QUALICUM BC              "	906
 XRA	"GRAASTEN                    "	419
 XRP	"RIVIERE-A-PIERRE     "	941
-XRR	"ROSS RIVER Y.T.            "	911
+XRR	"ROSS RIVER YT            "	911
 XRY	"JEREZ DE LA FRONTERA         "	482
 XSC	"SOUTH CAICOS TURKS & CAICOS BWI  "	281
 XSD	"TONOPAH                   "	85
 XSE	"SEBBA                 "	593
-XSH	"ST. PIERRE DES CORPS          "	427
+XSH	"ST PIERRE DES CORPS          "	427
 XSI	"SOUTH N LAKE      "	926
-XSM	"ST. MARY'S MARYLAND            "	35
+XSM	"ST MARY'S MARYLAND            "	35
 XSO	"SIOCON                  "	766
 XSP	"SINGAPORE-SELETAR        "	776
 XTG	"THARGOMINDAH        "	802
@@ -8465,7 +8465,7 @@ XTO	"TAROOM              "	802
 XTR	"TARA                "	802
 XTY	"STRATHROY           "	936
 XUZ	"XUZHOU               "	713
-XVL	"VINH LONG SOC.     "	791
+XVL	"VINH LONG SOC     "	791
 XVV	"BELLEVILLE          "	936
 XWA	"GRANITE POINT             "	1
 XWB	"COLLINSVILLE MINE         "	1
@@ -8473,9 +8473,9 @@ XWC	"YANTARNI BAY              "	1
 XWD	"EMMEN                   "	486
 XWE	"COPALIS               "	93
 XWF	"JEROME                   "	83
-XWG	"KING KHALID MIL. CITY "	670
+XWG	"KING KHALID MIL CITY "	670
 XWH	"AZTEC                 "	86
-XWI	"ST. IGNATIUS            "	84
+XWI	"ST IGNATIUS            "	84
 XWJ	"DEXTER                    "	12
 XWK	"PORT ORCHARD          "	93
 XWL	"BLACKFOOT                "	83
@@ -8525,41 +8525,41 @@ XZL	"EDMONTON -RR SVC    "	916
 XZP	"PASS (GENERIC)       "	941
 XZR	"RAIL (GENERIC)       "	941
 XZY	"ALZEY                       "	429
-YAA	"ANAHIM LAKE B.C.           "	906
-YAB	"ARCTIC BAY N.W.T.          "	931
+YAA	"ANAHIM LAKE BC           "	906
+YAB	"ARCTIC BAY NWT          "	931
 YAC	"CAT LAKE            "	936
 YAD	"MOOSE LAKE MANITOBA        "	926
 YAF	"ASBESTOS HILL          "	941
-YAG	"FORT   S ONT.          "	936
+YAG	"FORT   S ONT          "	936
 YAH	"LAGRANDE 4           "	941
 YAI	"CHILLAN CHILE                     "	324
 YAJ	"LYALL HARBOUR BC           "	906
 YAK	"YAKUTAT                   "	1
-YAL	"ALERT BAY B.C.             "	906
-YAM	"SAULT STE. MARIE ONT.      "	936
+YAL	"ALERT BAY BC             "	906
+YAM	"SAULT STE MARIE ONT      "	936
 YAN	"YANGAMBI                    "	517
 YAO	"YAOUNDE                  "	504
-YAP	"YAP CAROLINE IS. PAC. OCEAN      "	810
+YAP	"YAP CAROLINE IS PAC OCEAN      "	810
 YAQ	"MAPLE BAY BC               "	906
 YAR	"LAGRANDE 3           "	941
 YAS	"YASAWA                        "	821
-YAT	"ATTAWAPISKAT ONT.          "	936
+YAT	"ATTAWAPISKAT ONT          "	936
 YAV	"MINER'S BAY BC             "	906
 YAX	"ANGLING LAKE        "	936
-YAY	"ST. ANTHONY NFLD.          "	961
-YAZ	"TOFINO B.C.                "	906
+YAY	"ST ANTHONY NFLD          "	961
+YAZ	"TOFINO BC                "	906
 YBA	"BANFF               "	916
-YBB	"PELLY BAY N.W.T.-TOWNSITE  "	931
+YBB	"PELLY BAY NWT-TOWNSITE  "	931
 YBC	"BAIE COMEAU            "	941
 YBD	"NEW WESTMINSTER BC         "	906
-YBE	"URANIUM CITY SASK.         "	921
+YBE	"URANIUM CITY SASK         "	921
 YBF	"BAMFIELD BC                "	906
 YBG	"SAGUENAY               "	941
-YBH	"BULL HARBOUR B.C.          "	906
+YBH	"BULL HARBOUR BC          "	906
 YBI	"BLACK TICKLE NFLD          "	961
 YBJ	"BAIE JOHAN BEETZ       "	941
-YBK	"BAKER LAKE N.W.T.          "	931
-YBL	"CAMPBELL RIVER B.C.        "	906
+YBK	"BAKER LAKE NWT          "	931
+YBL	"CAMPBELL RIVER BC        "	906
 YBM	"BRONSON  BC           "	906
 YBN	"BORDEN              "	936
 YBO	"BOBQUINN LAKE BC           "	906
@@ -8572,193 +8572,193 @@ YBV	"BERENS RIVER           "	926
 YBW	"BEDWELL HARBOR BC          "	906
 YBX	"BLANC SABLON           "	941
 YBY	"BONNYVILLE          "	916
-YBZ	"TORONTO ONT.-DOWNTOWN      "	936
-YCA	"COURTENAY B.C.             "	906
-YCB	"CAMBRIDGE BAY N.W.T.       "	931
-YCC	"CORNWALL ONT.              "	936
-YCD	"NANAIMO B.C.               "	906
-YCF	"CORTES BAY B. C.           "	906
-YCG	"CASTLEGAR B.C.             "	906
-YCH	"CHATHAM N.B.               "	946
-YCI	"CARIBOU ISLAND ONT.        "	936
-YCJ	"CAPE ST. JAMES BC          "	906
-YCK	"COLVILLE LAKE N.W.T.       "	931
-YCL	"CHARLO N.B.                "	946
-YCM	"ST. CATHARINES ONT.        "	936
-YCN	"COCHRANE ONT.              "	936
-YCO	"COPPERMINE N.W.T.          "	931
-YCP	"CO-OP POINT SASK.          "	921
-YCQ	"CHETWYND B.C.              "	906
+YBZ	"TORONTO ONT-DOWNTOWN      "	936
+YCA	"COURTENAY BC             "	906
+YCB	"CAMBRIDGE BAY NWT       "	931
+YCC	"CORNWALL ONT              "	936
+YCD	"NANAIMO BC               "	906
+YCF	"CORTES BAY B C           "	906
+YCG	"CASTLEGAR BC             "	906
+YCH	"CHATHAM NB               "	946
+YCI	"CARIBOU ISLAND ONT        "	936
+YCJ	"CAPE ST JAMES BC          "	906
+YCK	"COLVILLE LAKE NWT       "	931
+YCL	"CHARLO NB                "	946
+YCM	"ST CATHARINES ONT        "	936
+YCN	"COCHRANE ONT              "	936
+YCO	"COPPERMINE NWT          "	931
+YCP	"CO-OP POINT SASK          "	921
+YCQ	"CHETWYND BC              "	906
 YCR	"CROSS LAKE             "	926
-YCS	"CHESTERFIELD INLET N.W.T. CAN.   "	931
+YCS	"CHESTERFIELD INLET NWT CAN   "	931
 YCT	"CORONATION          "	916
-YCU	"CULLATON LAKE N.W.T.       "	931
+YCU	"CULLATON LAKE NWT       "	931
 YCV	"CARTIERVILLE         "	941
-YCW	"CHILLIWACK B.C.            "	906
+YCW	"CHILLIWACK BC            "	906
 YCX	"GAGETOWN NB                "	946
-YCY	"CLYDE RIVER N.W.T.         "	931
-YCZ	"CRESTON B.C.               "	906
-YDA	"DAWSON CITY Y.T.           "	911
-YDB	"BURWASH LANDINGS Y.T.      "	911
-YDC	"DRAYTON VALLEY ALTA.       "	916
+YCY	"CLYDE RIVER NWT         "	931
+YCZ	"CRESTON BC               "	906
+YDA	"DAWSON CITY YT           "	911
+YDB	"BURWASH LANDINGS YT      "	911
+YDC	"DRAYTON VALLEY ALTA       "	916
 YDE	"PARADISE RIVER NFLD        "	961
-YDF	"DEER LAKE NFLD.            "	961
-YDG	"DIGBY N.S.                 "	951
+YDF	"DEER LAKE NFLD            "	961
+YDG	"DIGBY NS                 "	951
 YDH	"DANIELS HARBOUR NFLD       "	961
 YDI	"DAVIS INLET NFLD           "	961
 YDJ	"HATCHET LAKE SASK          "	921
 YDK	"MAIN DUCK ISLAND    "	936
-YDL	"DEASE LAKE B.C.            "	906
+YDL	"DEASE LAKE BC            "	906
 YDN	"DAUPHIN                "	926
 YDO	"DOLBEAU                "	941
 YDP	"NAIN NFLD                  "	961
-YDQ	"DAWSON  B.C.          "	906
-YDR	"BROADVIEW SASK.            "	921
+YDQ	"DAWSON  BC          "	906
+YDR	"BROADVIEW SASK            "	921
 YDS	"DESOLATION SOUND BC        "	906
-YDT	"VANCOUVER B.C.-BOUNDARY    "	906
+YDT	"VANCOUVER BC-BOUNDARY    "	906
 YDU	"KASBA LAKE NWT             "	931
 YDV	"BLOODVEIN MANITOBA         "	926
 YDW	"OBRE LAKE NWT              "	931
 YDX	"DOC  BC               "	906
 YEA	"EDMONTON            "	916
 YEC	"YECHON           "	778
-YED	"EDMONTON ALTA.-NAMOA FLD.  "	916
-YEG	"EDMONTON ALTA.                    "	916
-YEI	"ENNADAI LAKE N.W.T.        "	931
-YEK	"ESKIMO POINT N.W.T.        "	931
+YED	"EDMONTON ALTA-NAMOA FLD  "	916
+YEG	"EDMONTON ALTA                    "	916
+YEI	"ENNADAI LAKE NWT        "	931
+YEK	"ESKIMO POINT NWT        "	931
 YEL	"ELLIOT LAKE         "	936
 YEM	"MANITOWANING        "	936
-YEN	"ESTEVAN SASK.              "	921
+YEN	"ESTEVAN SASK              "	921
 YEO	"YEOVILTON               "	493
-YEP	"ESTEVAN POINT B.C.         "	906
+YEP	"ESTEVAN POINT BC         "	906
 YEQ	"YENKIS           "	804
 YER	"FORT SEVERN         "	936
 YET	"EDSON                "	916
-YEU	"EUREKA N.W.T.              "	931
-YEV	"INUVIK N.W.T.              "	931
+YEU	"EUREKA NWT              "	931
+YEV	"INUVIK NWT              "	931
 YEY	"AMOS                   "	941
 YFA	"FORT ALBANY         "	936
-YFB	"FROBISHER BAY N.W.T.       "	931
-YFC	"FREDERICTON N.B.           "	946
+YFB	"FROBISHER BAY NWT       "	931
+YFC	"FREDERICTON NB           "	946
 YFE	"FORESTVILLE            "	941
 YFG	"FONTANGES            "	941
 YFH	"FORT HOPE           "	936
 YFL	"FORT RELIANCE NWT          "	931
 YFO	"FLIN FLON              "	926
-YFR	"FT. RESOLUTION N.W.T.      "	931
-YFS	"FT. SIMPSON N.W.T.         "	931
-YFV	"FT. VERMILLION ALTA.       "	916
+YFR	"FT RESOLUTION NWT      "	931
+YFS	"FT SIMPSON NWT         "	931
+YFV	"FT VERMILLION ALTA       "	916
 YFX	"FOX HARBOUR NFLD           "	961
 YGA	"GAGNON               "	941
-YGB	"GILLIES BAY B.C.           "	906
+YGB	"GILLIES BAY BC           "	906
 YGC	"GRANDE CACHE        "	916
 YGE	"GORGE HARBOR BC            "	906
 YGG	"GANGES HARBOR BC           "	906
-YGH	"FT. GOOD HOPE N.W.T.       "	931
+YGH	"FT GOOD HOPE NWT       "	931
 YGJ	"YONAGO                        "	736
-YGK	"KINGSTON ONT.              "	936
+YGK	"KINGSTON ONT              "	936
 YGL	"LA GRANDE            "	941
 YGM	"GIMLI MANITOBA             "	926
 YGN	"GREENWAY SOUND BC          "	906
 YGO	"GODS NARROWS           "	926
 YGP	"GASPE                  "	941
-YGQ	"GERALDTON ONT.             "	936
+YGQ	"GERALDTON ONT             "	936
 YGR	"ILES DE MADELEINE      "	941
 YGS	"GERMANSEN BC               "	906
-YGT	"IGLOOLIK N.W.T.            "	931
-YGV	"HAVRE ST. PIERRE       "	941
+YGT	"IGLOOLIK NWT            "	931
+YGV	"HAVRE ST PIERRE       "	941
 YGW	"GREAT WHALE            "	941
 YGX	"GILLAM                 "	926
 YGY	"DECEPTION BAY          "	941
-YGZ	"GRISE FIORD N.W.T.         "	931
+YGZ	"GRISE FIORD NWT         "	931
 YHA	"PORT HOPE SIMPSON NFLD     "	961
-YHB	"HUDSON BAY SASK.           "	921
+YHB	"HUDSON BAY SASK           "	921
 YHC	"HAKAI PASS BC              "	906
-YHD	"DRYDEN ONT.                "	936
-YHE	"HOPE B.C.                  "	906
+YHD	"DRYDEN ONT                "	936
+YHE	"HOPE BC                  "	906
 YHF	"HEARST              "	936
 YHG	"CHARLOTTETOWN NFLD         "	961
 YHH	"CAMPBELL RIVER BC-HARBOR   "	906
-YHI	"HOLMAN ISLAND N.W.T.       "	931
-YHK	"GJOA HAVEN N.W.T.          "	931
-YHM	"HAMILTON ONT.              "	936
+YHI	"HOLMAN ISLAND NWT       "	931
+YHK	"GJOA HAVEN NWT          "	931
+YHM	"HAMILTON ONT              "	936
 YHN	"HORNEPAYNE          "	936
 YHO	"HOPEDALE NFLD              "	961
 YHP	"POPLAR HILL         "	936
-YHR	"HARRINGTON HARBOUR  CAN.     "	941
-YHS	"SECHELT B.C.               "	906
-YHT	"HAINES JUNCTION Y.T.       "	911
-YHU	"MONTREAL -ST. HUBERT   "	941
-YHY	"HAY RIVER N.W.T.           "	931
-YHZ	"HALIFAX N.S.               "	951
-YIB	"ATIKOKAN ONT.              "	936
+YHR	"HARRINGTON HARBOUR  CAN     "	941
+YHS	"SECHELT BC               "	906
+YHT	"HAINES JUNCTION YT       "	911
+YHU	"MONTREAL -ST HUBERT   "	941
+YHY	"HAY RIVER NWT           "	931
+YHZ	"HALIFAX NS               "	951
+YIB	"ATIKOKAN ONT              "	936
 YIC	"ISACHSEN NWT               "	931
-YIF	"ST. AUGUSTIN           "	941
+YIF	"ST AUGUSTIN           "	941
 YIG	"BIG BAY MARINA BC          "	906
 YIH	"YICHANG                      "	713
 YIK	"IVUGIVIK             "	941
 YIN	"YINING                       "	713
-YIO	"POND INLET N.W.T.          "	931
+YIO	"POND INLET NWT          "	931
 YIP	"DETROIT                "	43
 YIV	"ISLAND LAKE            "	926
 YIW	"YIWU                 "	713
 YIX	"PORT RADIUM NWT            "	931
 YJA	"JASPER              "	916
-YJF	"FORT LIARD N.W.T.          "	931
-YJN	"ST. JEAN             "	941
+YJF	"FORT LIARD NWT          "	931
+YJN	"ST JEAN             "	941
 YJO	"JOHNNY MOUNTAIN BC         "	906
 YJP	"JASPER-HINTON        "	916
-YJT	"STEPHENVILLE NFLD.         "	961
-YKA	"KAMLOOPS B.C.              "	906
+YJT	"STEPHENVILLE NFLD         "	961
+YKA	"KAMLOOPS BC              "	906
 YKB	"KANGIQSUALUJJUAQ     "	941
-YKC	"COLLINS BAY SASK.          "	921
+YKC	"COLLINS BAY SASK          "	921
 YKD	"KINCARDINE          "	936
 YKE	"KNEE LAKE MANITOBA         "	926
-YKF	"KITCHENER ONT.             "	936
+YKF	"KITCHENER ONT             "	936
 YKG	"KANGIRSUK            "	941
-YKJ	"KEY LAKE SASK.             "	921
+YKJ	"KEY LAKE SASK             "	921
 YKK	"KITKATLA BC                "	906
 YKL	"SCHEFFERVILLE          "	941
 YKM	"YAKIMA                "	93
 YKN	"YANKTON             "	67
 YKQ	"RUPERT HOUSE           "	941
 YKS	"KAYES      "	515
-YKT	"KLEMTU B.C.                "	906
+YKT	"KLEMTU BC                "	906
 YKU	"FORT GEORGE          "	941
-YKX	"KIRKLAND LAKE ONT.         "	936
+YKX	"KIRKLAND LAKE ONT         "	936
 YKY	"KINDERSLEY SASK            "	921
-YKZ	"TORONTO ONT. CAN.-BUTTONVILLE ARP"	936
+YKZ	"TORONTO ONT CAN-BUTTONVILLE ARP"	936
 YLA	"LANGARA BC                 "	906
 YLB	"LAC BICHE           "	916
-YLC	"LAKE HARBOUR N.W.T.        "	931
+YLC	"LAKE HARBOUR NWT        "	931
 YLD	"CHAPLEAU            "	936
 YLE	"LAC LA MARTRE NWT          "	931
 YLF	"LAFORGES             "	941
-YLG	"YALGOO W.                 "	802
+YLG	"YALGOO W                 "	802
 YLH	"LANSDOWNE           "	936
 YLI	"YLIVIESKA                  "	425
-YLJ	"MEADOW LAKE SASK.          "	921
+YLJ	"MEADOW LAKE SASK          "	921
 YLL	"LLOYDMINSTER SASKATCHEWAN  "	921
-YLM	"CLINTON  Y.T.         "	911
+YLM	"CLINTON  YT         "	911
 YLN	"YILAN                "	713
 YLP	"MINGAN                 "	941
 YLQ	"LA TUQUE               "	941
 YLR	"LEAF RAPIDS            "	926
 YLS	"LEBEL-SUR-QUEVILLON  "	941
-YLT	"ALERT N.W.T.               "	931
-YLW	"KELOWNA B.C.               "	906
+YLT	"ALERT NWT               "	931
+YLW	"KELOWNA BC               "	906
 YLY	"LYTTON BC                  "	906
-YMA	"MAYO Y.T.                  "	911
-YMB	"MERRITT B.C.               "	906
+YMA	"MAYO YT                  "	911
+YMB	"MERRITT BC               "	906
 YMC	"MARICOURT AIRSTRIP   "	941
 YME	"MATANE                 "	941
 YMF	"MONTAGUE HARBOR BC         "	906
 YMG	"MANITOUWADGE        "	936
 YMH	"MARY'S HARBOUR NFLD        "	961
 YMI	"MINAKI              "	936
-YMJ	"MOOSE JAW SASK.            "	921
+YMJ	"MOOSE JAW SASK            "	921
 YML	"MURRAY BAY             "	941
-YMM	"FT. MCMURRAY ALTA.         "	916
+YMM	"FT MCMURRAY ALTA         "	916
 YMN	"MAKKOVIK NFLD              "	961
 YMO	"MOOSONEE            "	936
 YMP	"PORT MCNEIL BC             "	906
@@ -8774,7 +8774,7 @@ YNC	"PAINT HILLS            "	941
 YND	"GATINEAU/HULL          "	941
 YNE	"  HOUSE           "	926
 YNG	"YOUNGSTOWN                  "	44
-YNH	"HUDSON HOPE B.C.           "	906
+YNH	"HUDSON HOPE BC           "	906
 YNI	"NITCHEQUON           "	941
 YNJ	"YANJI                "	713
 YNK	"NOOTKA SOUND BC            "	906
@@ -8785,7 +8785,7 @@ YNR	"ARNES MANITOBA             "	926
 YNS	"NEMISCAU             "	941
 YNT	"YANTAI                       "	713
 YNZ	"YANCHENG             "	713
-YOC	"OLD CROW Y.T.              "	911
+YOC	"OLD CROW YT              "	911
 YOD	"COLD LAKE           "	916
 YOE	"FALHER              "	916
 YOG	"OGOKI               "	936
@@ -8794,215 +8794,215 @@ YOJ	"HIGH LEVEL          "	916
 YOK	"YOKOHAMA                      "	736
 YOL	"YOLA                        "	555
 YOO	"OSHAWA              "	936
-YOP	"RAINBOW LAKE ALTA.         "	916
+YOP	"RAINBOW LAKE ALTA         "	916
 YOS	"OWEN SOUND          "	936
 YOW	"OTTAWA              "	936
-YPA	"PRINCE ALBERT SASK.        "	921
-YPB	"PORT ALBERNI B.C.          "	906
-YPC	"PAULATUK N.W.T.            "	931
-YPD	"PARRY SOUND ONT.           "	936
-YPE	"PEACE RIVER ALTA.          "	916
-YPF	"ESQUIMALT B.C.             "	906
+YPA	"PRINCE ALBERT SASK        "	921
+YPB	"PORT ALBERNI BC          "	906
+YPC	"PAULATUK NWT            "	931
+YPD	"PARRY SOUND ONT           "	936
+YPE	"PEACE RIVER ALTA          "	916
+YPF	"ESQUIMALT BC             "	906
 YPG	"PORTAGE LA PRAIRIE MANITOBA CANAD"	926
 YPH	"PORT HARRISON          "	941
 YPI	"PORT SIMPSON BC            "	906
 YPJ	"AUPALUK                "	941
-YPL	"PICKLE LAKE ONT.           "	936
+YPL	"PICKLE LAKE ONT           "	936
 YPM	"PIKANGIKUM          "	961
 YPN	"PORT MENIER            "	941
 YPO	"PEAWANUCK           "	936
-YPP	"PINE POINT N.W.T.          "	931
-YPQ	"PETERBOROUGH ONT.          "	936
-YPR	"PRINCE RUPERT B.C.         "	906
-YPS	"PORT HAWKESBURY N.S.       "	951
+YPP	"PINE POINT NWT          "	931
+YPQ	"PETERBOROUGH ONT          "	936
+YPR	"PRINCE RUPERT BC         "	906
+YPS	"PORT HAWKESBURY NS       "	951
 YPT	"PENDER HARBOR BC           "	906
 YPV	"PEAWANUK            "	936
-YPW	"POWELL RIVER B.C.          "	906
+YPW	"POWELL RIVER BC          "	906
 YPX	"POVUNGNITUK          "	941
-YPY	"FT. CHIPEWYAN ALTA.        "	916
-YPZ	"BURNS LAKE B.C.            "	906
-YQA	"MUSKOKA ONT.               "	936
+YPY	"FT CHIPEWYAN ALTA        "	916
+YPZ	"BURNS LAKE BC            "	906
+YQA	"MUSKOKA ONT               "	936
 YQB	"                 "	941
 YQC	"QUAQTAQ              "	941
 YQD	"THE PAS                "	926
 YQE	"KIMBERLEY BC               "	906
-YQF	"RED DEER ALTA.             "	916
-YQG	"WINDSOR ONT.               "	936
-YQH	"WATSON LAKE Y.T.           "	911
-YQI	"YARMOUTH N.S.              "	951
-YQK	"KENORA ONT.                "	936
-YQL	"LETHBRIDGE ALTA.           "	916
-YQM	"MONCTON N.B.               "	946
+YQF	"RED DEER ALTA             "	916
+YQG	"WINDSOR ONT               "	936
+YQH	"WATSON LAKE YT           "	911
+YQI	"YARMOUTH NS              "	951
+YQK	"KENORA ONT                "	936
+YQL	"LETHBRIDGE ALTA           "	916
+YQM	"MONCTON NB               "	946
 YQN	"NAKINA              "	936
-YQQ	"COMOX B.C.                 "	906
-YQR	"REGINA SASK.               "	921
-YQS	"ST. THOMAS          "	936
-YQT	"THUNDER BAY ONT.           "	936
+YQQ	"COMOX BC                 "	906
+YQR	"REGINA SASK               "	921
+YQS	"ST THOMAS          "	936
+YQT	"THUNDER BAY ONT           "	936
 YQU	"GRANDE PRAIRIE      "	916
-YQV	"YORKTON SASK.              "	921
-YQW	"NORTH BATTLEFORD SASK.     "	921
-YQX	"GANDER NFLD.               "	961
-YQY	"SYDNEY N.S.                "	951
-YQZ	"QUESNEL B.C.               "	906
+YQV	"YORKTON SASK              "	921
+YQW	"NORTH BATTLEFORD SASK     "	921
+YQX	"GANDER NFLD               "	961
+YQY	"SYDNEY NS                "	951
+YQZ	"QUESNEL BC               "	906
 YRA	"RAE LAKES NWT              "	931
-YRB	"RESOLUTE N.W.T.            "	931
-YRD	"DEAN RIVER B.C.            "	916
+YRB	"RESOLUTE NWT            "	931
+YRD	"DEAN RIVER BC            "	916
 YRE	"RESOLUTION ISLAND NWT      "	931
 YRF	"CARTWRIGHT NFLD            "	961
 YRG	"RIGOLET NFLD               "	961
 YRI	"RIVIERE DU LOUP        "	941
 YRJ	"ROBERVAL               "	941
-YRL	"RED LAKE ONT.              "	936
-YRM	"ROCKY MOUNTAIN HOUSE ALTA. "	916
+YRL	"RED LAKE ONT              "	936
+YRM	"ROCKY MOUNTAIN HOUSE ALTA "	916
 YRN	"RIVERS INLET BC            "	906
 YRQ	"THREE RIVERS           "	941
 YRR	"STUART ISLAND BC           "	906
 YRS	"RED SUCKER LAKE        "	926
-YRT	"RANKIN INLET N.W.T.        "	931
+YRT	"RANKIN INLET NWT        "	931
 YRV	"REVELSTOKE BC              "	906
 YSA	"SABLE ISLAND NOVA SCOTIA   "	951
-YSB	"SUDBURY ONT.               "	936
+YSB	"SUDBURY ONT               "	936
 YSC	"SHERBROOKE             "	941
 YSD	"SUFFIELD            "	916
 YSE	"SWAN RIVER MANITOBA        "	926
-YSF	"STONEY RAPIDS SASK.        "	921
+YSF	"STONEY RAPIDS SASK        "	921
 YSG	"SNOWDRIFT NWT              "	931
 YSH	"SMITH FALLS         "	936
-YSI	"SANS SOUCI ONT.            "	936
-YSJ	"SAINT JOHN N.B.            "	946
-YSK	"SANIKILUAQ N.W.T.          "	931
-YSL	"ST. LEONARD N.B.           "	946
-YSM	"FT. SMITH N.W.T.           "	931
-YSN	"SALMON ARM B.C.            "	906
+YSI	"SANS SOUCI ONT            "	936
+YSJ	"SAINT JOHN NB            "	946
+YSK	"SANIKILUAQ NWT          "	931
+YSL	"ST LEONARD NB           "	946
+YSM	"FT SMITH NWT           "	931
+YSN	"SALMON ARM BC            "	906
 YSO	"POSTVILLE NFLD             "	961
 YSP	"MARATHON            "	936
 YSR	"NANISIVIK                   "	931
-YST	"ST. THERESE PT.        "	926
-YSU	"SUMMERSIDE P.E.I.          "	956
-YSV	"SAGLEK NFLD.               "	961
+YST	"ST THERESE PT        "	926
+YSU	"SUMMERSIDE PEI          "	956
+YSV	"SAGLEK NFLD               "	961
 YSX	"SHEARWATER BC              "	906
-YSY	"SACHS HARBOUR N.W.T.       "	931
+YSY	"SACHS HARBOUR NWT       "	931
 YSZ	"SQUIRREL COVE BC           "	906
-YTA	"PEMBROKE ONT.              "	936
-YTB	"HARTLEY BAY B.C.           "	906
+YTA	"PEMBROKE ONT              "	936
+YTB	"HARTLEY BAY BC           "	906
 YTC	"STURDEE BC                 "	906
 YTD	"THICKET PORTAGE MANITOBA   "	926
-YTE	"CAPE DORSET N.W.T.         "	931
+YTE	"CAPE DORSET NWT         "	931
 YTF	"ALMA                 "	941
 YTG	"SULLIVAN BAY BC            "	906
 YTH	"THOMPSON               "	926
-YTJ	"TERRACE BAY ONT.           "	936
+YTJ	"TERRACE BAY ONT           "	936
 YTK	"TULUGAK              "	941
-YTL	"BIG TROUT LAKE ONT.        "	936
-YTN	"RIVIERE AU TONNERRE  CAN.    "	941
+YTL	"BIG TROUT LAKE ONT        "	936
+YTN	"RIVIERE AU TONNERRE  CAN    "	941
 YTO	"TORONTO             "	936
 YTP	"TOFINO BC-SPB              "	906
 YTQ	"TASIUJUAQ            "	941
-YTR	"TRENTON ONT.               "	936
-YTS	"TIMMINS ONT.               "	936
+YTR	"TRENTON ONT               "	936
+YTS	"TIMMINS ONT               "	936
 YTT	"TISDALE SASK               "	921
 YTX	"TELEGRAPH  BC         "	906
-YTZ	"TORONTOONT.CAN.                  "	936
+YTZ	"TORONTOONTCAN                  "	936
 YUA	"YUANMOU              "	713
-YUB	"TUKTOYAKTUK N.W.T.         "	931
+YUB	"TUKTOYAKTUK NWT         "	931
 YUD	"UMIUJAQ              "	941
-YUE	"YUENDUMU N.T.            "	802
-YUF	"PELLY BAY N.W.T.           "	931
+YUE	"YUENDUMU NT            "	802
+YUF	"PELLY BAY NWT           "	931
 YUJ	"LADY FRANKLIN NWT          "	931
 YUL	"MONTREAL             "	941
 YUM	"YUMA                    "	81
 YUN	"JOHNSON POINT NWT          "	931
-YUT	"REPULSE BAY N.T.           "	931
-YUX	"HALL BEACH N.W.T.          "	931
+YUT	"REPULSE BAY NT           "	931
+YUX	"HALL BEACH NWT          "	931
 YUY	"ROUYN - NORANDA        "	941
-YVA	"MORONI COMORO IS.                 "	513
+YVA	"MORONI COMORO IS                 "	513
 YVB	"BONAVENTURE            "	941
-YVC	"LAC LA RONGE SASK.         "	921
+YVC	"LAC LA RONGE SASK         "	921
 YVD	"YEVA             "	804
-YVE	"VERNON B.C.                "	906
+YVE	"VERNON BC                "	906
 YVG	"VERMILION           "	916
-YVM	"BROUGHTON N.W.T.           "	931
-YVN	"CAPE DYER N.W.T.           "	931
+YVM	"BROUGHTON NWT           "	931
+YVN	"CAPE DYER NWT           "	931
 YVO	"VAL D'OR               "	941
-YVP	"FT. CHIMO              "	941
-YVQ	"NORMAN WELLS N.W.T.        "	931
-YVR	"VANCOUVER B.C.             "	906
-YVT	"BUFFALO NARROWS SASK.      "	921
+YVP	"FT CHIMO              "	941
+YVQ	"NORMAN WELLS NWT        "	931
+YVR	"VANCOUVER BC             "	906
+YVT	"BUFFALO NARROWS SASK      "	921
 YVV	"WIARTON             "	936
 YVZ	"DEER LAKE           "	936
 YWA	"PETAWAWA            "	936
 YWB	"KANGIQSUJUAQ         "	941
-YWF	"HALIFAX N.S.-WATERFRONT    "	951
+YWF	"HALIFAX NS-WATERFRONT    "	951
 YWG	"WINNIPEG               "	926
-YWH	"VICTORIA BC CAN.                  "	906
-YWJ	"FORT FRANKLIN N.W.T.       "	931
-YWK	"WABUSH NFLD.               "	961
-YWL	"WILLIAMS LAKE B.C.         "	906
+YWH	"VICTORIA BC CAN                  "	906
+YWJ	"FORT FRANKLIN NWT       "	931
+YWK	"WABUSH NFLD               "	961
+YWL	"WILLIAMS LAKE BC         "	906
 YWM	"WILLIAMS HARBOUR NFLD      "	961
 YWN	"WINISK              "	936
 YWP	"WEBEQUIE            "	936
 YWR	"WHITE RIVER         "	936
 YWS	"WHISTLER BC                "	906
-YWY	"WRIGLEY N.W.T.             "	931
-YXC	"CRANBROOK B.C.             "	906
-YXD	"EDMONTON ALTA.             "	916
-YXE	"SASKATOON SASK.            "	921
+YWY	"WRIGLEY NWT             "	931
+YXC	"CRANBROOK BC             "	906
+YXD	"EDMONTON ALTA             "	916
+YXE	"SASKATOON SASK            "	921
 YXF	"SNAKE RIVER YT             "	911
-YXH	"MEDICINE HAT ALTA.         "	916
+YXH	"MEDICINE HAT ALTA         "	916
 YXI	"KILLALOE            "	936
-YXJ	"FT. ST. JOHN B.C.          "	906
+YXJ	"FT ST JOHN BC          "	906
 YXK	"RIMOUSKI               "	941
-YXL	"SIOUX LOOKOUT ONT.         "	936
-YXN	"WHALE COVE N.W.T.          "	931
-YXP	"PANGNIRTUNG N.W.T.         "	931
+YXL	"SIOUX LOOKOUT ONT         "	936
+YXN	"WHALE COVE NWT          "	931
+YXP	"PANGNIRTUNG NWT         "	931
 YXQ	"BEAVER  YT            "	911
-YXR	"EARLTON ONT.               "	936
-YXS	"PRINCE GEORGE B.C.         "	906
-YXT	"TERRACE B.C.               "	906
-YXU	"LONDON ONT.                "	936
-YXX	"ABBOTSFORD B.C.            "	906
-YXY	"WHITEHORSE Y.T.            "	911
+YXR	"EARLTON ONT               "	936
+YXS	"PRINCE GEORGE BC         "	906
+YXT	"TERRACE BC               "	906
+YXU	"LONDON ONT                "	936
+YXX	"ABBOTSFORD BC            "	906
+YXY	"WHITEHORSE YT            "	911
 YXZ	"WAWA                "	936
 YYA	"BIG BAY YACHT CLUB BC      "	906
-YYB	"NORTH BAY ONT.             "	936
-YYC	"CALGARY ALTA.              "	916
-YYD	"SMITHERS B.C.              "	906
-YYE	"FT. NELSON B.C.            "	906
-YYF	"PENTICTON B.C.             "	906
-YYG	"CHARLOTTETOWN P.E.I.       "	956
-YYH	"SPENCE BAY N.W.T.          "	931
+YYB	"NORTH BAY ONT             "	936
+YYC	"CALGARY ALTA              "	916
+YYD	"SMITHERS BC              "	906
+YYE	"FT NELSON BC            "	906
+YYF	"PENTICTON BC             "	906
+YYG	"CHARLOTTETOWN PEI       "	956
+YYH	"SPENCE BAY NWT          "	931
 YYI	"RIVERS MANITOBA            "	926
-YYJ	"VICTORIA B.C.              "	906
+YYJ	"VICTORIA BC              "	906
 YYL	"LYNN LAKE              "	926
 YYM	"COWLEY              "	916
-YYN	"SWIFT CURRENT SASK.        "	921
+YYN	"SWIFT CURRENT SASK        "	921
 YYQ	"CHURCHILL              "	926
-YYR	"GOOSE BAY NFLD.            "	961
-YYT	"ST. JOHNS NFLD.            "	961
-YYU	"KAPUSKASING ONT.           "	936
-YYW	"ARMSTRONG ONT.             "	936
+YYR	"GOOSE BAY NFLD            "	961
+YYT	"ST JOHNS NFLD            "	961
+YYU	"KAPUSKASING ONT           "	936
+YYW	"ARMSTRONG ONT             "	936
 YYY	"MONT JOLI              "	941
 YYZ	"TORONTO             "	936
-YZA	"ASHCROFT B.C.              "	906
-YZC	"BEATTON RIVER B.C.         "	906
+YZA	"ASHCROFT BC              "	906
+YZC	"BEATTON RIVER BC         "	906
 YZE	"GORE BAY            "	936
-YZF	"YELLOWKNIFE N.W.T.         "	931
+YZF	"YELLOWKNIFE NWT         "	931
 YZG	"SUGLUK               "	941
-YZH	"SLAVE LAKE ALTA.           "	916
+YZH	"SLAVE LAKE ALTA           "	916
 YZL	"LIARD RIVER BC             "	906
-YZM	"BUCHANS NFLD.              "	961
-YZP	"SANDSPIT B.C.              "	906
-YZR	"SARNIA ONT.                "	936
-YZS	"CORAL HARBOUR N.W.T.       "	931
-YZT	"PORT HARDY B.C.            "	906
+YZM	"BUCHANS NFLD              "	961
+YZP	"SANDSPIT BC              "	906
+YZR	"SARNIA ONT                "	936
+YZS	"CORAL HARBOUR NWT       "	931
+YZT	"PORT HARDY BC            "	906
 YZU	"WHITECOURT          "	916
 YZV	"SEPT-ILES            "	941
 YZW	"TESLIN YT                  "	911
-YZX	"GREENWOOD N.S.             "	951
-ZAA	"ALICE ARM B.C.             "	906
+YZX	"GREENWOOD NS             "	951
+ZAA	"ALICE ARM BC             "	906
 ZAC	"YORK LANDING MANITOBA      "	926
-ZAD	"ZADAR CROATIA                     "	415
-ZAG	"ZAGREB CROATIA                    "	415
+ZAD	"ZADAR                      "	415
+ZAG	"ZAGREB                     "	415
 ZAH	"ZAHEDAN                        "	632
 ZAJ	"ZARANJ   OF    "	701
 ZAK	"CHI /KLAUSEN                "	450
@@ -9015,7 +9015,7 @@ ZAV	"AVEIRO                    "	469
 ZAW	"NYKOBING MORS               "	419
 ZAZ	"ZARAGOZA                     "	482
 ZBE	"ZABREH              "	418
-ZBF	"BATHURST N.B.              "	946
+ZBF	"BATHURST NB              "	946
 ZBJ	"SKIVE                       "	419
 ZBK	"ZABLJAK MONTENEGRO                "	459
 ZBL	"BILOELA             "	802
@@ -9041,21 +9041,21 @@ ZDN	"BRNO-BUS STN        "	418
 ZDY	"GAZA GAZA STRIP            "	639
 ZEC	"SECUNDA                "	562
 ZEG	"SENGGO                   "	832
-ZEL	"BELLA BELLA B.C.           "	906
+ZEL	"BELLA BELLA BC           "	906
 ZEM	"EAST MAIN            "	941
 ZEN	"ZENAG            "	804
 ZER	"ZERO                         "	733
-ZFA	"FARO Y.T.                  "	911
+ZFA	"FARO YT                  "	911
 ZFB	"OLD FORT BAY           "	941
 ZFD	"FOND DU LAC SASK           "	921
 ZFL	"SOUTH TROUT LAKE    "	936
-ZFM	"FT. MCPHERSON N.W.T.       "	931
-ZFN	"FT. NORMAN N.W.T.          "	931
-ZFT	"FT. LAUDERDALE           "	33
+ZFM	"FT MCPHERSON NWT       "	931
+ZFN	"FT NORMAN NWT          "	931
+ZFT	"FT LAUDERDALE           "	33
 ZFV	"FORT SEVERN         "	936
 ZFW	"FAIRVIEW            "	916
 ZGC	"LANZHOU-ZHONGCHUAN   "	713
-ZGF	"GRAND FORKS B.C.           "	906
+ZGF	"GRAND FORKS BC           "	906
 ZGI	"GODS RIVER             "	926
 ZGJ	"BRUGGE                     "	409
 ZGK	"LEUVEN                     "	409
@@ -9082,9 +9082,9 @@ ZJN	"SWAN RIVER MANITOBA        "	926
 ZJO	"SAN JOSE  -BUS STN    "	91
 ZJQ	"MORGES                  "	486
 ZKB	"KASABA BAY                  "	597
-ZKE	"KASHECHEWAN ONT.           "	936
+ZKE	"KASHECHEWAN ONT           "	936
 ZKG	"KEGASKA                "	941
-ZKH	"ST. MORITZ OLP          "	486
+ZKH	"ST MORITZ OLP          "	486
 ZKK	"SCHWYZ                  "	486
 ZKL	"STEENKOOL                "	832
 ZKM	"SETTE CAMA                    "	526
@@ -9097,23 +9097,23 @@ ZLT	"LA TABATIERE           "	941
 ZMB	"HAMBURG HBF                 "	429
 ZMD	"SENA MADUREIRA               "	316
 ZME	"PATERSON NJ/METRO PARK NY     "	21
-ZMH	"108 MILE HOUSE B.C.        "	906
+ZMH	"108 MILE HOUSE BC        "	906
 ZMI	"NAPLES-MERGLNA RR             "	450
 ZML	"MILWAUKEE            "	45
 ZMM	"ZAMORA                      "	148
 ZMR	"MERAN                         "	450
 ZMS	"FLORENCE-NOVELLA RR           "	450
-ZMT	"MASSET B.C.                "	906
+ZMT	"MASSET BC                "	906
 ZMU	"MUNICH HBF                  "	429
-ZNA	"NANAIMO B.C..                     "	906
+ZNA	"NANAIMO BC                     "	906
 ZNC	"NYAC                      "	1
 ZND	"ZINDER NIGER                      "	554
-ZNE	"NEWMAN W.                 "	802
+ZNE	"NEWMAN W                 "	802
 ZNG	"NEGGINAN               "	951
 ZNQ	"INGOLSTADT                  "	429
-ZNU	"NAMU B.C.                  "	906
+ZNU	"NAMU BC                  "	906
 ZNZ	"ZANZIBAR                  "	585
-ZOF	"OCEAN FALLS B.C.           "	906
+ZOF	"OCEAN FALLS BC           "	906
 ZOM	"ZOMBA MALAWI                      "	542
 ZOS	"OSORNO CHILE                      "	324
 ZP1	"LOS ANGELES CA-LONG BEACH      "	91
@@ -9123,11 +9123,11 @@ ZP6	"LOS ANGELES CA-PALMDALE        "	91
 ZP7	"MULHOUSE/BASEL-BSL ARPT       "	427
 ZP8	"BASEL/MULHOUSE-MLH ARPT SWITZERLAN"	486
 ZPA	"JOHNSTOWN  -RR      "	23
-ZPB	"SACHIGO LAKE ONT.          "	936
+ZPB	"SACHIGO LAKE ONT          "	936
 ZPC	"PUCON CHILE                       "	324
 ZPH	"ZEPHYRHILLS              "	33
 ZPL	"PITTSBURGH  -RR     "	23
-ZPO	"PINE HOUSE SASK.           "	921
+ZPO	"PINE HOUSE SASK           "	921
 ZQN	"QUEENSTOWN             "	851
 ZQS	"QUEEN CHARLOTTE IS BC      "	906
 ZRA	"ATLANTIC CITY         "	21
@@ -9142,18 +9142,18 @@ ZRJ	"ROUND LAKE          "	936
 ZRL	"ALBANY                 "	22
 ZRM	"SARMI                    "	832
 ZRP	"NEWARK                "	22
-ZRR	"ARCTIC RED RIVER N.W.T.    "	931
+ZRR	"ARCTIC RED RIVER NWT    "	931
 ZSA	"SAN SALVADOR               "	204
 ZSE	"SAINT-PIERRE DE LA REUNION "	563
 ZSF	"SPRINGFIELD             "	64
 ZSH	"SANTA FE              "	86
 ZSJ	"SANDY LAKE          "	936
 ZSM	"SANTA CLARA           "	91
-ZSP	"ST.PAUL                "	941
+ZSP	"STPAUL                "	941
 ZSS	"SASSANDRA              "	533
-ZST	"STEWART B.C.               "	906
-ZSV	"ST. LOUIS               "	64
-ZSW	"PRINCE RUPERT B.C..               "	906
+ZST	"STEWART BC               "	906
+ZSV	"ST LOUIS               "	64
+ZSW	"PRINCE RUPERT BC               "	906
 ZSZ	"SPIEZ                   "	486
 ZTA	"TUREIA            "	823
 ZTB	"TETE A LA BALEINE      "	941
@@ -9162,19 +9162,19 @@ ZTJ	"INTERLAKEN WEST         "	486
 ZTL	"TELLURIDE               "	82
 ZTM	"SHAMATTAWA MANITOBA        "	926
 ZTR	"ZHITOMIR                    "	488
-ZTS	"TAHSIS B.C.                "	906
+ZTS	"TAHSIS BC                "	906
 ZTY	"PHILADELPHIA        "	23
 ZUA	"MIAMI  -RR               "	33
 ZUC	"IGNACE              "	936
 ZUD	"ANCUD CHILE                       "	324
 ZUE	"ZUENOULA            "	533
 ZUF	"GRAND RAPIDS -RR       "	43
-ZUG	"GR/H.PT/WIN SAL NC-RR          "	36
+ZUG	"GR/HPT/WIN SAL NC-RR          "	36
 ZUH	"ZHUHAI               "	713
 ZUJ	"JACKSONVILLE  -RR        "	33
 ZUK	"SAVANNAH  -RR            "	34
 ZUL	"ZILFI                 "	670
-ZUM	"CHURCHILL FALLS NFLD.      "	961
+ZUM	"CHURCHILL FALLS NFLD      "	961
 ZUN	"CHICAGO                "	41
 ZUP	"HARRISBURG PA-RR               "	23
 ZUR	"RALEIGH/DURHAM NC-RR           "	36
@@ -9183,12 +9183,12 @@ ZUT	"DETROIT -RR            "	43
 ZUW	"LOS ANGELES CA-UNION RR        "	91
 ZUX	"OXNARD CA-RR                   "	91
 ZVA	"MIANDRIVAZO      "	541
-ZVG	"SPRINGVALE W.             "	802
+ZVG	"SPRINGVALE W             "	802
 ZVK	"SAVANNAKHET                   "	744
 ZVR	"HANOVER HBF                 "	429
 ZWA	"ANDAPA           "	541
 ZWI	"PHILADELPHIA PA/WILMINGTON DE "	23
-ZWL	"WOLLASTON LAKE SASK.       "	921
+ZWL	"WOLLASTON LAKE SASK       "	921
 ZWP	"WEST PALM BEACH          "	33
 ZWS	"STUTTGART-MAIN              "	429
 ZWU	"  DC                  "	32
